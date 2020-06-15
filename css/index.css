@@ -1,0 +1,72 @@
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+#logo {
+    margin-left: 10px;
+}
+
+#logo_main {
+    pointer-events: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
+
+#presentation {
+    margin: 0 auto;
+    margin-top: 50px; 
+    text-align: center;
+}
+
+.sub-text {
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#reg_form {
+    margin-bottom: 40px;
+}
+
+#reg_response {
+    text-align: center;
+    font-size: 2em;
+}
+
+#login_response {
+    text-align: center;
+    font-size: 2em;
+}
+
+.div {
+    text-align: center;
+    pointer-events: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+
+#init {
+    font-size: 2em;
+    margin-bottom: 50px;
+}
+
+#social {
+    margin-bottom: 25px;
+}
+
+#about {
+    font-size: 1.6em;
+}
+
+.tex-c {
+    font-size: 2.5em;
+}
