@@ -3,9 +3,9 @@ function onDOMReady() {
     scrollToElement(location.hash);
   };
   window.timeStop = 0;
-  toggleBackToTop();
-  onscroll(document, toggleBackToTop);
-  onscroll(document, scrollSectionObserver);
+  //toggleBackToTop();
+  //onscroll(document, toggleBackToTop);
+  //onscroll(document, scrollSectionObserver);
   on("click", ".mobile-nav-toggle", mobileNavToggle);
   on("click", `[data-section-route-id]`, event => {
     window.timeStop = Date.now() + 1000;

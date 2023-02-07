@@ -123,6 +123,4 @@ Index.prototype.register = function () {
     });
 };
 
-$(document).ready(function () {
-    new Index();
-});
+$(document).ready(new Index);
