@@ -1,4 +1,5 @@
 function onDOMReady() {
+  typeof(detectCountry) !== "undefined" && detectCountry();
   if (location.hash && document.querySelector(location.hash)) {
     scrollToElement(location.hash);
   };
