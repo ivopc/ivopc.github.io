@@ -18,7 +18,7 @@ async function detectCountry () {
         };
     } catch (err) {
       Swal.fire({
-        title: `I can't detect your language, but you can change it on country flags!`,
+        title: `I can't detect your language, but you can change the website language on navbar country flags!`,
         showConfirmButton: false,
         timer: 3000
       });
