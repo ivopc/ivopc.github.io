@@ -17,6 +17,10 @@ async function detectCountry () {
               };
         };
     } catch (err) {
-
+      Swal.fire({
+        title: `I can't detect your language, but you can change it on country flags!`,
+        showConfirmButton: false,
+        timer: 3000
+      });
     }; 
 };
