@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CV Using HTML & CSS</title>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <style>
+* {margin: 0;padding: 0;}
+
+body{font-family: 'Montserrat', sans-serif;}
+
+a {
+    list-style: none;
+    color: white;
+}
+
+#page {
+    min-height: 200px;
+    width: 60%;
+    min-width: 600px;
+    background: whitesmoke;
+    margin: 50px auto;
+    padding: 30px;
+    color: #27aae1;
+}
+
+.photo-and-name {
+    /* NO STYLE NEEDED YET */
+}
+
+.photo {
+    width: 15%;
+    min-width: 130px;
+    float: left;
+    margin-right: 20px;
+    margin-top: 50px;
+}
+
+.contact-info-box {
+    width: 70.9%;
+    display: inline-block;
+}
+
+.name {
+    margin-bottom: -5px;
+}
+.job-title {
+    display: inline-block;
+}
+
+.contact-details {
+    background: #27aae1;
+    color: white;
+    text-align: center;
+    margin: auto;
+    margin-top: 25px;
+    padding: 5px;
+    font-size: 15px;
+}
+
+#objective {
+    
+}
+
+#objective h3 {
+    border: 1px solid #d3d3d3;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 30px 0 10px;
+}
+
+#objective p {
+    padding: 0 5px;
+    line-height: 25px;
+    font-size: 14px;
+    color: #000;
+}
+
+#education h3 {
+    border: 1px solid #d3d3d3;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 30px 0 10px;
+}
+
+#education table td {
+    padding: 5px;
+    font-size: 14px;
+    color: #000;
+}
+
+#education table tr.school-1 td:first-child {
+    width: 120px;
+    color: gray;
+    padding-bottom: 25px;
+}
+
+#education table tr.school-2 td:first-child {
+    padding-bottom: 25px;
+}
+
+#work h3 {
+    border: 1px solid #d3d3d3;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 30px 0 10px;
+}
+
+#work table td {
+    padding: 5px;
+    font-size: 14px;
+    color: #000;
+}
+
+#work table tr.work-1 td:first-child {
+    width: 120px;
+    color: gray;
+    padding-bottom: 25px;
+}
+
+#work table tr.work-1 td {
+    padding-bottom: 25px;
+}
+
+#work table tr.work-2 td:first-child {
+    width: 120px;
+    color: gray;
+}
+
+#bio-data h3 {
+    border: 1px solid #d3d3d3;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 30px 0 10px;
+}
+
+#bio-data table td {
+    padding: 8px;
+    font-size: 15px;
+    color: #000;
+}
+
+#bio-data table tr td:first-child {
+    width: 200px;
+}
+
+#bio-data table tr td:nth-child(2) {
+    width: 300px;
+}
+    </style>
+</head>
+<body>
+   
+    <div id="page">
+        <div class="photo-and-name">
+            <img src="profile.png" class="photo" alt="Profile Picture">
+            <div class="contact-info-box">
+                <h1 class="name">Ivo Pires de Camargo</h1>
+                <br>
+                <h3 class="job-title">Desenvolvedor Web e Desenvolvedor de Jogos</h3>
+                <p class="contact-details">
+                    <b>E-mail</b>: ivoopc@gmail.com<br>
+                    <b>WebSite</b>: <a href="https://ivopc.github.io">ivopc.github.io</a><br>
+                    <b>GitHub</b>: <a href="https://github.com/ivopc">github.com/ivopc</a><br>
+                    <b>LinkedIn</b>: <a href="https://linkedin.com/in/ivo-camargo-97a670161/?locale=pt_BR">linkedin.com/in/ivo-camargo-97a670161/?locale=pt_BR</a><br>
+                    <br>
+                    <b>SP - São Paulo, Brasil</b>
+                </p>
+            </div>
+        </div>
+        <div id="objective">
+            <h3>Apresentação</h3>
+            <p>
+                Programador, desenvolvedor web full stack e desenvolvedor de jogos. 
+                Apaixonado por tecnologia e jogos desde criança. 
+                Entusiasta e colaborador da comunidade open source, já desenvolvi um jogo multiplayer online de RPG completo com monstros colecionáveis e 
+                lutas baseadas em turno com tecnologia web. Apaixonado por desafios que me fazem evoluir profissionalmente e adquirir mais conhecimento.
+            </p>
+        </div>
+        <!--
+        <div id="education">
+            <h3>Education</h3>
+            <table>
+                <tr class="school-1">
+                    <td rowspan="2">2002 - 2015</td>
+                    <td><b>School-1</b>: ABC School (Standard KG-VIII)</td>
+                </tr>
+                <tr class="school-2">
+                    <td><b>School-2</b>: XYZ School (Standard IX-X)</td>
+                </tr>
+                
+                <tr class="school-1">
+                    <td rowspan="2">2012 - 2014</td>
+                    <td><b>ACCESS</b>: English Micro Scholarship Program by US Consolate</td>
+                </tr>
+                <tr class="school-2">
+                    <td><b>The Professional's Academy</b>: Web Designing (HTML, CSS, JS, Bootstrap)</td>
+                </tr>
+                
+                <tr>
+                    <td style="width: 120px; color: gray;">2015 - 2017</td>
+                    <td><b>Intermediate</b>: Board of Intermediate Karachi - Private</td>
+                </tr>
+            </table>
+        </div>
+        -->
+        <div id="work">
+            <h3>Principais Experiências</h3>
+            <table>
+                <tr class="work-2">
+                    <td>Abr. 2022 - Fev. 2023</td>
+                    <td><b>Solport.io</b> - <i>(Remoto) - Inglaterra</i>: <i>Desenvolvedor de Jogos NFT e Desenvolvedor Web Full Stack</i> <b>-</b> As an IT Manager and Call Service Representative</td>
+                </tr>
+                <tr class="work-2">
+                    <td>Nov. 2021 - Dez. 2021</td>
+                    <td><b>OniSquad</b> - <i>(Remoto) - Estados Unidos</i>: <i>Desenvolvedor de Jogos NFT e Desenvolvedor Web Full Stack</i> <b>-</b> Web-based NFT casual online multiplayer game, Desenvolvedor Full Stack e Desenvolvedor de Jogos.JavaScript + Jsdoc no gameclient usando PhaserJS, web3.js e VueJS</td>
+                </tr>
+                <tr class="work-2">
+                    <td>Set. 2020 - Abr. de 2021</td>
+                    <td><b>IGS | Desenvolvimento de Software</b> - <i>(Presencial)</i>: <i>Desenvolvedor de Jogos Jr</i> <b>-</b> Desenvolvimento de jogos web no Front-End com JavaScript e TypeScript, NodeJS, webpack, gulp. PhaserJS é o principal framework, desenvolvendo jogos de videobingo em um framework propretário.</td>
+                </tr>
+            </table>
+            <div style="color: black;">Descrição detalhada de todas minhas experiências: <a style="color: #27aae1;" href="https://www.linkedin.com/in/ivo-camargo-97a670161/details/experience/?locale=pt_BR">linkedin.com/in/ivo-camargo-97a670161/details/experience/?locale=pt_BR</a></div>
+        </div>
+        <div id="bio-data">
+            <h3>Competências</h3>
+            <div style="color: black; line-height: 25px;">
+                <b>Conhecimentos de linguagens de programação</b>: paradigma procedural, imperativo, orientado a objeto, funcional, orientado a evento, reativo.
+                <br><b>Arquitetura</b>: SOLID, Clean Code, Model View Controller, Services, Test Driven Development, Entity Component System, Game Loop, Multiplayer Game Network.
+                <br><b>Ferramentas</b>: HTML, CSS, JavaScript,
+                TypeScript, NodeJS,
+                VueJS, NuxtJS, PhaserJS,
+                ExpressJS, Sequelize,
+                Mongoose, JWT, axios,
+                jQuery, Bootstrap,
+                Materialize, redux, rxjs,
+                SocketIO, colyseus, web3,
+                Cordova, PostgreSQL,
+                MySQL, MongoDB, Redis,
+                RethinkDB, Git, Github,
+                GitLab, Gitea. <i>Secúndario</i>:
+                PHP, C#, Python, Java,
+                ReactJS, Wordpress,
+                Laravel, Unity, Godot,
+                Unreal, RPG Maker,
+                ThreeJS, BabylonJS,
+                Construct, GDevelop.<br><br>
+                <p>
+                Habilidade em resolução de problemas e análise de sistemas; conhecimento de estruturas de dados e algoritmos para o desenvolvimento de soluções eficientes; 
+                experiência em ferramentas de gerenciamento de versões, como Git; 
+                conhecimento de boas práticas de codificação para garantir a qualidade e manutenibilidade do código; 
+                habilidade em aprendizado contínuo e familiaridade com as últimas tendências e tecnologias na área de programação;
+                trabalhar em equipe com outros programadores, gerentes e stakeholders;
+                comunicação clara e eficaz tanto com colegas técnicos quanto com não-técnicos;
+                flexibilidade e habilidade de adaptação a mudanças no projeto ou na equipe; 
+                paixão pela resolução de problemas e pelo desenvolvimento de soluções inovadoras.
+                </p>
+            </div>
+    </div>
+</body>
+</html>
