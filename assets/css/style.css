@@ -13,6 +13,16 @@ a:hover {
   text-decoration: none;
 }
 
+.telegram-link {
+  color: #149ddd !important;
+  text-decoration: none;
+}
+
+.telegram-link:hover {
+  color: #37b3ed !important;
+  text-decoration: none;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
 }
@@ -579,7 +589,7 @@ section {
   background: #149ddd;
   color: #fff;
 }
-.contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
+.contact .info .email:hover i, .contact .info .linked-in:hover i, .contact .info .phone:hover i, .contact .info .github:hover i {
   background: #149ddd;
   color: #fff;
 }

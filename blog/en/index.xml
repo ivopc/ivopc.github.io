@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ananke: a Hugo Theme on Ivopc Blog</title>
+    <link>https://ivopc.github.io/blog/en/</link>
+    <description>Recent content in Ananke: a Hugo Theme on Ivopc Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate>
+    <atom:link href="https://ivopc.github.io/blog/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://ivopc.github.io/blog/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ivopc.github.io/blog/en/about/</guid>
+      <description>Illustration from Victor Hugo et son temps (1881) The Hunchback of Notre-Dame (French: Notre-Dame de Paris) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://ivopc.github.io/blog/en/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ivopc.github.io/blog/en/contact/</guid>
+      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the shortcode to make it work. Check out Formspree for a simple, free form service.&#xA;Your Name Email Address An email address is required. Message </description>
+    </item>
+  </channel>
+</rss>
