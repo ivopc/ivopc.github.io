@@ -350,6 +350,7 @@ section {
   margin-bottom: 20px;
   color: #050d18;
 }
+
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
@@ -392,6 +393,10 @@ section {
   top: 0;
   background: #fff;
   border: 2px solid #1f5297;
+}
+
+.txt-center {
+  text-align: center;
 }
 
 .portfolio .portfolio-item {
