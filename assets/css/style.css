@@ -732,3 +732,7 @@ section {
     display: inline-block;
   }
 }
+
+.tech-infos {
+  /*display: none;*/
+}
