@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>{{ .Title }}</title>
-</head>
+    {{ template "partials/head.html" . }}
 <body>
     {{ template "partials/header.html" . }}
     {{ block "main" . }}{{ end }}
     {{ template "partials/footer.html" . }}
+    {{ template "partials/scripts.html" . }}
 </body>
 </html>
