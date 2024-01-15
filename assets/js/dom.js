@@ -27,3 +27,26 @@ const scrollToElement = (el) => {
     behavior: "smooth",
   });
 };
+
+function addToggle () {
+  var linkToggle = document.querySelectorAll('.js-toggle');
+  for(i = 0; i < linkToggle.length; i++){
+    linkToggle[i].addEventListener('click', function(event){
+      event.preventDefault();
+      const container = document.getElementById(this.dataset.container); 
+      container.slideToggle(400, () => {
+        if (container.clientHeight !== 0) {
+          this.querySelector("i").classList.add("bxs-up-arrow-square");
+          this.querySelector("i").classList.remove("bxs-down-arrow-square");
+        } else {
+          this.querySelector("i").classList.add("bxs-down-arrow-square");
+          this.querySelector("i").classList.remove("bxs-up-arrow-square");
+        };
+        if (container.style.display == "block") {
+          container.style.display = "";
+        };
+        
+      });
+    });
+  }
+};
