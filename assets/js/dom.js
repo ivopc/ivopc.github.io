@@ -52,16 +52,26 @@ function addToggle () {
 };
 
 function toggleDevInfoVisibility (event) {
-  const eyes = event.currentTarget.querySelector("#eye-visibility");
-
-  if (eyes.classList.contains("bi-eye-fill")) {
-    eyes.classList.remove("bi-eye-fill");
-    eyes.classList.add("bi-eye-slash-fill");
-    [... document.querySelectorAll(".tech-infos") ].forEach(el => el.style.display = 'none');
+  if (document.querySelector("#eye-visibility").classList.contains("bi-eye-fill")) {
+    hideDevInfo();
   } else {
-    eyes.classList.remove("bi-eye-slash-fill");
-    eyes.classList.add("bi-eye-fill");
-    [... document.querySelectorAll(".tech-infos") ].forEach(el => el.style.display = '');
+    showDevInfo();
   };
   event.preventDefault();
+};
+
+function hideDevInfo () {
+  const eyes = document.querySelector("#eye-visibility");
+  eyes.classList.remove("bi-eye-fill");
+  eyes.classList.add("bi-eye-slash-fill");
+  [... document.querySelectorAll(".tech-infos") ].forEach(el => el.style.display = "none");
+  localStorage.setItem("hideDevInfo", true);
+};
+
+function showDevInfo () {
+  const eyes = document.querySelector("#eye-visibility");
+  eyes.classList.remove("bi-eye-slash-fill");
+  eyes.classList.add("bi-eye-fill");
+  [... document.querySelectorAll(".tech-infos") ].forEach(el => el.style.display = '');
+  localStorage.setItem("hideDevInfo", false);
 };

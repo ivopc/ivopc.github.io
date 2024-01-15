@@ -44,6 +44,9 @@ function onDOMReady() {
   addToggle();
   setTimeout(addProtectedContactInfo, 2000);
 
+  if (localStorage.getItem("hideDevInfo") === "true") {
+    hideDevInfo();
+  };
   document.querySelector("#eye-code-visibility-toggle").addEventListener("click", toggleDevInfoVisibility);
 }
 
