@@ -43,6 +43,8 @@ function onDOMReady() {
   });
   addToggle();
   setTimeout(addProtectedContactInfo, 2000);
+
+  document.querySelector("#eye-code-visibility-toggle").addEventListener("click", toggleDevInfoVisibility);
 }
 
 function onWindowLoad() {
