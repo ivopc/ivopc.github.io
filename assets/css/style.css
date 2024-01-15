@@ -738,3 +738,10 @@ section {
   text-align: right;
   position: absolute;
 }
+
+.projects-sub-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+}
