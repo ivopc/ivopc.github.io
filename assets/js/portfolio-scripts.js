@@ -48,3 +48,7 @@ function addProtectedContactInfo() {
     "KyA1NSAxMSA5NzEzODAxMjc="
   );
 }
+
+function openShowcase (name) {
+  document.querySelector(`[data-gallery="${name}"]`).click();
+};

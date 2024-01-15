@@ -309,10 +309,6 @@ section {
   margin-bottom: 0;
 }
 
-#skills {
-  padding: 0;
-}
-
 .skills .progress {
   height: 60px;
   display: block;
@@ -734,5 +730,11 @@ section {
 }
 
 .tech-infos {
-  /*display: none;*/
+  display: none;
+}
+
+.dropdown-btn {
+  right: 0;
+  text-align: right;
+  position: absolute;
 }
