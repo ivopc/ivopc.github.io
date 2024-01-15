@@ -50,3 +50,18 @@ function addToggle () {
     });
   }
 };
+
+function toggleDevInfoVisibility (event) {
+  const eyes = event.currentTarget.querySelector("#eye-visibility");
+
+  if (eyes.classList.contains("bi-eye-fill")) {
+    eyes.classList.remove("bi-eye-fill");
+    eyes.classList.add("bi-eye-slash-fill");
+    [... document.querySelectorAll(".tech-infos") ].forEach(el => el.style.display = 'none');
+  } else {
+    eyes.classList.remove("bi-eye-slash-fill");
+    eyes.classList.add("bi-eye-fill");
+    [... document.querySelectorAll(".tech-infos") ].forEach(el => el.style.display = '');
+  };
+  event.preventDefault();
+};
