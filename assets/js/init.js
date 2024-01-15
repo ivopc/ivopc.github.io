@@ -41,6 +41,7 @@ function onDOMReady() {
     once: true,
     mirror: true,
   });
+  addToggle();
   setTimeout(addProtectedContactInfo, 2000);
 }
 

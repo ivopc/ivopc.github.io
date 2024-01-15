@@ -115,52 +115,56 @@
             <section id="about" data-route="#about" class="about div-scroll-observer">
                 <div class="container">
                     <div class="section-title" data-aos="fade-right">
-                        <h2>Apresentação <a href="#"><i class="bx bxs-down-arrow-square dropdown-btn"></i></a></h2>
-                        <div class="row">
-                            <div class="col-lg-12 pt-4 pt-lg-0 content" data-aos="fade-left">
-                                <h3>Desenvolvedor Web &amp; Desenvolvedor de Jogos</h3>
-                                <div class="row">
-                                    <div class="col-lg-6">
-                                        <ul>
-                                            <li>
-                                                <i class="bi bi-chevron-right"></i>
-                                                <strong>Data de Nascimento:</strong>
-                                                <span>1997</span>
-                                            </li>
-                                            <li>
-                                                <i class="bi bi-chevron-right"></i>
-                                                <strong>Localização:</strong>
-                                                <span>São Paulo, São Paulo - Brasil</span>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                    <div class="col-lg-6">
-                                        <ul>
-                                            <li>
-                                                <i class="bi bi-chevron-right"></i>
-                                                <strong>Idade:</strong>
-                                                <span>26</span>
-                                            </li>
-                                            <li>
-                                                <i class="bi bi-chevron-right"></i>
-                                                <strong>Freelance e trabalho de tempo integral:</strong>
-                                                <span>Disponível</span>
-                                            </li>
-                                        </ul>
+                        <h2>Apresentação <a  class="js-toggle" data-container="about-toggle" href="#"><i class="bx bxs-up-arrow-square dropdown-btn"></i></a></h2>
+                        <div id="about-toggle" class="row ">
+                            <div class="row">
+                                <div class="col-lg-12 pt-4 pt-lg-0 content" data-aos="fade-left">
+                                    <h3>Desenvolvedor Web &amp; Desenvolvedor de Jogos</h3>
+                                    <div class="row">
+                                        <div class="col-lg-6">
+                                            <ul>
+                                                <li>
+                                                    <i class="bi bi-chevron-right"></i>
+                                                    <strong>Data de Nascimento:</strong>
+                                                    <span>1997</span>
+                                                </li>
+                                                <li>
+                                                    <i class="bi bi-chevron-right"></i>
+                                                    <strong>Localização:</strong>
+                                                    <span>São Paulo, São Paulo - Brasil</span>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-lg-6">
+                                            <ul>
+                                                <li>
+                                                    <i class="bi bi-chevron-right"></i>
+                                                    <strong>Idade:</strong>
+                                                    <span>26</span>
+                                                </li>
+                                                <li>
+                                                    <i class="bi bi-chevron-right"></i>
+                                                    <strong>Freelance e trabalho de tempo integral:</strong>
+                                                    <span>Disponível</span>
+                                                </li>
+                                            </ul>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
+                            <div class="separator"></div>
+                            <p style="margin-top: 20px;"> Olá! Meu nome é Ivo e nasci em São Paulo. Comecei a amar computadores e video games na minha infância e sempre me interessei em saber como isso tudo funciona. <br> Quando eu tinha 12 anos, tive meus primeiros contatos com linguagens de programação e quando completei 13 anos descobri e criei uma ferramenta poderosa em um famoso jogo online que influenciou centenas de milhares de jogadores no jogo. Aos 18 anos comecei a encarar isso tudo como uma profissão e comecei a trabalhar com desenvolvimento web e de jogos. </p>
+                            <p class="tech-infos"> No momento eu sou um desenvolvedor Web Full Stack e um desenvolvedor de jogos focado em JavaScript e TypeScript, contribuo para a comunidade open-source ativamente sempre trazendo novos projetos para agregar e solucionando problemas com membros das comunidades. </p>
                         </div>
-                        <div class="separator"></div>
-                        <p style="margin-top: 20px;"> Olá! Meu nome é Ivo e nasci em São Paulo. Comecei a amar computadores e video games na minha infância e sempre me interessei em saber como isso tudo funciona. <br> Quando eu tinha 12 anos, tive meus primeiros contatos com linguagens de programação e quando completei 13 anos descobri e criei uma ferramenta poderosa em um famoso jogo online que influenciou centenas de milhares de jogadores no jogo. Aos 18 anos comecei a encarar isso tudo como uma profissão e comecei a trabalhar com desenvolvimento web e de jogos. </p>
-                        <p class="tech-infos"> No momento eu sou um desenvolvedor Web Full Stack e um desenvolvedor de jogos focado em JavaScript e TypeScript, contribuo para a comunidade open-source ativamente sempre trazendo novos projetos para agregar e solucionando problemas com membros das comunidades. </p>
                     </div>
                 </div>
             </section>
             <section id="skills" data-route="#skills" class="skills section-bg div-scroll-observer tech-infos">
                 <div class="container">
                     <div class="section-title" data-aos="fade-up" data-aos-delay="100">
-                        <h2>Conhecimento Técnico <a href="#"><i class="bx bxs-down-arrow-square dropdown-btn"></i></a></h2>
+                        <h2>Conhecimento Técnico <a class="js-toggle" data-container="skills-toggle" href="#"><i class="bx bxs-up-arrow-square dropdown-btn"></i></a></h2>
+                    </div>
+                    <div  id="skills-toggle" class="row  skills-content">
                         <p> Desenvolvedor web full stack e desenvolvedor de jogos focado em JavaScript e TypeScript. <br> Conheço essas outras linguagens: PHP, C#, Python, C++, C e Delphi. </p>
                         <p> Meu conhecimento principal de frameworks: VueJS, ReactJS, NuxtJS, NestJS, strapi e PhaserJS.<br> Certamente também conheço e já trabalhei com as libs e ferramentas generalistas para web e afins: ExpressJS, Sequelize, Mongoose, JWT, axios, jQuery, Bootstrap, Materialize, redux, rxjs, SocketIO, colyseus, web3.js, Cordova, Wordpress, Laravel, Prisma, TypeORM e etc. <br>
                         </p>
@@ -168,8 +172,6 @@
                         <p> Banco de dados: MySQL, PostgreSQL, MongoDB, Redis e RethinkDB. </p>
                         <p> Cloud: Digital Ocean, Heroku e Render. </p>
                         <p style="margin-top: 30px;"> Em projetos pessoais que desenvolvi já criei diversas automações de cliente e servidor de jogos que possibilita criar scripts de maneira simples e fácil, onde se automatiza processos de criação de UI, level design, batalha, renderização de GUI em tempo real. Potencialmente isso poderia se assemelhar a ferramentas como RPG Maker para criação de jogos que até um leigo conseguiria fazer. Assim destacando o tempo economizado de produção. </p>
-                    </div>
-                    <div class="row skills-content">
                         <div class="col-lg-6" data-aos="fade-up">
                             <div class="progress">
                                 <span class="skill">HTML, CSS, JavaScript e TypeScript</span>
@@ -216,9 +218,9 @@
             <section id="resume" data-route="#resume" class="resume div-scroll-observer">
                 <div class="container">
                     <div class="section-title">
-                        <h2>Currículo <a href="#"><i class="bx bxs-down-arrow-square dropdown-btn"></i></a></h2>
+                        <h2>Currículo <a class="js-toggle" data-container="resume-toggle" href="#"><i class="bx bxs-up-arrow-square dropdown-btn"></i></a></h2>
                     </div>
-                    <div class="row">
+                    <div id="resume-toggle" class="row ">
                         <div class="col-lg-6" data-aos="fade-up">
                             <h3 class="resume-title">Educação</h3>
                             <div class="resume-item">
@@ -352,9 +354,9 @@
             <section id="projects" data-route="#projects" class="resume section-bg div-scroll-observer">
                 <div class="container">
                     <div class="section-title">
-                        <h2>Projetos Pessoais <a href="#"><i class="bx bxs-down-arrow-square dropdown-btn"></i></a></h2>
+                        <h2>Projetos Pessoais <a class="js-toggle" data-container="projects-toggle" href="#"><i class="bx bxs-up-arrow-square dropdown-btn"></i></a></h2>
                     </div>
-                    <div class="row">
+                    <div id="projects-toggle" class="row ">
                         <div class="col-lg-12" data-aos="fade-up" data-aos-delay="100">
                             <h3 class="resume-title">Projetos desenvolvidos no meu tempo livre</h3>
                             <div class="resume-item">
@@ -435,740 +437,742 @@
             <section id="portfolio" data-route="#portfolio" class="portfolio div-scroll-observer">
                 <div class="container">
                     <div class="section-title">
-                        <h2>Portfólio <a href="#"><i class="bx bxs-down-arrow-square dropdown-btn"></i></a></h2>
+                        <h2>Portfólio <a  class="js-toggle" data-container="portfolio-toggle" href="#"><i class="bx bxs-up-arrow-square dropdown-btn"></i></a></h2>
                     </div>
-                    <div class="row" data-aos="fade-up">
-                        <div class="col-lg-12 d-flex justify-content-center">
-                            <ul id="portfolio-filters">
-                                <li data-filter="*" class="filter-active">Todos</li>
-                                <li data-filter=".filter-games">Jogos</li>
-                                <li data-filter=".filter-engineering">Engenharia</li>
-                                <li data-filter=".filter-web">Web</li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-games">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/gameplay1.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/gameplay1.png" data-gallery="mv-showcase" class="portfolio-lightbox" title="Monster Valle Legacy">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://monstervalle.onrender.com/" target="_blank" title="Monster Valle Legacy">
-                                        <i class="bx bx-link"></i>
-                                    </a>
-                                </div>
+                    <div id="portfolio-toggle" class="row ">
+                        <div class="row" data-aos="fade-up">
+                            <div class="col-lg-12 d-flex justify-content-center">
+                                <ul id="portfolio-filters">
+                                    <li data-filter="*" class="filter-active">Todos</li>
+                                    <li data-filter=".filter-games">Jogos</li>
+                                    <li data-filter=".filter-engineering">Engenharia</li>
+                                    <li data-filter=".filter-web">Web</li>
+                                </ul>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-games">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/gameplay2.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/gameplay2.png" data-gallery="mv-showcase" class="portfolio-lightbox" title="Monster Valle Legacy">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://monstervalle.onrender.com/" target="_blank" title="Monster Valle Legacy">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                        <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-games">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/gameplay1.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/gameplay1.png" data-gallery="mv-showcase" class="portfolio-lightbox" title="Monster Valle Legacy">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://monstervalle.onrender.com/" target="_blank" title="Monster Valle Legacy">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-games">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/gameplay3.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/gameplay3.png" data-gallery="mv-showcase" class="portfolio-lightbox" title="Monster Valle Legacy">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://monstervalle.onrender.com/" target="_blank" title="Monster Valle Legacy">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-games">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/gameplay2.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/gameplay2.png" data-gallery="mv-showcase" class="portfolio-lightbox" title="Monster Valle Legacy">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://monstervalle.onrender.com/" target="_blank" title="Monster Valle Legacy">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-games">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/gameplay4.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/gameplay4.png" data-gallery="mv-showcase" class="portfolio-lightbox" title="Monster Valle Legacy">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://monstervalle.onrender.com/" target="_blank" title="Monster Valle Legacy">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-games">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/gameplay3.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/gameplay3.png" data-gallery="mv-showcase" class="portfolio-lightbox" title="Monster Valle Legacy">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://monstervalle.onrender.com/" target="_blank" title="Monster Valle Legacy">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-games">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/gameplay6.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/gameplay6.png" data-gallery="mv-showcase" class="portfolio-lightbox" title="Monster Valle Legacy">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://monstervalle.onrender.com/" target="_blank" title="Monster Valle Legacy">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-games">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/gameplay4.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/gameplay4.png" data-gallery="mv-showcase" class="portfolio-lightbox" title="Monster Valle Legacy">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://monstervalle.onrender.com/" target="_blank" title="Monster Valle Legacy">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-games">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/gameplay7.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/gameplay7.png" data-gallery="mv-showcase" class="portfolio-lightbox" title="Monster Valle Legacy">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://monstervalle.onrender.com/" target="_blank" title="Monster Valle Legacy">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-games">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/gameplay6.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/gameplay6.png" data-gallery="mv-showcase" class="portfolio-lightbox" title="Monster Valle Legacy">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://monstervalle.onrender.com/" target="_blank" title="Monster Valle Legacy">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-games">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/gameplay9.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/gameplay9.png" data-gallery="mv-showcase" class="portfolio-lightbox" title="Monster Valle Legacy">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://monstervalle.onrender.com/" target="_blank" title="Monster Valle Legacy">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-games">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/gameplay7.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/gameplay7.png" data-gallery="mv-showcase" class="portfolio-lightbox" title="Monster Valle Legacy">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://monstervalle.onrender.com/" target="_blank" title="Monster Valle Legacy">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-games">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/gameplay10.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/gameplay10.png" data-gallery="mv-showcase" class="portfolio-lightbox" title="Monster Valle Legacy">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://monstervalle.onrender.com/" target="_blank" title="Monster Valle Legacy">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-games">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/gameplay9.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/gameplay9.png" data-gallery="mv-showcase" class="portfolio-lightbox" title="Monster Valle Legacy">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://monstervalle.onrender.com/" target="_blank" title="Monster Valle Legacy">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-games">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/gameplay11.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/gameplay11.png" data-gallery="mv-showcase" class="portfolio-lightbox" title="Monster Valle">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="#" title="More Details">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-games">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/gameplay10.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/gameplay10.png" data-gallery="mv-showcase" class="portfolio-lightbox" title="Monster Valle Legacy">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://monstervalle.onrender.com/" target="_blank" title="Monster Valle Legacy">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-games">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/gameplay12.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/gameplay12.png" data-gallery="mv-showcase" class="portfolio-lightbox" title="Monster Valle">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="#" title="More Details">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-games">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/gameplay11.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/gameplay11.png" data-gallery="mv-showcase" class="portfolio-lightbox" title="Monster Valle">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="#" title="More Details">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-games">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/gameplay13.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/gameplay13.png" data-gallery="mv-showcase" class="portfolio-lightbox" title="Monster Valle">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="#" title="More Details">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-games">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/gameplay12.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/gameplay12.png" data-gallery="mv-showcase" class="portfolio-lightbox" title="Monster Valle">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="#" title="More Details">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-games">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/gameplay14.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/gameplay14.png" data-gallery="mv-showcase" class="portfolio-lightbox" title="Monster Valle">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="#" title="More Details">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-games">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/gameplay13.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/gameplay13.png" data-gallery="mv-showcase" class="portfolio-lightbox" title="Monster Valle">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="#" title="More Details">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-games">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/ortiz-gameplay0.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/ortiz-gameplay0.png" data-gallery="ortiz-showcase" class="portfolio-lightbox" title="Ortiz Gaming - Night Bingo">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://www.playbonds.com/pt/jogos/video-bingo/descricao/5227/Night_Bingo" target="_blank" title="Night Bingo">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-games">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/gameplay14.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/gameplay14.png" data-gallery="mv-showcase" class="portfolio-lightbox" title="Monster Valle">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="#" title="More Details">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-games">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/ortiz-gameplay1.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/ortiz-gameplay1.png" data-gallery="ortiz-showcase" class="portfolio-lightbox" title="Ortiz Gaming - Night Bingo">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://www.playbonds.com/pt/jogos/video-bingo/descricao/5227/Night_Bingo" target="_blank" title="Night Bingo">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-games">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/ortiz-gameplay0.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/ortiz-gameplay0.png" data-gallery="ortiz-showcase" class="portfolio-lightbox" title="Ortiz Gaming - Night Bingo">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://www.playbonds.com/pt/jogos/video-bingo/descricao/5227/Night_Bingo" target="_blank" title="Night Bingo">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-games">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/ortiz-gameplay2.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/ortiz-gameplay2.png" data-gallery="ortiz-showcase" class="portfolio-lightbox" title="Ortiz Gaming - Dragon Mania">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="http://www.ortizgaming.com/en/" target="_blank" title="Mais detalhes">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-games">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/ortiz-gameplay1.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/ortiz-gameplay1.png" data-gallery="ortiz-showcase" class="portfolio-lightbox" title="Ortiz Gaming - Night Bingo">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://www.playbonds.com/pt/jogos/video-bingo/descricao/5227/Night_Bingo" target="_blank" title="Night Bingo">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-games">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/ortiz-gameplay3.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/ortiz-gameplay3.png" data-gallery="ortiz-showcase" class="portfolio-lightbox" title="Ortiz Gaming - Dragon Mania">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="http://www.ortizgaming.com/en/" target="_blank" title="Mais detalhes">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-games">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/ortiz-gameplay2.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/ortiz-gameplay2.png" data-gallery="ortiz-showcase" class="portfolio-lightbox" title="Ortiz Gaming - Dragon Mania">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="http://www.ortizgaming.com/en/" target="_blank" title="Mais detalhes">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-games">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/ortiz-gameplay4.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/ortiz-gameplay4.png" data-gallery="ortiz-showcase" class="portfolio-lightbox" title="Ortiz Gaming - Bubble Mania">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://www.playbonds.com/pt/jogos/video-bingo/descricao/1137/Bubble_Mania" target="_blank" title="Bubble Mania">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-games">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/ortiz-gameplay3.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/ortiz-gameplay3.png" data-gallery="ortiz-showcase" class="portfolio-lightbox" title="Ortiz Gaming - Dragon Mania">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="http://www.ortizgaming.com/en/" target="_blank" title="Mais detalhes">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-games">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/ortiz-gameplay5.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/ortiz-gameplay5.png" data-gallery="ortiz-showcase" class="portfolio-lightbox" title="Ortiz Gaming - Roma Bingo">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://www.playbonds.com/pt/jogos/video-bingo/descricao/3726/Roma_Bingo" target="_blank" title="Roma Bingo">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-games">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/ortiz-gameplay4.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/ortiz-gameplay4.png" data-gallery="ortiz-showcase" class="portfolio-lightbox" title="Ortiz Gaming - Bubble Mania">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://www.playbonds.com/pt/jogos/video-bingo/descricao/1137/Bubble_Mania" target="_blank" title="Bubble Mania">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-games">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/ortiz-gameplay6.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/ortiz-gameplay6.png" data-gallery="ortiz-showcase" class="portfolio-lightbox" title="Ortiz Gaming - Roma Bingo">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://www.playbonds.com/pt/jogos/video-bingo/descricao/3726/Roma_Bingo" target="_blank" title="Roma Bingo">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-games">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/ortiz-gameplay5.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/ortiz-gameplay5.png" data-gallery="ortiz-showcase" class="portfolio-lightbox" title="Ortiz Gaming - Roma Bingo">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://www.playbonds.com/pt/jogos/video-bingo/descricao/3726/Roma_Bingo" target="_blank" title="Roma Bingo">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-games">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/ortiz-gameplay7.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/ortiz-gameplay7.png" data-gallery="ortiz-showcase" class="portfolio-lightbox" title="Ortiz Gaming - Dulce Mania">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://www.playbonds.com/pt/jogos/video-bingo/descricao/3460/Dulce_Mania/" target="_blank" title="Dulce Mania">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-games">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/ortiz-gameplay6.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/ortiz-gameplay6.png" data-gallery="ortiz-showcase" class="portfolio-lightbox" title="Ortiz Gaming - Roma Bingo">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://www.playbonds.com/pt/jogos/video-bingo/descricao/3726/Roma_Bingo" target="_blank" title="Roma Bingo">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-games">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/ortiz-gameplay8.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/ortiz-gameplay8.png" data-gallery="ortiz-showcase" class="portfolio-lightbox" title="Ortiz Gaming - Dulce Mania">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://www.playbonds.com/pt/jogos/video-bingo/descricao/3460/Dulce_Mania/" target="_blank" title="Dulce Mania">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-games">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/ortiz-gameplay7.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/ortiz-gameplay7.png" data-gallery="ortiz-showcase" class="portfolio-lightbox" title="Ortiz Gaming - Dulce Mania">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://www.playbonds.com/pt/jogos/video-bingo/descricao/3460/Dulce_Mania/" target="_blank" title="Dulce Mania">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-games">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/oni-gameplay1.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/oni-gameplay1.png" data-gallery="oni-showcase" class="portfolio-lightbox" title="Onisquad">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://onisquad.gg/" target="_blank" title="More Details">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-games">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/ortiz-gameplay8.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/ortiz-gameplay8.png" data-gallery="ortiz-showcase" class="portfolio-lightbox" title="Ortiz Gaming - Dulce Mania">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://www.playbonds.com/pt/jogos/video-bingo/descricao/3460/Dulce_Mania/" target="_blank" title="Dulce Mania">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-games">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/oni-gameplay2.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/oni-gameplay2.png" data-gallery="oni-showcase" class="portfolio-lightbox" title="Onisquad">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://onisquad.gg/" target="_blank" title="More Details">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-games">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/oni-gameplay1.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/oni-gameplay1.png" data-gallery="oni-showcase" class="portfolio-lightbox" title="Onisquad">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://onisquad.gg/" target="_blank" title="More Details">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-games">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/oni-gameplay3.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/oni-gameplay3.png" data-gallery="oni-showcase" class="portfolio-lightbox" title="Onisquad">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://onisquad.gg/" target="_blank" title="More Details">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-games">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/oni-gameplay2.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/oni-gameplay2.png" data-gallery="oni-showcase" class="portfolio-lightbox" title="Onisquad">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://onisquad.gg/" target="_blank" title="More Details">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/oni-gameplay4.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/oni-gameplay4.png" data-gallery="oni-showcase" class="portfolio-lightbox" title="Onisquad">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://onisquad.gg/" target="_blank" title="More Details">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-games">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/oni-gameplay3.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/oni-gameplay3.png" data-gallery="oni-showcase" class="portfolio-lightbox" title="Onisquad">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://onisquad.gg/" target="_blank" title="More Details">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-games">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/1.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/1.png" data-gallery="solsteads-showcase" class="portfolio-lightbox" title="Solsteads Surreal World">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://arcade.solsteads.com/" target="_blank" title="Solstead Arcade">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/oni-gameplay4.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/oni-gameplay4.png" data-gallery="oni-showcase" class="portfolio-lightbox" title="Onisquad">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://onisquad.gg/" target="_blank" title="More Details">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-games">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/2.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/2.png" data-gallery="solsteads-showcase" class="portfolio-lightbox" title="Solsteads Surreal World">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://arcade.solsteads.com/" target="_blank" title="Solstead Arcade">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-games">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/1.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/1.png" data-gallery="solsteads-showcase" class="portfolio-lightbox" title="Solsteads Surreal World">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://arcade.solsteads.com/" target="_blank" title="Solstead Arcade">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-games">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/3.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/3.png" data-gallery="solsteads-showcase" class="portfolio-lightbox" title="Solsteads Surreal World">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://arcade.solsteads.com/" target="_blank" title="Solstead Arcade">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-games">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/2.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/2.png" data-gallery="solsteads-showcase" class="portfolio-lightbox" title="Solsteads Surreal World">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://arcade.solsteads.com/" target="_blank" title="Solstead Arcade">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-games">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/4.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/4.png" data-gallery="solsteads-showcase" class="portfolio-lightbox" title="Solsteads Surreal World">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://arcade.solsteads.com/" target="_blank" title="Solstead Arcade">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-games">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/3.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/3.png" data-gallery="solsteads-showcase" class="portfolio-lightbox" title="Solsteads Surreal World">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://arcade.solsteads.com/" target="_blank" title="Solstead Arcade">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-games">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/5.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/5.png" data-gallery="solsteads-showcase" class="portfolio-lightbox" title="Solsteads Surreal World">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://arcade.solsteads.com/" target="_blank" title="Solstead Arcade">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-games">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/4.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/4.png" data-gallery="solsteads-showcase" class="portfolio-lightbox" title="Solsteads Surreal World">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://arcade.solsteads.com/" target="_blank" title="Solstead Arcade">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-games">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/6.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/6.png" data-gallery="solsteads-showcase" class="portfolio-lightbox" title="Solsteads Surreal World">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://arcade.solsteads.com/" target="_blank" title="Solstead Arcade">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-games">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/5.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/5.png" data-gallery="solsteads-showcase" class="portfolio-lightbox" title="Solsteads Surreal World">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://arcade.solsteads.com/" target="_blank" title="Solstead Arcade">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-games">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/dama1.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/dama1.png" data-gallery="checkers-showcase" class="portfolio-lightbox" title="Damas Multiplayer Online">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://github.com/ivopc/checkers-multiplayer-game-phaser-nest" target="_blank" title="Blaze-1.bet">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-games">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/6.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/6.png" data-gallery="solsteads-showcase" class="portfolio-lightbox" title="Solsteads Surreal World">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://arcade.solsteads.com/" target="_blank" title="Solstead Arcade">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-games">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/dama2.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/dama2.png" data-gallery="checkers-showcase" class="portfolio-lightbox" title="Damas Multiplayer Online">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://github.com/ivopc/checkers-multiplayer-game-phaser-nest" target="_blank" title="Blaze-1.bet">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-games">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/dama1.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/dama1.png" data-gallery="checkers-showcase" class="portfolio-lightbox" title="Damas Multiplayer Online">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://github.com/ivopc/checkers-multiplayer-game-phaser-nest" target="_blank" title="Blaze-1.bet">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-games">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/dama3.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/dama3.png" data-gallery="checkers-showcase" class="portfolio-lightbox" title="Damas Multiplayer Online">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://github.com/ivopc/checkers-multiplayer-game-phaser-nest" target="_blank" title="Blaze-1.bet">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-games">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/dama2.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/dama2.png" data-gallery="checkers-showcase" class="portfolio-lightbox" title="Damas Multiplayer Online">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://github.com/ivopc/checkers-multiplayer-game-phaser-nest" target="_blank" title="Blaze-1.bet">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-games">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/dama4.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/dama4.png" data-gallery="checkers-showcase" class="portfolio-lightbox" title="Damas Multiplayer Online">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://github.com/ivopc/checkers-multiplayer-game-phaser-nest" target="_blank" title="Blaze-1.bet">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-games">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/dama3.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/dama3.png" data-gallery="checkers-showcase" class="portfolio-lightbox" title="Damas Multiplayer Online">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://github.com/ivopc/checkers-multiplayer-game-phaser-nest" target="_blank" title="Blaze-1.bet">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-games">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/dama5.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/dama5.png" data-gallery="checkers-showcase" class="portfolio-lightbox" title="Damas Multiplayer Online">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://github.com/ivopc/checkers-multiplayer-game-phaser-nest" target="_blank" title="Blaze-1.bet">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-games">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/dama4.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/dama4.png" data-gallery="checkers-showcase" class="portfolio-lightbox" title="Damas Multiplayer Online">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://github.com/ivopc/checkers-multiplayer-game-phaser-nest" target="_blank" title="Blaze-1.bet">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-engineering">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/eng1_bckp.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/eng1.mp4" data-gallery="eng-showcase" class="portfolio-lightbox" title="Layout Builder" data-glightbox="title: Layout Builder; description: .layout-builder-desc">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://www.linkedin.com/feed/update/urn:li:activity:6822708895882985472/" target="_blank" title="LinkedIn Post">
-                                        <i class="bx bx-link"></i>
-                                    </a>
-                                </div>
-                                <div class="glightbox-desc layout-builder-desc">
-                                    <p> Gerenciar a interface do usuário do jogo apenas no photoshop ou em qualquer editor de imagem sem nenhuma codificação. <br>
-                                    </p>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-games">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/dama5.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/dama5.png" data-gallery="checkers-showcase" class="portfolio-lightbox" title="Damas Multiplayer Online">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://github.com/ivopc/checkers-multiplayer-game-phaser-nest" target="_blank" title="Blaze-1.bet">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-engineering">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/eng2_bckp.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/eng2.mp4" data-gallery="eng-showcase" class="portfolio-lightbox" title="Monster Valle - GameClient & GameServer Scripting" data-glightbox="title: Scripting Architecture; description: .script-mv-desc"">
-									    <i class=" bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://www.linkedin.com/feed/update/urn:li:activity:6610638309473427456/" target="_blank" title="LinkedIn Post">
-                                        <i class="bx bx-link"></i>
-                                    </a>
-                                </div>
-                                <div class="glightbox-desc script-mv-desc">
-                                    <p>Scripting para o cliente/servidor de um MMORPG. <br> Em uma solução criativa usei JSON como linguagem declarativa para automatizar as ações do NPC e quando o cliente envia uma requisição para o servidor, para ações que precisam de autenticação, por exemplo: dê um monstro ao jogador. <br> (Não liguem para o lag do vídeo, é por causa do meu PC antigo mais o software de gravação, e não do jogo). </p>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-engineering">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/eng1_bckp.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/eng1.mp4" data-gallery="eng-showcase" class="portfolio-lightbox" title="Layout Builder" data-glightbox="title: Layout Builder; description: .layout-builder-desc">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://www.linkedin.com/feed/update/urn:li:activity:6822708895882985472/" target="_blank" title="LinkedIn Post">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
+                                    <div class="glightbox-desc layout-builder-desc">
+                                        <p> Gerenciar a interface do usuário do jogo apenas no photoshop ou em qualquer editor de imagem sem nenhuma codificação. <br>
+                                        </p>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-engineering">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/eng2_bckp.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/eng2.mp4" data-gallery="eng-showcase" class="portfolio-lightbox" title="Monster Valle - GameClient & GameServer Scripting" data-glightbox="title: Scripting Architecture; description: .script-mv-desc"">
+                                            <i class=" bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://www.linkedin.com/feed/update/urn:li:activity:6610638309473427456/" target="_blank" title="LinkedIn Post">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
+                                    <div class="glightbox-desc script-mv-desc">
+                                        <p>Scripting para o cliente/servidor de um MMORPG. <br> Em uma solução criativa usei JSON como linguagem declarativa para automatizar as ações do NPC e quando o cliente envia uma requisição para o servidor, para ações que precisam de autenticação, por exemplo: dê um monstro ao jogador. <br> (Não liguem para o lag do vídeo, é por causa do meu PC antigo mais o software de gravação, e não do jogo). </p>
+                                    </div>
+                                </div>
+                            </div>
 
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/open-rifinha-1.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/open-rifinha-1.png" data-gallery="rifinha-showcase" class="portfolio-lightbox" title="Open Rifinha">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://github.com/ivopc/open-rifinha/" target="_blank" title="Open Rifinha">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/open-rifinha-1.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/open-rifinha-1.png" data-gallery="rifinha-showcase" class="portfolio-lightbox" title="Open Rifinha">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://github.com/ivopc/open-rifinha/" target="_blank" title="Open Rifinha">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
 
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/open-rifinha-2.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/open-rifinha-2.png" data-gallery="rifinha-showcase" class="portfolio-lightbox" title="Open Rifinha">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://github.com/ivopc/open-rifinha/" target="_blank" title="Open Rifinha">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/open-rifinha-2.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/open-rifinha-2.png" data-gallery="rifinha-showcase" class="portfolio-lightbox" title="Open Rifinha">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://github.com/ivopc/open-rifinha/" target="_blank" title="Open Rifinha">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
 
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/open-rifinha-3.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/open-rifinha-3.png" data-gallery="rifinha-showcase" class="portfolio-lightbox" title="Open Rifinha">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://github.com/ivopc/open-rifinha/" target="_blank" title="Open Rifinha">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/open-rifinha-3.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/open-rifinha-3.png" data-gallery="rifinha-showcase" class="portfolio-lightbox" title="Open Rifinha">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://github.com/ivopc/open-rifinha/" target="_blank" title="Open Rifinha">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
 
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/open-rifinha-4.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/open-rifinha-4.png" data-gallery="rifinha-showcase" class="portfolio-lightbox" title="Open Rifinha">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://github.com/ivopc/open-rifinha/" target="_blank" title="Open Rifinha">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/open-rifinha-4.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/open-rifinha-4.png" data-gallery="rifinha-showcase" class="portfolio-lightbox" title="Open Rifinha">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://github.com/ivopc/open-rifinha/" target="_blank" title="Open Rifinha">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
 
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/open-rifinha-5.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/open-rifinha-5.png" data-gallery="rifinha-showcase" class="portfolio-lightbox" title="Open Rifinha">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://github.com/ivopc/open-rifinha/" target="_blank" title="Open Rifinha">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/open-rifinha-5.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/open-rifinha-5.png" data-gallery="rifinha-showcase" class="portfolio-lightbox" title="Open Rifinha">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://github.com/ivopc/open-rifinha/" target="_blank" title="Open Rifinha">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
 
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/open-rifinha-6.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/open-rifinha-6.png" data-gallery="rifinha-showcase" class="portfolio-lightbox" title="Open Rifinha">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://github.com/ivopc/open-rifinha/" target="_blank" title="Open Rifinha">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/open-rifinha-6.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/open-rifinha-6.png" data-gallery="rifinha-showcase" class="portfolio-lightbox" title="Open Rifinha">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://github.com/ivopc/open-rifinha/" target="_blank" title="Open Rifinha">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
 
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/open-rifinha-7.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/open-rifinha-7.png" data-gallery="rifinha-showcase" class="portfolio-lightbox" title="Open Rifinha">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://github.com/ivopc/open-rifinha/" target="_blank" title="Open Rifinha">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/open-rifinha-7.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/open-rifinha-7.png" data-gallery="rifinha-showcase" class="portfolio-lightbox" title="Open Rifinha">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://github.com/ivopc/open-rifinha/" target="_blank" title="Open Rifinha">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
 
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/open-rifinha-8.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/open-rifinha-8.png" data-gallery="rifinha-showcase" class="portfolio-lightbox" title="Open Rifinha">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://github.com/ivopc/open-rifinha/" target="_blank" title="Open Rifinha">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/open-rifinha-8.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/open-rifinha-8.png" data-gallery="rifinha-showcase" class="portfolio-lightbox" title="Open Rifinha">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://github.com/ivopc/open-rifinha/" target="_blank" title="Open Rifinha">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
 
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/open-rifinha-9.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/open-rifinha-9.png" data-gallery="rifinha-showcase" class="portfolio-lightbox" title="Open Rifinha">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://github.com/ivopc/open-rifinha/" target="_blank" title="Open Rifinha">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/open-rifinha-9.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/open-rifinha-9.png" data-gallery="rifinha-showcase" class="portfolio-lightbox" title="Open Rifinha">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://github.com/ivopc/open-rifinha/" target="_blank" title="Open Rifinha">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
 
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/open-rifinha-10.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/open-rifinha-10.png" data-gallery="rifinha-showcase" class="portfolio-lightbox" title="Open Rifinha">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://github.com/ivopc/open-rifinha/" target="_blank" title="Open Rifinha">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/open-rifinha-10.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/open-rifinha-10.png" data-gallery="rifinha-showcase" class="portfolio-lightbox" title="Open Rifinha">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://github.com/ivopc/open-rifinha/" target="_blank" title="Open Rifinha">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
 
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/open-rifinha-11.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/open-rifinha-11.png" data-gallery="rifinha-showcase" class="portfolio-lightbox" title="Open Rifinha">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://github.com/ivopc/open-rifinha/" target="_blank" title="Open Rifinha">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/open-rifinha-11.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/open-rifinha-11.png" data-gallery="rifinha-showcase" class="portfolio-lightbox" title="Open Rifinha">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://github.com/ivopc/open-rifinha/" target="_blank" title="Open Rifinha">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
 
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/open-rifinha-12.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/open-rifinha-12.png" data-gallery="rifinha-showcase" class="portfolio-lightbox" title="Open Rifinha">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://github.com/ivopc/open-rifinha/" target="_blank" title="Open Rifinha">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/open-rifinha-12.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/open-rifinha-12.png" data-gallery="rifinha-showcase" class="portfolio-lightbox" title="Open Rifinha">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://github.com/ivopc/open-rifinha/" target="_blank" title="Open Rifinha">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
 
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/open-rifinha-13.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/open-rifinha-13.png" data-gallery="rifinha-showcase" class="portfolio-lightbox" title="Open Rifinha">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://github.com/ivopc/open-rifinha/" target="_blank" title="Open Rifinha">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/open-rifinha-13.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/open-rifinha-13.png" data-gallery="rifinha-showcase" class="portfolio-lightbox" title="Open Rifinha">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://github.com/ivopc/open-rifinha/" target="_blank" title="Open Rifinha">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
 
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/open-rifinha-14.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/open-rifinha-14.png" data-gallery="rifinha-showcase" class="portfolio-lightbox" title="Open Rifinha">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://github.com/ivopc/open-rifinha/" target="_blank" title="Open Rifinha">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/open-rifinha-14.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/open-rifinha-14.png" data-gallery="rifinha-showcase" class="portfolio-lightbox" title="Open Rifinha">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://github.com/ivopc/open-rifinha/" target="_blank" title="Open Rifinha">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
 
-                        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                            <div class="portfolio-wrap">
-                                <img src="assets/img/portfolio/open-rifinha-15.png" class="img-fluid" alt="">
-                                <div class="portfolio-links">
-                                    <a href="assets/img/portfolio/open-rifinha-15.png" data-gallery="rifinha-showcase" class="portfolio-lightbox" title="Open Rifinha">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
-                                    <a href="https://github.com/ivopc/open-rifinha/" target="_blank" title="Open Rifinha">
-                                        <i class="bx bx-link"></i>
-                                    </a>
+                            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                                <div class="portfolio-wrap">
+                                    <img src="assets/img/portfolio/open-rifinha-15.png" class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="assets/img/portfolio/open-rifinha-15.png" data-gallery="rifinha-showcase" class="portfolio-lightbox" title="Open Rifinha">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                        <a href="https://github.com/ivopc/open-rifinha/" target="_blank" title="Open Rifinha">
+                                            <i class="bx bx-link"></i>
+                                        </a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
 
-                    </div>
+                        </div>
+                    <div>
                 </div>
             </section>
             <section id="contact" data-route="#contact" class="contact section-bg div-scroll-observer">
                 <div class="container">
                     <div class="section-title">
-                        <h2>Contato <a href="#"><i class="bx bxs-down-arrow-square dropdown-btn"></i></a></h2>
+                        <h2>Contato <a class="js-toggle" data-container="contact-toggle" href="#"><i class="bx bxs-up-arrow-square dropdown-btn"></i></a></h2>
                     </div>
-                    <div class="row" data-aos="fade-in">
+                    <div  id="contact-toggle" class="row " class="row" data-aos="fade-in">
                         <div class="col-lg-12 d-flex align-items-center">
                             <div class="info">
                                 <div class="email">
@@ -1211,6 +1215,7 @@
         <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
         <script src="assets/vendor/typed.js/typed.min.js"></script>
         <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+        <script src="assets/vendor/slideToggle.min.js"></script>
         <script src="assets/js/dom.js"></script>
         <script src="assets/js/portfolio-scripts.js"></script>
         <script src="assets/js/country-detect.js"></script>
