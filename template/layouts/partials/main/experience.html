@@ -1,0 +1,8 @@
+<div class="col-lg-6">
+    sdddddddddddddddddddddddddddddddddddddddddddddddddd
+    {{ range where .Site.RegularPages "Section" "resume" }}
+        {{ .Params.workTime }}
+    {{ end }}
+</div>
+
+

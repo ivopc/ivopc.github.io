@@ -1,0 +1,102 @@
+{
+    "br": [
+        { 
+            "link": "#",
+            "text": "Início",
+            "icon": "bx bx-home",
+            "dataSectionRouteId": "intro"
+        },
+        { 
+            "link": "#about",
+            "text": "Apresentação",
+            "icon": "bx bx-user",
+            "dataSectionRouteId": "about"
+        },
+        {
+            "link": "#skills",
+            "text": "Conhecimento Técnico",
+            "icon": "bx bx-code-block",
+            "dataSectionRouteId": "skills"
+        },
+        {
+            "link": "#resume",
+            "text": "Currículo",
+            "icon": "bx bx-file-blank",
+            "dataSectionRouteId": "resume"
+        },
+        {
+            "link": "#projects",
+            "text": "Projetos",
+            "icon": "bx bxs-file-archive",
+            "dataSectionRouteId": "projects"
+        },
+        {
+            "link": "#portfolio",
+            "text": "Portfólio",
+            "icon": "bx bx-book-content",
+            "dataSectionRouteId": "portfolio"
+        },
+        {
+            "link": "#contact",
+            "text": "Contato",
+            "icon": "bx bx-envelope",
+            "dataSectionRouteId": "contact"
+        },
+        {
+            "link": "/blog",
+            "text": "Blog",
+            "icon": "bi bi-newspaper",
+            "dataSectionRouteId": ""
+        }
+    ],
+    "en": [
+        { 
+            "link": "#",
+            "text": "Home",
+            "icon": "bx bx-home",
+            "dataSectionRouteId": "intro"
+        },
+        { 
+            "link": "#about",
+            "text": "About",
+            "icon": "bx bx-user",
+            "dataSectionRouteId": "about"
+        },
+        {
+            "link": "#skills",
+            "text": "Skills",
+            "icon": "bx bx-code-block",
+            "dataSectionRouteId": "skills"
+        },
+        {
+            "link": "#resume",
+            "text": "Resume",
+            "icon": "bx bx-file-blank",
+            "dataSectionRouteId": "resume"
+        },
+        {
+            "link": "#projects",
+            "text": "Projects",
+            "icon": "bx bxs-file-archive",
+            "dataSectionRouteId": "projects"
+        },
+        {
+            "link": "#portfolio",
+            "text": "Portfolio",
+            "icon": "bx bx-book-content",
+            "dataSectionRouteId": "portfolio"
+        },
+        {
+            "link": "#contact",
+            "text": "Contact",
+            "icon": "bx bx-envelope",
+            "dataSectionRouteId": "contact"
+        },
+        {
+            "link": "/blog",
+            "text": "Blog",
+            "icon": "bi bi-newspaper",
+            "dataSectionRouteId": ""
+        }
+    ]
+}

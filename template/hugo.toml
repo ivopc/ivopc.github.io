@@ -2,3 +2,31 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Bla'
 nome = 'IVOOOOOOOOOOO'
+theme = "portifa"
+
+defaultContentLanguage = 'br'
+defaultContentLanguageInSubdir = false
+[languages]
+  [languages.br]
+    contentDir = 'content/br'
+    disabled = false
+    languageCode = 'pt-BR'
+    languageDirection = 'ltr'
+    languageName = 'Português Brasil'
+    title = 'Documentação do Projeto'
+    weight = 3
+    [languages.br.params]
+      subtitle = 'Referência, Tutoriais e Explicações'
+  [languages.en]
+    contentDir = 'content/en'
+    disabled = false
+    languageCode = 'en-US'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    title = 'Project Documentation'
+    weight = 2
+    [languages.en.params]
+      subtitle = 'Reference, Tutorials, and Explanations'
+
+[markup.goldmark.renderer]
+  unsafe = true

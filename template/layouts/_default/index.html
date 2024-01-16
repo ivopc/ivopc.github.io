@@ -1,14 +1,5 @@
 {{ define "main" }}
-    <article>
-        <h1>{{ .Title }}</h1>
-        <section>
-            <h1>Lista de Posts</h1>
-            {{ range where .Site.RegularPages "Section" "posts" }}
-                <li>
-                    <h2>{{ .Title }}</h2>
-                    {{ .Content }}
-                </li>
-            {{ end }}
-        </section>
-    </article>
+    <main id="main">
+        {{ partial "main/experience" . }}
+    </main>
 {{ end }}

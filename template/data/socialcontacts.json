@@ -1,0 +1,38 @@
+{
+    "br": [
+        { 
+            "link": "https://www.linkedin.com/in/ivo-camargo-97a670161/?locale=pt_BR",
+            "icon": "bx bxl-linkedin"
+        },
+        { 
+            "link": "https://github.com/ivopc/",
+            "icon": "bx bxl-github"
+        },
+        { 
+            "link": "https://t.me/ivopc",
+            "icon": "bx bxl-telegram"
+        },
+        { 
+            "link": "https://discord.com/users/238402635575590933",
+            "icon": "bx bxl-discord"
+        }
+    ],
+    "en": [
+        { 
+            "link": "https://www.linkedin.com/in/ivo-camargo-97a670161/",
+            "icon": "bx bxl-linkedin"
+        },
+        { 
+            "link": "https://github.com/ivopc/",
+            "icon": "bx bxl-github"
+        },
+        { 
+            "link": "https://t.me/ivopc",
+            "icon": "bx bxl-telegram"
+        },
+        { 
+            "link": "https://discord.com/users/238402635575590933",
+            "icon": "bx bxl-discord"
+        }
+    ]
+}
