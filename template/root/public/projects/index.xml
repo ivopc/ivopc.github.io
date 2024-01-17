@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Ivo Camargo - Desenvolvedor Web e Desenvolvedor de Jogos</title>
+    <link>https://ivopc.github.io/projects/</link>
+    <description>Recent content in Projects on Ivo Camargo - Desenvolvedor Web e Desenvolvedor de Jogos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-BR</language>
+    <atom:link href="https://ivopc.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Desenvolvedor de Jogos e Desenvolvedor Web Full Stack</title>
+      <link>https://ivopc.github.io/projects/2-valle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ivopc.github.io/projects/2-valle/</guid>
+      <description>Monster Valle é um jogo de MMORPG completo com lutas baseadas em turno e monstros colecionáveis. O jogo rendeu muita propriedade ao meu nome como profissional e graças a ele arranjei trabalhos no exterior. Mecânicas notáveis: batalha, farming, PvP, mercado de jogadores, missões, interações multiplayer em tempo real, aprendizado de ataques de monstros e aumento de nível, party, itens, enredo, sistemas de RPG no geral, etc. A versão antiga, que atualmente está disponível para testar o jogo, sem fins comerciais e com alguns bugs, tornou-se open-source e seu código está disponível aqui.</description>
+    </item>
+    <item>
+      <title>Desenvolvedor Web Full Stack</title>
+      <link>https://ivopc.github.io/projects/3-rifinha/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ivopc.github.io/projects/3-rifinha/</guid>
+      <description>Open Rifinha é um sistema web de rifas que envolve meus conhecimentos diretamente relacionados a desenvolvimento web utilizando o sistema de pagamento do Mercado Pago via PIX. No website disponível ao público tem: página inicial onde mostra os prêmios disponíveis e os ganhadores dos sorteios passados de maneira resumida. Menu de navegação incluindo: todos os sorteios atuais e já feitos; todos os ganhadores; consultar as compras do cliente. Rodapé com as demais informações, redes sociais e contato direto com o administrador.</description>
+    </item>
+    <item>
+      <title>Membro ativo da comunidade open-source</title>
+      <link>https://ivopc.github.io/projects/1-community/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ivopc.github.io/projects/1-community/</guid>
+      <description>Contribuo ativamente nas comunidades de desenvolvimento, já achei problemas em projetos amplamente utilizados a nível profissional (exemplos: SocketCluster e Phaser 3), tenho ferramentas open-source disponíveis em meus repositórios e já acumulei mais de 100 estrelas no meu GitHub.</description>
+    </item>
+  </channel>
+</rss>
