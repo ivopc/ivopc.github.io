@@ -78,7 +78,8 @@
             "link": "#projects",
             "text": "Projects",
             "icon": "bx bxs-file-archive",
-            "dataSectionRouteId": "projects"
+            "dataSectionRouteId": "projects",
+            "isTechInfo": true
         },
         {
             "link": "#portfolio",

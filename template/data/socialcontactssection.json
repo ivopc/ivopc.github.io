@@ -1,53 +1,75 @@
 {
     "br": [
+        {
+            "name": "E-mail",
+            "value": "ivoopc@gmail.com",
+            "link": "mailto:ivoopc@gmail.com",
+            "icon": "bi bi-envelope",
+            "class": "email"
+        },
         { 
-            "name": "LinkedIn BR",
+            "name": "LinkedIn",
+            "value": "LinkedIn BR de Ivo Camargo",
             "link": "https://www.linkedin.com/in/ivo-camargo-97a670161/?locale=pt_BR",
-            "icon": "bx bxl-linkedin",
+            "icon": "bi bi-linkedin",
             "class": "linked-in"
         },
         { 
             "name": "GitHub",
+            "value": "GitHub de ivopc",
             "link": "https://github.com/ivopc/",
-            "icon": "bx bxl-github",
+            "icon": "bi bi-github",
             "class": "github"
         },
         { 
             "name": "Telegram",
+            "value": "Telegram de @ivopc",
             "link": "https://t.me/ivopc",
-            "icon": "bx bxl-telegram",
+            "icon": "bi bi-phone",
             "class": "phone"
         },
         { 
             "name": "Discord",
+            "value": "Discord de abcdeevee",
             "link": "https://discord.com/users/238402635575590933",
-            "icon": "bx bxl-discord",
+            "icon": "bi bi-discord",
             "class": "discord"
         }
     ],
     "en": [
+        {
+            "name": "E-mail",
+            "value": "ivoopc@gmail.com",
+            "link": "mailto:ivoopc@gmail.com",
+            "icon": "bi bi-envelope",
+            "class": "email"
+        },
         { 
             "name": "LinkedIn English",
+            "value": "Ivo Camargo's English LinkedIn",
             "link": "https://www.linkedin.com/in/ivo-camargo-97a670161/",
-            "icon": "bx bxl-linkedin",
+            "icon": "bi bi-linkedin",
             "class": "linked-in"
         },
         { 
             "name": "GitHub",
+            "value": "ivopc's GitHub",
             "link": "https://github.com/ivopc/",
-            "icon": "bx bxl-github",
+            "icon": "bi bi-github",
             "class": "github"
         },
         { 
             "name": "Telegram",
+            "value": "@ivopc's Telegram",
             "link": "https://t.me/ivopc",
-            "icon": "bx bxl-telegram",
+            "icon": "bi bi-phone",
             "class": "telegram"
         },
         { 
             "name": "Discord",
+            "value": "abcdeevee's Discord",
             "link": "https://discord.com/users/238402635575590933",
-            "icon": "bx bxl-discord",
+            "icon": "bi bi-discord",
             "class": "discord"
         }
     ]

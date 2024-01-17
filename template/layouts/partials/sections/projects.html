@@ -6,38 +6,40 @@
         <div id="projects-toggle" class="row">
             <div class="col-lg-12">
                 {{ range where .Site.RegularPages "Section" "projects" }}
-                <div class="resume-item">
-                    <h4 class="text-center">{{ .Params.title }}</h4>
-                    <h5 class="projects-sub-center">{{ .Params.workTime }}</h5>
-                    <p>
-                        <em>
-                            {{ .Params.location }} {{ i18n "at" }} <i><a href="{{ .Params.companyLink }}" target="_blank">{{ .Params.company }}</a></i>
-                        </em>
-                    </p>
-                    {{ if .Params.companyLogo }}
-                    <p class="text-center">
-                        <img src="{{ .Params.companyLogo }}" height="200">
-                    </p>
-                    {{ end }}
-                    <p>
-                        {{ .Content }}
-                    </p>
-                    {{ if .Params.showcase }}
-                    <p class="text-center">
-                        <a href="#" onclick="openShowcase('{{ .Params.showcase }}');return false;"><button type="button" class="btn btn-primary"><i class="bx bxs-slideshow"></i> {{ i18n "gallery" }}</button></a>
-                    </p>
-                    {{ end }}
-                        {{ if .Params.techInfoList }}
-                            <p class="tech-infos">
-                                <p><h3>{{ i18n "technologies" }}</h3></p>
-                                <ul>
-                                {{ range .Params.techInfoList }}
-                                    <li>{{ . }}</li>
-                                {{ end }}
-                                </ul>
+                    <div class="resume-item">
+                        <h4 class="text-center">{{ .Params.title }}</h4>
+                        <h5 class="projects-sub-center">{{ .Params.workTime }}</h5>
+                        <p>
+                            <em>
+                                {{ .Params.location }} {{ i18n "at" }} <i><a href="{{ .Params.companyLink }}" target="_blank">{{ .Params.company }}</a></i>
+                            </em>
+                        </p>
+                        {{ if .Params.companyLogo }}
+                            <p class="text-center">
+                                <img src="{{ .Params.companyLogo }}" height="200">
                             </p>
                         {{ end }}
-                </div>
+                        <p>
+                            {{ .Content }}
+                        </p>
+                        {{ if .Params.showcase }}
+                            <p class="text-center">
+                                <a href="#" onclick="openShowcase('{{ .Params.showcase }}');return false;">
+                                    <button type="button" class="btn btn-primary"><i class="bx bxs-slideshow"></i> {{ i18n "gallery" }}</button>
+                                </a>
+                            </p>
+                        {{ end }}
+                        {{ if .Params.techInfoList }}
+                            <div class="tech-infos">
+                                <h3>{{ i18n "technologies" }}</h3>
+                                <ul>
+                                    {{ range .Params.techInfoList }}
+                                        <li>{{ . }}</li>
+                                    {{ end }}
+                                </ul>
+                            </div>
+                        {{ end }}
+                    </div>
                 {{ end }}
             </div>
         </div>

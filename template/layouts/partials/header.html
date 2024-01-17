@@ -1,9 +1,9 @@
 {{ template "partials/nav.html" . }}
 <section id="intro" data-route="#" class="d-flex flex-column justify-content-center align-items-center div-scroll-observer">
     <div class="intro-container" data-aos="fade-in">
-        <h1>Ivo Camargo</h1>
+        <h1>{{ .Site.Data.me.fullName }}</h1>
         <p>
-            <span class="typed" data-typed-items="Desenvolvedor Web Full Stack, Desenvolvedor de Jogos"></span>
+            <span class="typed" data-typed-items="{{ i18n "competencesForTypedAnimation" }}"></span>
         </p>
     </div>
 </section>
