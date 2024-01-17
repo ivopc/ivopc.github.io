@@ -1,0 +1,45 @@
+<section id="projects" data-route="#projects" class="resume section-bg div-scroll-observer">
+    <div class="container">
+        <div class="section-title">
+            <h2>{{ i18n "personalProjects" }} <a class="js-toggle" data-container="projects-toggle" href="#"><i class="bx bxs-up-arrow-square dropdown-btn"></i></a></h2>
+        </div>
+        <div id="projects-toggle" class="row">
+            <div class="col-lg-12">
+                {{ range where .Site.RegularPages "Section" "projects" }}
+                <div class="resume-item">
+                    <h4 class="text-center">{{ .Params.title }}</h4>
+                    <h5 class="projects-sub-center">{{ .Params.workTime }}</h5>
+                    <p>
+                        <em>
+                            {{ .Params.location }} {{ i18n "at" }} <i><a href="{{ .Params.companyLink }}" target="_blank">{{ .Params.company }}</a></i>
+                        </em>
+                    </p>
+                    {{ if .Params.companyLogo }}
+                    <p class="text-center">
+                        <img src="{{ .Params.companyLogo }}" height="200">
+                    </p>
+                    {{ end }}
+                    <p>
+                        {{ .Content }}
+                    </p>
+                    {{ if .Params.showcase }}
+                    <p class="text-center">
+                        <a href="#" onclick="openShowcase('{{ .Params.showcase }}');return false;"><button type="button" class="btn btn-primary"><i class="bx bxs-slideshow"></i> {{ i18n "gallery" }}</button></a>
+                    </p>
+                    {{ end }}
+                        {{ if .Params.techInfoList }}
+                            <p class="tech-infos">
+                                <p><h3>{{ i18n "technologies" }}</h3></p>
+                                <ul>
+                                {{ range .Params.techInfoList }}
+                                    <li>{{ . }}</li>
+                                {{ end }}
+                                </ul>
+                            </p>
+                        {{ end }}
+                </div>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</section>

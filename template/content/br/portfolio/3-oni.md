@@ -3,7 +3,6 @@
 gallery: "oni-showcase"
 
 images:
-
     - image: "/assets/img/portfolio/oni-gameplay1.png"
       link: "https://onisquad.gg/"
       title: "Oni Mansion"
