@@ -16,7 +16,8 @@
             "link": "#skills",
             "text": "Conhecimento Técnico",
             "icon": "bx bx-code-block",
-            "dataSectionRouteId": "skills"
+            "dataSectionRouteId": "skills",
+            "isTechInfo": true
         },
         {
             "link": "#resume",
@@ -66,7 +67,8 @@
             "link": "#skills",
             "text": "Skills",
             "icon": "bx bx-code-block",
-            "dataSectionRouteId": "skills"
+            "dataSectionRouteId": "skills",
+            "isTechInfo": true
         },
         {
             "link": "#resume",
@@ -78,8 +80,7 @@
             "link": "#projects",
             "text": "Projects",
             "icon": "bx bxs-file-archive",
-            "dataSectionRouteId": "projects",
-            "isTechInfo": true
+            "dataSectionRouteId": "projects"
         },
         {
             "link": "#portfolio",

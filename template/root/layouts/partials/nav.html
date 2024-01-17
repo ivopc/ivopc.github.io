@@ -28,7 +28,7 @@
                 {{ with index site.Data.navbar $lang }}
                     {{ range . }}
                         <li>
-                            <a href="{{ .link }}" data-section-route-id="{{ .dataSectionRouteId }}" class="nav-link-me scrollto">
+                            <a href="{{ .link }}" data-section-route-id="{{ .dataSectionRouteId }}" class="nav-link-me scrollto {{ if .isTechInfo }}tech-infos{{ end }}">
                                 <i class="{{ .icon }}"></i>
                                 <span>{{ .text }}</span>
                             </a>
