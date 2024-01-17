@@ -3,7 +3,7 @@ title: "Desenvolvedor de Jogos Jr e Desenvolvedor Front-End (Tempo Integral)"
 workTime: "Setembro, 2020 - Abril, 2021"
 company: "IGS | Desenvolvimento de Software"
 location: "Presencial - São Paulo, São Paulo - Brasil"
-descr: |
+description: |
     Front-End com JavaScript e TypeScript, webpack, gulp. PhaserJS é o principal framework.
 showcase: "ortiz-showcase"
 techInfoDesc: "Front-End com JavaScript e TypeScript, webpack, gulp. PhaserJS é o principal framework."
