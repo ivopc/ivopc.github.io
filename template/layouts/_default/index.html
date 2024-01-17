@@ -1,5 +1,13 @@
 {{ define "main" }}
     <main id="main">
-        {{ partial "main/experience" . }}
+        <div class="container">
+        <section id="resume" data-route="#resume" class="resume div-scroll-observer">
+            <div class="section-title">
+                <h2>{{ i18n "resume" }} <a class="js-toggle" data-container="resume-toggle" href="#"><i class="bx bxs-up-arrow-square dropdown-btn"></i></a></h2>
+            </div>
+            <div class="container">
+            {{ partial "main/experience" . }}
+            </div>
+        </section>
     </main>
 {{ end }}

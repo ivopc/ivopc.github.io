@@ -1,8 +1,45 @@
 <div class="col-lg-6">
-    sdddddddddddddddddddddddddddddddddddddddddddddddddd
     {{ range where .Site.RegularPages "Section" "resume" }}
-        {{ .Params.workTime }}
+    <div class="resume-item">
+        <h4>{{ .Params.title }}</h4>
+        <h5>{{ .Params.workTime }}</h5>
+        {{ if .Params.company }}
+            <p>
+                <em>{{ .Params.location }} {{ i18n "at" }} 
+                    <i>
+                        <a href="{{ .Params.companyLink }}" target="_blank">{{ .Params.company }}</a>
+                    </i>
+                </em>
+            </p>
+            <p class="text-center">
+                <img src="{{ .Params.companyLogo }}" width="300">
+            </p>
+        {{ end }}
+        <p>{{ .Params.description }}</p>
+        {{ if .Params.showcase }}
+        <p class="text-center">
+            <a href="#" onclick="openShowcase('{{ .Params.showcase }}');return false;"><button type="button" class="btn btn-primary"><i class="bx bxs-slideshow"></i> {{ i18n "gallery" }}</button></a>
+        </p>
+        {{ end }}
+        {{ if .Params.games }}
+            <p><h3>{{ i18n "games" }}</h3></p>
+            <ul>
+            {{ range .Params.games }}
+                <li><a target="_blank" href="{{ .link }}">{{ .name }}</a></li>
+            {{ end }}
+            </ul>
+        {{ end }}
+        <p class="tech-infos">
+            {{ .Params.techInfoDesc }}
+            {{ if .Params.techInfoList }}
+                <ul>
+                {{ range .Params.techInfoList }}
+                    <li>{{ . }}</li>
+                {{ end }}
+                </ul>
+            {{ end }}
+        </p>
+    </div>
     {{ end }}
 </div>
-
 
