@@ -1,6 +1,6 @@
 {
     "name": "Ivo",
     "fullName": "Ivo Camargo",
-    "BornDate": 1997,
-    "Age": 26
+    "bornDate": 1997,
+    "age": 26
 }
