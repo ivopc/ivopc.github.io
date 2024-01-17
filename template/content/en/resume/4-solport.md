@@ -25,5 +25,5 @@ games:
 
 <p><a href="https://solsteads.com/" target="_blank">Solstead Surreal World</a> is a Web-based NFT social multiplayer online game with gameplay similar to <a href="https://clubpenguin.fandom.com/wiki/Club_Penguin" target="_blank">Club Penguin</a>, where the player has an NFT character and can purchase NFT land within a metaverse.</p>
 <p>
-    <b>Note:</b> The <i>Solstead Surreal World</i> that I developed has been archived, and its foundation was reused to create the games <a href="https://arcade.solsteads.com/" target="_blank">Solstead Arcade</a>.
+    <b>Note:</b> The <i>Solstead Surreal World</i> that I developed has been archived, and its foundation was reused to create <a href="https://arcade.solsteads.com/" target="_blank">Solstead Arcade</a> games.
 </p>

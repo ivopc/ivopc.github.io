@@ -4,7 +4,7 @@ workTime: "November, 2023 - December, 2023"
 company: "Blaze-1.bet"
 companyLink: "https://github.com/ivopc/checkers-multiplayer-game-phaser-nest"
 companyLogo: "/assets/img/portfolio/damas-logo.webp"
-location: "Remote - Brazil"
+location: "Remote - São Paulo, São Paulo - Brazil"
 showcase: "checkers-showcase"
 techInfoDescription: ""
 techInfoList:

@@ -27,4 +27,4 @@ games:
       name: "E outros jogos..."
 ---
 
-Desenvolvimento de jogos web de cassino e videobingo, produzidos para a Ortiz Gaming.
+Desenvolvimento de jogos web de cassino e videobingo, produzidos para a Ortiz Gaming. 
