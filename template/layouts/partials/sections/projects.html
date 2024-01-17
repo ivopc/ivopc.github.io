@@ -5,7 +5,9 @@
         </div>
         <div id="projects-toggle" class="row">
             <div class="col-lg-12">
-                {{ range where .Site.RegularPages "Section" "projects" }}
+                {{ $pages := where .Site.RegularPages "Section" "projects" }}
+                {{ $sortedPages := sort $pages ".Params.index" "asc" }}
+                {{ range $sortedPages }}
                     <div class="resume-item">
                         <h4 class="text-center">{{ .Params.title }}</h4>
                         <h5 class="projects-sub-center">{{ .Params.workTime }}</h5>

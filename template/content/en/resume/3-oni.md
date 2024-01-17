@@ -1,4 +1,5 @@
 ---
+index: 2
 title: "NFT Game Developer and Full Stack Web Developer (Freelance)"
 workTime: "November, 2021 - December, 2021"
 company: "OniSquad"

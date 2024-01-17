@@ -1,4 +1,5 @@
 ---
+index: 0
 title: "Desenvolvedor Web e Desenvolvedor de Jogos (Tempo Integral e Freelance)"
 workTime: "2015 - Agora"
 ---

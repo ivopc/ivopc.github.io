@@ -1,4 +1,5 @@
 ---
+index: 0
 title: "Full Web Developer and Game Developer (Full time and Freelance)"
 workTime: "2015 - Now"
 ---

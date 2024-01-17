@@ -1,5 +1,6 @@
 ---
-title: "NFT Game Developer and Full Stack Web Developer (Full-Time)"
+index: 4
+title: "Game Developer and Full Stack Web Developer (Full-Time)"
 workTime: "November, 2023 - December, 2023"
 company: "Blaze-1.bet"
 companyLink: "https://github.com/ivopc/checkers-multiplayer-game-phaser-nest"

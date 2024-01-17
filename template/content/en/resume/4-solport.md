@@ -1,4 +1,5 @@
 ---
+index: 3
 title: "NFT Game Developer and Full Stack Web Developer (Full-Time)"
 workTime: "April, 2022 - February, 2023"
 company: "Solport.io"

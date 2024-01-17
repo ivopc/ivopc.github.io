@@ -1,4 +1,5 @@
 ---
+index: 2
 title: "Full Stack Web Developer"
 workTime: "June, 2023 - Present"
 company: "Open Rifinha"

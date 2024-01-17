@@ -1,6 +1,9 @@
 <div class="col-lg-6">
     <h3 class="resume-title">{{ i18n "profissionalExp" }}</h3>
-    {{ range where .Site.RegularPages "Section" "resume" }}
+
+    {{ $pages := where .Site.RegularPages "Section" "resume" }}
+    {{ $sortedPages := sort $pages ".Params.index" "asc" }}
+    {{ range $sortedPages }}
         <div class="resume-item">
             <h4>{{ .Params.title }}</h4>
             <h5>{{ .Params.workTime }}</h5>

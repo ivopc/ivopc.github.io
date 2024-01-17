@@ -1,4 +1,5 @@
 ---
+index: 1
 title: "Desenvolvedor de Jogos Jr e Desenvolvedor Front-End (Tempo Integral)"
 workTime: "Setembro, 2020 - Abril, 2021"
 company: "IGS | Desenvolvimento de Software"

@@ -1,4 +1,5 @@
 ---
+index: 2
 title: "Desenvolvedor Web Full Stack"
 workTime: "Junho, 2023 - Agora"
 company: "Open Rifinha"

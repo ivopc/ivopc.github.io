@@ -1,4 +1,5 @@
 ---
+index: 0
 title: "Membro ativo da comunidade open-source"
 workTime: "2015 - Agora"
 company: "GitHub de Ivopc"

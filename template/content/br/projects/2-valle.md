@@ -1,4 +1,5 @@
 ---
+index: 1
 title: "Desenvolvedor de Jogos e Desenvolvedor Web Full Stack"
 workTime: "Abril, 2016 - Agora"
 company: "Monster Valle"

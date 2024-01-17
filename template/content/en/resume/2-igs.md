@@ -1,4 +1,5 @@
 ---
+index: 1
 title: "Junior Game Developer and Front-End Developer (Full-Time)"
 workTime: "September, 2020 - April, 2021"
 company: "IGS | Software Development"

@@ -1,5 +1,6 @@
 ---
-title: "Desenvolvedor de Jogos NFT e Desenvolvedor Web Full Stack (Tempo Integral)"
+index: 4
+title: "Desenvolvedor de Jogos e Desenvolvedor Web Full Stack (Tempo Integral)"
 workTime: "Novembro, 2023 - Dezembro, 2023"
 company: "Blaze-1.bet"
 companyLink: "https://github.com/ivopc/checkers-multiplayer-game-phaser-nest"

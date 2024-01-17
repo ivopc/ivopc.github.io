@@ -1,4 +1,5 @@
 ---
+index: 3
 title: "Desenvolvedor de Jogos NFT e Desenvolvedor Web Full Stack (Tempo Integral)"
 workTime: "Abril, 2022 - Fevereiro, 2023"
 company: "Solport.io"

@@ -1,4 +1,5 @@
 ---
+index: 2
 title: "Desenvolvedor de Jogos NFT e Desenvolvedor Web Full Stack (Freelance)"
 workTime: "Novembro, 2021 - Dezembro, 2021"
 company: "OniSquad"
