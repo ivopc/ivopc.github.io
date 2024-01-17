@@ -1,25 +1,25 @@
 {{ define "main" }}
     <main id="main">
         <div class="container">
-        <section id="resume" data-route="#resume" class="resume div-scroll-observer">
-            <div class="section-title">
-                <h2>{{ i18n "resume" }} <a class="js-toggle" data-container="resume-toggle" href="#"><i class="bx bxs-up-arrow-square dropdown-btn"></i></a></h2>
-            </div>
-            <div id="resume-toggle" class="row">
-            {{ partial "main/education" . }}
-            {{ partial "main/experience" . }}
-            </div>
-        </section>
-
-            <section id="portfolio" data-route="#portfolio" class="portfolio div-scroll-observer">
-                <div class="container">
-                    <div class="section-title">
-                        <h2>{{ i18n "portfolio" }} <a  class="js-toggle" data-container="portfolio-toggle" href="#"><i class="bx bxs-up-arrow-square dropdown-btn"></i></a></h2>
-                    </div>
-                    <div id="portfolio-toggle" class="row">
-                        {{ partial "main/portfolio" . }}
-                    </div>
+            <section id="resume" data-route="#resume" class="resume div-scroll-observer">
+                <div class="section-title">
+                    <h2>{{ i18n "resume" }} <a class="js-toggle" data-container="resume-toggle" href="#"><i class="bx bxs-up-arrow-square dropdown-btn"></i></a></h2>
+                </div>
+                <div id="resume-toggle" class="row">
+                {{ partial "main/education" . }}
+                {{ partial "main/experience" . }}
                 </div>
             </section>
+        </div>
+        <section id="portfolio" data-route="#portfolio" class="portfolio div-scroll-observer">
+            <div class="container">
+                <div class="section-title">
+                    <h2>{{ i18n "portfolio" }} <a class="js-toggle" data-container="portfolio-toggle" href="#"><i class="bx bxs-up-arrow-square dropdown-btn"></i></a></h2>
+                </div>
+                <div id="portfolio-toggle" class="row">
+                    {{ partial "main/portfolio" . }}
+                </div>
+            </div>
+        </section>
     </main>
 {{ end }}
