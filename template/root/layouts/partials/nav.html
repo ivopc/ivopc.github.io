@@ -1,0 +1,49 @@
+<i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
+<header id="header">
+    <div class="d-flex flex-column">
+        <div class="profile">
+            <img src="/assets/img/profile.png" alt="" class="img-fluid rounded-circle">
+            <h1 class="text-light">
+                <a href="/">{{ site.Data.me.name }}</a>
+            </h1>
+            <div class="social-links mt-3 text-center">
+                {{ $lang := .Site.Language.Lang }}
+                {{ with index .Site.Data.socialcontacts $lang }}
+                    {{ range . }}
+                        <a href="{{ .link }}" target="_blank">
+                            <i class="{{ .icon }}"></i>
+                        </a>
+                    {{ end }}
+                {{ end }}
+            </div>
+        </div>
+        <div id="tech-infos-control">
+            <a id="eye-code-visibility-toggle" href="#">
+                <i class="bi bi-code-slash"></i> 
+                <i id="eye-visibility" class="bi bi-eye-fill"></i>
+            </a>
+        </div>
+        <nav id="navbar" class="nav-menu navbar">
+            <ul>
+                {{ with index site.Data.navbar $lang }}
+                    {{ range . }}
+                        <li>
+                            <a href="{{ .link }}" data-section-route-id="{{ .dataSectionRouteId }}" class="nav-link-me scrollto {{ if .isTechInfo }}tech-infos{{ end }}">
+                                <i class="{{ .icon }}"></i>
+                                <span>{{ .text }}</span>
+                            </a>
+                        </li>
+                    {{ end }}
+                {{ end }}
+            </ul>
+        </nav>
+        <div class="langs">
+            <a href="/">
+                <img src="/assets/img/brazil.png" title="Português Brasileiro" width="32" height="32" style="margin-right: 5px;">
+            </a>
+            <a href="/en/">
+                <img src="/assets/img/united-states.png" title="Inglês" width="32" height="32">
+            </a>
+        </div>
+    </div>
+</header>
