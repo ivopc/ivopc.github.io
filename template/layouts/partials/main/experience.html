@@ -1,4 +1,5 @@
 <div class="col-lg-6">
+    <h3 class="resume-title">{{ i18n "profissionalExp" }}</h3>
     {{ range where .Site.RegularPages "Section" "resume" }}
     <div class="resume-item">
         <h4>{{ .Params.title }}</h4>
@@ -15,14 +16,21 @@
                 <img src="{{ .Params.companyLogo }}" width="300">
             </p>
         {{ end }}
-        <p>{{ .Params.description }}</p>
+        <p>{{ .Content }}</p>
         {{ if .Params.showcase }}
         <p class="text-center">
             <a href="#" onclick="openShowcase('{{ .Params.showcase }}');return false;"><button type="button" class="btn btn-primary"><i class="bx bxs-slideshow"></i> {{ i18n "gallery" }}</button></a>
         </p>
         {{ end }}
         {{ if .Params.games }}
-            <p><h3>{{ i18n "games" }}</h3></p>
+            {{ $numGames := len .Params.games }}
+            <p><h3>
+                {{ if eq $numGames 1 }}
+                    {{ i18n "game" }}
+                {{ else }}
+                    {{ i18n "games" }}
+                {{ end }}
+            </h3></p>
             <ul>
             {{ range .Params.games }}
                 <li><a target="_blank" href="{{ .link }}">{{ .name }}</a></li>
@@ -30,8 +38,8 @@
             </ul>
         {{ end }}
         <p class="tech-infos">
-            {{ .Params.techInfoDesc }}
             {{ if .Params.techInfoList }}
+                <p><h3>{{ i18n "technologies" }}</h3></p>
                 <ul>
                 {{ range .Params.techInfoList }}
                     <li>{{ . }}</li>
