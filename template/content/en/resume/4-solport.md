@@ -1,21 +1,21 @@
 ---
-title: "Desenvolvedor de Jogos NFT e Desenvolvedor Web Full Stack (Tempo Integral)"
-workTime: "Abril, 2022 - Fevereiro, 2023"
+title: "NFT Game Developer and Full Stack Web Developer (Full-Time)"
+workTime: "April, 2022 - February, 2023"
 company: "Solport.io"
 companyLink: "https://solport.io/"
 companyLogo: "/assets/img/portfolio/solstead-logo.png"
-location: "Remoto - Inglaterra"
+location: "Remote - England"
 showcase: "solsteads-showcase"
 techInfoDescription: ""
 techInfoList:
-    - "JavaScript com Jsdoc no gameclient com Vite, PhaserJS, SocketIO, colyseus, web3.js e VueJS. NodeJS."
-    - "JavaScript com Jsdoc no gameserver com ExpressJS, Sequelize, JWT, colyseus e SocketIO."
-    - "Implementação da arquitetura MVC + services no sevidor."
-    - "Automação de componentes de UI e layouts com JSON no client."
-    - "Interação em tempo real de jogadores com sistemas de salas e/ou canais com comunicação via eventos de rede."
-    - "Consultas e requisições a Web3 API para carregar dados dos jogadores e interação dentro do 'metaverso' do jogo."
-    - "Otimização de carregamento do client com lazy load e async load dos recursos do jogo."
-    - "Seguindo tendências de clean code e SOLID sempre preferindo usar o paradigma funcional com a orientação a objeto."
+    - "JavaScript with Jsdoc in the game client using Vite, PhaserJS, SocketIO, colyseus, web3.js, and VueJS. NodeJS."
+    - "JavaScript with Jsdoc in the game server using ExpressJS, Sequelize, JWT, colyseus, and SocketIO."
+    - "Implementation of the MVC + services architecture on the server."
+    - "Automation of UI components and layouts with JSON on the client."
+    - "Real-time player interaction with room and/or channel systems using network event communication."
+    - "Queries and requests to Web3 API to load player data and interaction within the game 'metaverse'."
+    - "Client loading optimization with lazy load and async load of game resources."
+    - "Following clean code and SOLID principles, always preferring to use the functional paradigm with object-oriented programming."
 games:
     - link: "https://solsteads.com/"
       name: "Solstead Surreal World"
@@ -23,7 +23,7 @@ games:
       name: "Solstead Arcade"
 ---
 
-<p><a href="https://solsteads.com/" target="_blank">Solstead Surreal World</a> é um jogo de NFT Web-based social multiplayer online com gameplay semelhante a <a href="https://clubpenguin.fandom.com/wiki/Club_Penguin" target="_blank">Club Penguin</a> onde o jogador tem um personagem NFT e pode comprar um terreno de NFT dentro de um metaverso.</p>
+<p><a href="https://solsteads.com/" target="_blank">Solstead Surreal World</a> is a Web-based NFT social multiplayer online game with gameplay similar to <a href="https://clubpenguin.fandom.com/wiki/Club_Penguin" target="_blank">Club Penguin</a>, where the player has an NFT character and can purchase NFT land within a metaverse.</p>
 <p>
-    <b>Nota:</b> O <i>Solstead Surreal World</i> que desenvolvi foi arquivado e sua base foi reutilizada para fazer os jogos <a href="https://arcade.solsteads.com/" target="_blank">Solstead Arcade</a>.
+    <b>Note:</b> The <i>Solstead Surreal World</i> that I developed has been archived, and its foundation was reused to create the games <a href="https://arcade.solsteads.com/" target="_blank">Solstead Arcade</a>.
 </p>

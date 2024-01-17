@@ -1,21 +1,21 @@
 ---
-title: "Desenvolvedor de Jogos NFT e Desenvolvedor Web Full Stack (Freelance)"
-workTime: "Novembro, 2021 - Dezembro, 2021"
+title: "NFT Game Developer and Full Stack Web Developer (Freelance)"
+workTime: "November, 2021 - December, 2021"
 company: "OniSquad"
 companyLink: "https://onisquad.gg/"
 companyLogo: "/assets/img/portfolio/oni-logo.png"
-location: "Remoto - San Francisco, California, Estados Unidos"
+location: "Remote - San Francisco, California, United States"
 showcase: "oni-showcase"
 games:
     - link: "https://onisquad.gg/"
       name: "Oni Mansion"
 techInfoList:
-    - "JavaScript + Jsdoc no gameclient usando PhaserJS, web3.js e VueJS."
-    - "JSON para a configuração de layout do gameclient."
-    - "NodeJS com JavaScript e Jsdoc no gameserver com ExpressJS, Sequelize, JWT e libs da web3 e Postgres no banco de dados."
-    - "Postgres no banco de dados."
-    - "Aplicação do uso de devnet na blockchain e interações com smart contract no front-end com web3.js."
-    - "Uso de orientação a objeto e o paradigma funcional seguindo clean code e SOLID."
+    - "JavaScript + Jsdoc in the game client using PhaserJS, web3.js, and VueJS."
+    - "JSON for the game client layout configuration."
+    - "NodeJS with JavaScript and Jsdoc in the game server using ExpressJS, Sequelize, JWT, and web3 and Postgres libraries for the database."
+    - "Postgres for the database."
+    - "Application of devnet usage in the blockchain and interactions with smart contracts in the front-end using web3.js."
+    - "Utilized object-oriented and functional paradigm following clean code and SOLID principles."
 ---
 
-<a href="https://onisquad.gg/" target="_blank">Oni Mansion</a> é um jogo de NFT multiplayer online casual onde o jogador pode decorar sua casa com decorações assustadoras e assombrar a casa se outros jogadores.
+<a href="https://onisquad.gg/" target="_blank">Oni Mansion</a> is an online multiplayer NFT casual game where players can decorate their homes with spooky decorations and haunt each other's houses.

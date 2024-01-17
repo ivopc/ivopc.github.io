@@ -1,6 +1,5 @@
 ---
-title: "Desenvolvedor Web e Desenvolvedor de Jogos (Tempo Integral e Freelance)"
-workTime: "2015 - Agora"
+title: "Full Web Developer and Game Developer (Full time and Freelance)"
+workTime: "2015 - Now"
 ---
-
-Freelance utilizando as mais variadas tecnologias web. Manutenção em sistemas web e sistemas de servidores privados de jogos multiplayer online. Desenvolvimento de sistemas web e jogos no geral.
+Freelancing using various web technologies. Maintenance of web systems and private servers for online multiplayer games. Development of web systems and games in general.

@@ -1,19 +1,19 @@
 ---
-title: "Desenvolvedor de Jogos Jr e Desenvolvedor Front-End (Tempo Integral)"
-workTime: "Setembro, 2020 - Abril, 2021"
-company: "IGS | Desenvolvimento de Software"
+title: "Junior Game Developer and Front-End Developer (Full-Time)"
+workTime: "September, 2020 - April, 2021"
+company: "IGS | Software Development"
 companyLink: "https://www.igs-software.com.br/"
 companyLogo: "/assets/img/portfolio/ortiz-logo.png"
-location: "Presencial - São Paulo, São Paulo - Brasil"
+location: "On-site - São Paulo, São Paulo - Brazil"
 showcase: "ortiz-showcase"
 techInfoList:
-    - "Front-End com JavaScript e TypeScript, webpack, gulp. PhaserJS é o principal framework."
-    - "Usando padrões de arquitetura criativos para fazer manutenção e implementações no game framework autoral da própria empresa feito no topo do PhaserJS."
-    - "Criação de comportamento de debug durante o tempo de execução do jogo com uma GUI para otimizar a produção e manutenção do jogo."
-    - "Implementação e manutenção em AJAX para carregar assets e solicitar os valores de sorteio, dados do jogador do jogo, etc."
-    - "Implementação e manutenção nos templates dos games com JSON; comportamentos JSON automatizados para cada jogo; carregamento de scripts para cada jogo com lazy load."
-    - "Criação de scripts automatizados para a equipe de arte para fazer uma melhor produção dos recursos de arte dos jogos."
-    - "Uso de orientação a objeto e o paradigma funcional seguindo clean code e SOLID."
+    - "Front-End with JavaScript and TypeScript, webpack, gulp. PhaserJS is the main framework."
+    - "Utilized creative architectural patterns for maintenance and implementations in the company's proprietary game framework built on top of PhaserJS."
+    - "Developed debug behavior during game runtime with a GUI to optimize game production and maintenance."
+    - "Implemented and maintained AJAX for loading assets and requesting draw values, player data, etc."
+    - "Implemented and maintained game templates with JSON; automated JSON behaviors for each game; script loading for each game with lazy load."
+    - "Created automated scripts for the art team to enhance the production of game art resources."
+    - "Applied object-oriented and functional paradigm following clean code and SOLID principles."
 games:
     - link: "https://www.playbonds.com/pt/jogos/video-bingo/descricao/3726/Roma_Bingo"
       name: "Roma Bingo"
@@ -24,7 +24,7 @@ games:
     - link: "https://www.playbonds.com/pt/jogos/video-bingo/descricao/3460/Bubble_Mania"
       name: "Bubble Mania"
     - link: "http://www.ortizgaming.com/en/products/games/"
-      name: "E outros jogos..."
+      name: "And other games..."
 ---
 
-Desenvolvimento de jogos web de cassino e videobingo, produzidos para a Ortiz Gaming.
+Development of casino and videobingo web games produced for Ortiz Gaming.
