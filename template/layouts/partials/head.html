@@ -2,7 +2,9 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <title>{{ .Title }}</title>
-    <meta content="Programador, desenvolvedor de sites e jogos freelancer" name="description">
+    {{ with .Params.subtitle }}
+    <meta content="{{ . }}" name="description">
+    {{ end }}
     <meta content="" name="keywords">
     <link href="/assets/img/favicon.ico" rel="icon">
     <link href="/assets/img/favicon.ico" rel="apple-touch-icon">

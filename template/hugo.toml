@@ -1,7 +1,5 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'Bla'
-nome = 'IVOOOOOOOOOOO'
+baseURL = 'https://ivopc.github.io/'
+languageCode = 'pt-BR'
 theme = "portifa"
 
 defaultContentLanguage = 'br'
@@ -12,21 +10,21 @@ defaultContentLanguageInSubdir = false
     disabled = false
     languageCode = 'pt-BR'
     languageDirection = 'ltr'
-    languageName = 'Português Brasil'
-    title = 'Documentação do Projeto'
+    languageName = 'Portugues Brasil'
+    title = 'Ivo Camargo - Desenvolvedor Web e Desenvolvedor de Jogos'
     weight = 3
     [languages.br.params]
-      subtitle = 'Referência, Tutoriais e Explicações'
+      subtitle = 'Programador, desenvolvedor de sites e jogos freelancer'
   [languages.en]
     contentDir = 'content/en'
     disabled = false
     languageCode = 'en-US'
     languageDirection = 'ltr'
     languageName = 'English'
-    title = 'Project Documentation'
+    title = 'Ivo Camargo - Web Developer and Game Developer'
     weight = 2
     [languages.en.params]
-      subtitle = 'Reference, Tutorials, and Explanations'
+      subtitle = 'Programmer, web and game developer freelance'
 
 [markup.goldmark.renderer]
   unsafe = true
