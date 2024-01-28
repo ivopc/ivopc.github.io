@@ -66,6 +66,8 @@ function hideDevInfo () {
   eyes.classList.add("bi-eye-slash-fill");
   [... document.querySelectorAll(".tech-infos") ].forEach(el => el.style.display = "none");
   localStorage.setItem("hideDevInfo", true);
+  document.querySelector(".profile").querySelector("img").src = "/assets/img/profile.png";
+  
 };
 
 function showDevInfo () {
@@ -74,4 +76,5 @@ function showDevInfo () {
   eyes.classList.add("bi-eye-fill");
   [... document.querySelectorAll(".tech-infos") ].forEach(el => el.style.display = '');
   localStorage.setItem("hideDevInfo", false);
+  document.querySelector(".profile").querySelector("img").src = "/assets/img/profile-dev.png";
 };
