@@ -19,4 +19,4 @@ techInfoList:
     - "Utilized object-oriented and functional paradigm following clean code and SOLID principles."
 ---
 
-<a href="https://onisquad.gg/" target="_blank">Oni Mansion</a> is an online multiplayer NFT casual game where players can decorate their homes with spooky decorations and haunt each other's houses.
+<a href="https://onisquad.gg/" target="_blank">Oni Mansion</a> is an online multiplayer NFT casual game where players can decorate their homes with scary decorations and haunt each other's houses.

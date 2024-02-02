@@ -40,15 +40,6 @@ function portfolioFiltersOnClick(e) {
   window.portfolioIsotope.on("arrangeComplete", () => AOS.refresh());
 }
 
-function addProtectedContactInfo() {
-  document.querySelector("#protected-imail").innerText = atob(
-    "aXZvb3BjQGdtYWlsLmNvbQ=="
-  );
-  document.querySelector("#protected-number").innerText = atob(
-    "KyA1NSAxMSA5NzEzODAxMjc="
-  );
-}
-
 function openShowcase (name) {
   document.querySelector(`[data-gallery="${name}"]`).click();
 };

@@ -42,7 +42,6 @@ function onDOMReady() {
     mirror: true,
   });
   addToggle();
-  setTimeout(addProtectedContactInfo, 2000);
 
   if (localStorage.getItem("hideDevInfo") === "true") {
     hideDevInfo();

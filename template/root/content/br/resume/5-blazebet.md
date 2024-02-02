@@ -9,6 +9,7 @@ location: "Remoto - São Paulo, São Paulo - Brasil"
 showcase: "checkers-showcase"
 techInfoDescription: ""
 techInfoList:
+    - "TypeScript com PhaserJS, ReactJS, NestJS, SocketIO e Prisma."
     - "Interação em tempo real de jogadores com sistemas de salas e/ou canais com comunicação via eventos de rede e websockets e matchmaking."
     - "Arquitetura própria limpa e organizada baseada em Entity-Rule-Manager."
     - "Seguindo tendências de clean code e SOLID sempre preferindo usar o paradigma funcional com a orientação a objeto."

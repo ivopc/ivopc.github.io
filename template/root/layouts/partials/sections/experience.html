@@ -43,6 +43,9 @@
                 </ul>
             {{ end }}
             <div class="tech-infos">
+                {{ if .Params.techInfoDescription }}
+                    {{ .Params.techInfoDescription }}
+                {{ end }}
                 {{ if .Params.techInfoList }}
                     <h3>{{ i18n "technologies" }}</h3>
                     <ul>
