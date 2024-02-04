@@ -27,7 +27,7 @@ async function detectCountry() {
                 await showChangeModal("Looks like you do not speak my native language, do you want to go to english page?");
             };
             if (localStorage.getItem("hideDevVisibilityCheck") === null || localStorage.getItem("hideDevVisibilityCheck") === "false") 
-                await showDevVisibility(showDevVisibilityLangs[lang !== "BR" ? "EN" : "EN"]);
+                await showDevVisibility(showDevVisibilityLangs[lang !== "BR" ? "EN" : "BR"]);
         } catch (err) {
             showChangeModal("I cannot detect your language, do you want to go to the english page?");
         };
