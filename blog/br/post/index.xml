@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Ivopc Blog</title>
+    <link>https://ivopc.github.io/blog/br/post/</link>
+    <description>Recent content in Posts on Ivopc Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-BR</language>
+    <copyright>Ivopc</copyright>
+    <lastBuildDate>Mon, 05 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ivopc.github.io/blog/br/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World!</title>
+      <link>https://ivopc.github.io/blog/br/post/first-post/</link>
+      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://ivopc.github.io/blog/br/post/first-post/</guid>
+      <description>console.log(&amp;#34;Hello world! =]&amp;#34;); Esse ano começou muito bem para mim, com um monte de entrevistas com empresas locais e internacionais desde dezembro, estou fazendo alguns projetos pessoais e mantendo o foco no trabalho e nos meus projetos. Também iniciarei o estudo de diversas outras linguagens e tentar alcançar um nível pleno em cada uma delas já atribuindo esse conhecimento na prática e realizando projetos com cada linguagem que estudei.</description>
+    </item>
+  </channel>
+</rss>

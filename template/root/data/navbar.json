@@ -44,7 +44,7 @@
             "dataSectionRouteId": "contact"
         },
         {
-            "link": "/blog",
+            "link": "/blog/br/",
             "text": "Blog",
             "icon": "bi bi-newspaper",
             "dataSectionRouteId": ""

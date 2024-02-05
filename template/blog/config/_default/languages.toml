@@ -1,0 +1,35 @@
+[en]
+  languageCode = 'en-US'
+  languageDirection = 'ltr'
+  languageName = 'English'
+  weight = 1
+  [en.menu]
+  [[en.menu.main]]
+    identifier = "post"
+    name = "Post"
+    pageRef = "post"
+    weight = 10
+
+  [[en.menu.main]]
+    identifier = "about"
+    name = "About"
+    pageRef = "about"
+    weight = 20
+
+[br]
+  languageCode = 'pt-BR'
+  languageDirection = 'ltr'
+  languageName = 'Português Brasil'
+  weight = 2
+  [br.menu]
+  [[br.menu.main]]
+    identifier = "post"
+    name = "Post"
+    pageRef = "post"
+    weight = 10
+
+  [[br.menu.main]]
+    identifier = "about"
+    name = "Sobre"
+    pageRef = "about"
+    weight = 20
