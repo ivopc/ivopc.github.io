@@ -1,0 +1,36 @@
+Olá. Sobre o trabalho:
+
+Meu portfólio e minhas redes sociais no ramo profissional:
+
+https://ivopc.github.io/
+https://www.linkedin.com/in/ivo-camargo-97a670161/?locale=pt_BR/
+https://github.com/ivopc/
+
+
+Informações:
+- Desenvolvi um MMORPG completo baseado em pokémon (open-source) com sistema de script altamente avançado e linguagem de script pessoal, semelhante aos recursos do RPG Maker.
+- Trabalhei em um estúdio de jogos cassino de vídeo bingo (presencial).
+- Desenvolvi dois jogos NFT, um jogo social estilo Club Penguin com metaverso e minijogos. Jogo online social casual com coleções de casas assombadras da casa NFT.
+- Desenvolvi um jogo de damas multiplayer online  para uma empresa de jogos de apostas.
+- Trabalho com desenvolvimento web: VueJS, ReactJS, NuxtJS, NextJS, NestJS, Express, SocketIO, Colyseus, PHP, jQuery, Bootstrap e outras ferramentas web generalistas. E outras engimes/frameworks de jogos.
+- Manutenção em alguns servidores de jogos online multiplayer.
+- Membro ativo da comunidade open-source com ferramentas publicadas e também ajudo frequentemente outros membros da comunidade.
+
+______________________________________________________________
+
+Hello, about the job:
+
+My portfolio and professional social profiles:
+
+https://ivopc.github.io/en-US.html
+https://www.linkedin.com/in/ivo-camargo-97a670161/
+https://github.com/ivopc/
+
+Infos:
+- Developed a full featured MMORPG based in pokémon (open source) with high advanced scripting system and personal scripting language, similar to RPG Maker features.
+- Worked for a cassino video bingo (in person) game studio.
+- Developed two NFT games, a club penguin social game based with metaverse and minigames. Casual social game with NFT haunted houses traits collections.
+- Developed a multiplayer online checkers game for a bet company.
+- Work with web development: VueJS, ReactJS, NuxtJS, NestJS, Express, SocketIO, Colyseus, PHPm jQuery, Bootstrap  and other main and generalist web tools. And other game engines/frameworks.
+- Maintenance in some multiplayer online game servers. 
+- Open Source enthusiastic and active member of the open source community with so many open source tools in my GitHub.
