@@ -17,12 +17,6 @@
             "link": "https://t.me/ivopc",
             "icon": "bx bxl-telegram",
             "class": "phone"
-        },
-        { 
-            "name": "Discord",
-            "link": "https://discord.com/users/238402635575590933",
-            "icon": "bx bxl-discord",
-            "class": "discord"
         }
     ],
     "en": [
@@ -43,12 +37,6 @@
             "link": "https://t.me/ivopc",
             "icon": "bx bxl-telegram",
             "class": "telegram"
-        },
-        { 
-            "name": "Discord",
-            "link": "https://discord.com/users/238402635575590933",
-            "icon": "bx bxl-discord",
-            "class": "discord"
         }
     ]
 }

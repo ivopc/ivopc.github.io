@@ -22,9 +22,15 @@
                             <div class="portfolio-wrap">
                                 <img src="{{ .image }}" class="img-fluid" alt="">
                                 <div class="portfolio-links">
-                                    <a href="{{ .image }}" data-gallery="{{ $gallery }}" class="portfolio-lightbox" title="{{ .title }}">
-                                        <i class="bx bx-plus"></i>
-                                    </a>
+                                    {{ if .video }}
+                                        <a href="{{ .video }}" data-gallery="{{ $gallery }}" class="portfolio-lightbox" title="{{ .title }}">
+                                            <i class="bx bx-play"></i>
+                                        </a>
+                                    {{ else }}
+                                        <a href="{{ .image }}" data-gallery="{{ $gallery }}" class="portfolio-lightbox" title="{{ .title }}">
+                                            <i class="bx bx-plus"></i>
+                                        </a>
+                                    {{ end }}
                                     <a href="{{ .link }}" target="_blank" title="{{ .title }}">
                                         <i class="bx bx-link"></i>
                                     </a>

@@ -1,0 +1,10 @@
+install:
+sudo snap install hugo --revision=22935
+
+run hugo:
+snap run hugo serve -D
+
+
+version:
+Name  Version  Rev    Tracking       Publisher     Notes
+hugo  0.145.0  22935  latest/stable  hugo-authors  -

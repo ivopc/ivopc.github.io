@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Ivo Camargo - Desenvolvedor Web e Desenvolvedor de Jogos</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in Abouts on Ivo Camargo - Desenvolvedor Web e Desenvolvedor de Jogos</description>
+    <generator>Hugo</generator>
+    <language>pt-BR</language>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/about/</guid>
+      <description>&lt;p&gt;Olá! Meu nome é Ivo e nasci em São Paulo. Comecei a amar computadores e video games na minha infância e sempre me&#xA;interessei em saber como isso tudo funciona. &lt;br&gt;&#xA;Quando eu tinha 12 anos, tive meus primeiros contatos com linguagens de programação e&#xA;quando completei 13 anos descobri e criei uma ferramenta poderosa em um famoso jogo online que influenciou&#xA;centenas de milhares de jogadores no jogo.&#xA;Aos 18 anos comecei a encarar isso tudo como uma profissão e comecei a trabalhar com desenvolvimento web e de jogos.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

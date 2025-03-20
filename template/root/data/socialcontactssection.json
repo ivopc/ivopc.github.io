@@ -25,15 +25,8 @@
             "name": "Telegram",
             "value": "Telegram de @ivopc",
             "link": "https://t.me/ivopc",
-            "icon": "bi bi-phone",
-            "class": "phone"
-        },
-        { 
-            "name": "Discord",
-            "value": "Discord de abcdeevee",
-            "link": "https://discord.com/users/238402635575590933",
-            "icon": "bi bi-discord",
-            "class": "discord"
+            "icon": "bi bi-telegram",
+            "class": "telegram"
         }
     ],
     "en": [
@@ -62,15 +55,8 @@
             "name": "Telegram",
             "value": "@ivopc's Telegram",
             "link": "https://t.me/ivopc",
-            "icon": "bi bi-phone",
+            "icon": "bi bi-telegram",
             "class": "telegram"
-        },
-        { 
-            "name": "Discord",
-            "value": "abcdeevee's Discord",
-            "link": "https://discord.com/users/238402635575590933",
-            "icon": "bi bi-discord",
-            "class": "discord"
         }
     ]
 }

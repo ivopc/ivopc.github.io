@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resumes on Ivo Camargo - Web Developer and Game Developer</title>
+    <link>http://localhost:1313/en/resume/</link>
+    <description>Recent content in Resumes on Ivo Camargo - Web Developer and Game Developer</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <atom:link href="http://localhost:1313/en/resume/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Full Web Developer and Game Developer (Full time and Freelance)</title>
+      <link>http://localhost:1313/en/resume/1-fulltime/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/resume/1-fulltime/</guid>
+      <description>&lt;p&gt;Freelancing using various web technologies. Maintenance of web systems and private servers for online multiplayer games. Development of web systems and games in general.&#xA;Institutional websites, landing pages, blogs, web apps, html5 hybrid apps. Systems maintenance, website building, updates. Pentest to find exploits in the system and mechanics of multiplayer online games and websites, construction and maintenance of online games systems and mechanics.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Game Developer and Full Stack Web Developer (Full-Time)</title>
+      <link>http://localhost:1313/en/resume/5-blazebet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/resume/5-blazebet/</guid>
+      <description>&lt;p style=&#34;color: #c0392b;&#34;&gt;&#xA;    &lt;b&gt;DISCLAIMER: The &#34;company&#34; did not compensate its employees, and we experienced non-payment, bad faith and scam from them, so I decided to make my part of the project &lt;a href=&#34;https://github.com/ivopc/checkers-multiplayer-game-phaser-nest/&#34; target=&#34;_blank&#34;&gt;open-source&lt;/a&gt;.&lt;/b&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Junior Game Developer and Front-End Developer (Full-Time)</title>
+      <link>http://localhost:1313/en/resume/2-igs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/resume/2-igs/</guid>
+      <description>&lt;p&gt;Development of casino and videobingo web games produced for Ortiz Gaming.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NFT Game Developer and Full Stack Web Developer (Freelance)</title>
+      <link>http://localhost:1313/en/resume/3-oni/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/resume/3-oni/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://onisquad.gg/&#34; target=&#34;_blank&#34;&gt;Oni Mansion&lt;/a&gt; is an online multiplayer NFT casual game where players can decorate their homes with scary decorations and haunt each other&amp;rsquo;s houses.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NFT Game Developer and Full Stack Web Developer (Full-Time)</title>
+      <link>http://localhost:1313/en/resume/4-solport/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/resume/4-solport/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://solsteads.com/&#34; target=&#34;_blank&#34;&gt;Solstead Surreal World&lt;/a&gt; is a Web-based NFT social multiplayer online game with gameplay similar to &lt;a href=&#34;https://clubpenguin.fandom.com/wiki/Club_Penguin&#34; target=&#34;_blank&#34;&gt;Club Penguin&lt;/a&gt;, where the player has an NFT character and can purchase NFT land within a metaverse.&lt;/p&gt;&#xA;&lt;p&gt;&#xA;    &lt;b&gt;Note:&lt;/b&gt; The &lt;i&gt;Solstead Surreal World&lt;/i&gt; that I developed has been archived, and its code base was reused to create &lt;a href=&#34;https://arcade.solsteads.com/&#34; target=&#34;_blank&#34;&gt;Solstead Arcade&lt;/a&gt; games.&#xA;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
