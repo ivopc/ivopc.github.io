@@ -13,7 +13,7 @@ techInfoList:
     - "Criação de comportamento de debug durante o tempo de execução do jogo com uma GUI para otimizar a produção e manutenção do jogo."
     - "Implementação e manutenção em AJAX para carregar assets e solicitar os valores de sorteio, dados do jogador do jogo, etc."
     - "Implementação e manutenção nos templates dos games com JSON; comportamentos JSON automatizados para cada jogo; carregamento de scripts para cada jogo com lazy load."
-    - "Criação de scripts automatizados para a equipe de arte para fazer uma melhor produção dos recursos de arte dos jogos."
+    - "Criação de scripts automatizados com Python para a equipe de arte para fazer uma melhor produção dos recursos de arte dos jogos."
     - "Uso de orientação a objeto e o paradigma funcional seguindo clean code e SOLID."
 games:
     - link: "https://www.playbonds.com/pt/jogos/video-bingo/descricao/3726/Roma_Bingo"

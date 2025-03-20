@@ -12,9 +12,7 @@ techInfoList:
     - "TypeScript com Vite, PhaserJS, ReactJS e TailWindCSS no FrontEnd."
     - "TypeScript com NestJS e TypeORM no BackEnd."
 ---
-
-Stardust Coin Flip é um mini game feito em um dia para uma coleção de mini games focados no ramo de aposta interno como jogos complementares aos principais. 
-
+Stardust Coin Flip é um minigame desenvolvido em um dia como parte de uma coleção de jogos voltados para apostas internas, servindo como complemento aos jogos principais.
 <p style="color:#f1c40f;">
-    <b>Aparentemente a empresa engavetou o projeto e não houve continuidade na produção de outros minigames posteriores.</b>
+    <b>Nota</b>: A empresa engavetou o projeto e não deu continuidade à produção de outros minigames.
 </p>
