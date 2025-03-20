@@ -4,7 +4,7 @@
     <title>Ivo Camargo - Web Developer and Game Developer</title>
     <link>https://ivopc.github.io/en/</link>
     <description>Recent content on Ivo Camargo - Web Developer and Game Developer</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-US</language>
     <atom:link href="https://ivopc.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,7 +12,7 @@
       <link>https://ivopc.github.io/en/about/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ivopc.github.io/en/about/about/</guid>
-      <description>Hello! My name is Ivo, and I was born in São Paulo. I began to love computers and video games during my childhood and always had an interest in understanding how it works. When I was 12 years old, I had my first experience with programming languages, and when I turned 13, I discovered and created a powerful tool in a popular online game that influenced hundreds of thousands of players in the game.</description>
+      <description>&lt;p&gt;&#xA;Hello! My name is Ivo, and I was born in São Paulo. I began to love computers and video games during my childhood and always had an interest in understanding how it works.&#xA;&lt;/p&gt; &#xA;&lt;p&gt;&#xA;When I was 12 years old, I had my first experience with programming languages, and when I turned 13, I discovered and created a powerful tool in a popular online game that influenced hundreds of thousands of players in the game. At the age of 18, I started to face all of this as a profession and began working in web and game development as well.&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
@@ -61,63 +61,63 @@
       <link>https://ivopc.github.io/en/projects/1-community/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ivopc.github.io/en/projects/1-community/</guid>
-      <description>I actively contribute to development communities, having identified issues in widely-used professional projects (examples: SocketCluster and Phaser 3). I have open-source tools available in my repositories and have accumulated over 100 stars on my GitHub.</description>
+      <description>&lt;p&gt;I actively contribute to development communities, having identified issues in widely-used professional projects (examples: &lt;a href=&#34;https://github.com/SocketCluster/socketcluster/issues/227&#34; target=&#34;_blank&#34;&gt;SocketCluster&lt;/a&gt; and &lt;a href=&#34;https://github.com/phaserjs/phaser/issues/4689&#34; target=&#34;_blank&#34;&gt;Phaser 3&lt;/a&gt;). I have open-source tools available in my &lt;a href=&#34;https://github.com/ivopc?tab=repositories&#34; target=&#34;_blank&#34;&gt;repositories&lt;/a&gt; and have accumulated over &lt;i&gt;&lt;mark&gt;100 stars&lt;/i&gt;&lt;/mark&gt;&lt;/i&gt; on my &lt;i&gt;&lt;a href=&#34;https://github.com/ivopc/&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;&lt;/i&gt;.&lt;/p&gt;&#xA;&lt;iframe class=&#34;projects-sub-center&#34; src=&#34;https://github-readme-stats.vercel.app/api?username=ivopc&amp;show_icons=true&amp;theme=dark&amp;count_private=true&amp;hide=contribs&#34;&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>Full Stack Web Developer</title>
       <link>https://ivopc.github.io/en/projects/3-rifinha/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ivopc.github.io/en/projects/3-rifinha/</guid>
-      <description>Open Rifinha is a web-based prize draw raffle system that leverages my web development skills, incorporating the payment system of Mercado Pago via PIX. The public website features: a homepage displaying available prizes and a summarized list of past draw winners. Navigation menu includes: all ongoing and completed draws; all winners; customer purchase inquiries. Footer with additional information, social media links, and direct contact with the administrator. Prize draw raffle tickets Purchase: Customers can choose the number of prize draw raffles tickets they want to purchase in either a randomized or specific number selection mode.</description>
+      <description>&lt;p&gt;&#xA;    &lt;i&gt;&lt;a href=&#34;https://github.com/ivopc/open-rifinha/&#34; target=&#34;_blank&#34;&gt;Open Rifinha&lt;/a&gt;&lt;/i&gt; is a web-based prize draw raffle system that leverages my web development skills, incorporating the payment system of &#xA;    &lt;a href=&#34;https://www.mercadopago.com.br/&#34; target=&#34;_blank&#34;&gt;Mercado Pago&lt;/a&gt; via &#xA;    &lt;a href=&#34;https://www.bcb.gov.br/estabilidadefinanceira/pix&#34; target=&#34;_blank&#34;&gt;PIX&lt;/a&gt;. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;&#xA;    The &lt;i&gt;public website&lt;/i&gt; features: a homepage displaying available prizes and a summarized list of past draw winners. Navigation menu includes: all ongoing and completed draws; all winners; customer purchase inquiries. Footer with additional information, social media links, and direct contact with the administrator.&#xA;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;    &lt;li&gt;&lt;i&gt;Prize draw raffle tickets Purchase&lt;/i&gt;: Customers can choose the number of prize draw raffles tickets they want to purchase in either a &lt;a href=&#34;https://www.dicio.com.br/randomica/&#34; target=&#34;_blank&#34;&gt;randomized&lt;/a&gt; or specific number selection mode. A &lt;a href=&#34;https://www.bcb.gov.br/estabilidadefinanceira/pix&#34; target=&#34;_blank&#34;&gt;PIX&lt;/a&gt; payment with QR Code is generated, and the system automatically marks the purchase as complete when the &lt;a href=&#34;https://www.bcb.gov.br/estabilidadefinanceira/pix&#34; target=&#34;_blank&#34;&gt;PIX&lt;/a&gt; payment is confirmed. The system includes a promotion system based on the number of tickets purchased, configured in the admin dashboard.&lt;/li&gt;&#xA;    &lt;li&gt;&lt;i&gt;Winners&lt;/i&gt;: List of all draw winners.&lt;/li&gt;&#xA;    &lt;li&gt;&lt;i&gt;Customer Tickets&lt;/i&gt;: Customers can check the current status of their purchases.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&#xA;    &lt;i&gt;Admin Dashboard&lt;/i&gt;: Login; index showing overall sales statistics; manage draws; manage ticket purchases; detailed sales ranking; website layout management; general settings.&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Full Web Developer and Game Developer (Full time and Freelance)</title>
       <link>https://ivopc.github.io/en/resume/1-fulltime/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ivopc.github.io/en/resume/1-fulltime/</guid>
-      <description>Freelancing using various web technologies. Maintenance of web systems and private servers for online multiplayer games. Development of web systems and games in general. Institutional websites, landing pages, blogs, web apps, html5 hybrid apps. Systems maintenance, website building, updates. Pentest to find exploits in the system and mechanics of multiplayer online games and websites, construction and maintenance of online games systems and mechanics.</description>
+      <description>&lt;p&gt;Freelancing using various web technologies. Maintenance of web systems and private servers for online multiplayer games. Development of web systems and games in general.&#xA;Institutional websites, landing pages, blogs, web apps, html5 hybrid apps. Systems maintenance, website building, updates. Pentest to find exploits in the system and mechanics of multiplayer online games and websites, construction and maintenance of online games systems and mechanics.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Game Developer and Full Stack Web Developer</title>
       <link>https://ivopc.github.io/en/projects/2-valle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ivopc.github.io/en/projects/2-valle/</guid>
-      <description>Monster Valle is a complete MMORPG game with turn-based battles and collectible monsters. The game has significantly contributed to my professional reputation and has opened doors to international opportunities. Notable game mechanics: battle, farming, PvP, player market, quests, real-time multiplayer interactions, monster attack learning and leveling up, party, items, storyline, RPG systems in general, etc. The old version, currently available for testing the game for non-commercial purposes and with some bugs, has become open-source, and its code is available here.</description>
+      <description>&lt;p&gt;&#xA;    &lt;i&gt;&lt;a href=&#34;https://monstervalle.onrender.com/&#34; target=&#34;_blank&#34;&gt;Monster Valle&lt;/a&gt;&lt;/i&gt; is a complete MMORPG game with turn-based battles and collectible monsters. The game has significantly contributed to my professional reputation and has opened doors to international opportunities.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&#xA;    Notable game mechanics: battle, farming, PvP, player market, quests, real-time multiplayer interactions, monster attack learning and leveling up, party, items, storyline, RPG systems in general, etc.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&#xA;    The &lt;i&gt;&lt;a href=&#34;https://monstervalle.onrender.com/&#34; target=&#34;_blank&#34;&gt;old version&lt;/a&gt;&lt;/i&gt;, currently available for testing the game for non-commercial purposes and with &lt;b style=&#34;color: #c0392b;&#34;&gt;some bugs&lt;/b&gt;, has become open-source, and its code is available &lt;i&gt;&lt;a href=&#34;https://github.com/ivopc/Monster-Valle/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/i&gt;. I am working on a &lt;b&gt;completely new&lt;/b&gt; and &lt;b&gt;recreated from scratch&lt;/b&gt; version of the game.&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Game Developer and Full Stack Web Developer (Full-Time)</title>
       <link>https://ivopc.github.io/en/resume/5-blazebet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ivopc.github.io/en/resume/5-blazebet/</guid>
-      <description> DISCLAIMER: The &#34;company&#34; did not compensate its employees, and we experienced non-payment, bad faith and scam from them, so I decided to make my part of the project open-source. </description>
+      <description>&lt;p style=&#34;color: #c0392b;&#34;&gt;&#xA;    &lt;b&gt;DISCLAIMER: The &#34;company&#34; did not compensate its employees, and we experienced non-payment, bad faith and scam from them, so I decided to make my part of the project &lt;a href=&#34;https://github.com/ivopc/checkers-multiplayer-game-phaser-nest/&#34; target=&#34;_blank&#34;&gt;open-source&lt;/a&gt;.&lt;/b&gt;&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Game Development and 3D Game Art</title>
       <link>https://ivopc.github.io/en/education/1-saga/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ivopc.github.io/en/education/1-saga/</guid>
-      <description>Unreal Engine, Photoshop and Maya. Game Design and 3D Game Art.</description>
+      <description>&lt;p&gt;Unreal Engine, Photoshop and Maya. Game Design and 3D Game Art.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Junior Game Developer and Front-End Developer (Full-Time)</title>
       <link>https://ivopc.github.io/en/resume/2-igs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ivopc.github.io/en/resume/2-igs/</guid>
-      <description>Development of casino and videobingo web games produced for Ortiz Gaming.</description>
+      <description>&lt;p&gt;Development of casino and videobingo web games produced for Ortiz Gaming.&lt;/p&gt;</description>
     </item>
     <item>
       <title>NFT Game Developer and Full Stack Web Developer (Freelance)</title>
       <link>https://ivopc.github.io/en/resume/3-oni/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ivopc.github.io/en/resume/3-oni/</guid>
-      <description>Oni Mansion is an online multiplayer NFT casual game where players can decorate their homes with scary decorations and haunt each other&amp;rsquo;s houses.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://onisquad.gg/&#34; target=&#34;_blank&#34;&gt;Oni Mansion&lt;/a&gt; is an online multiplayer NFT casual game where players can decorate their homes with scary decorations and haunt each other&amp;rsquo;s houses.&lt;/p&gt;</description>
     </item>
     <item>
       <title>NFT Game Developer and Full Stack Web Developer (Full-Time)</title>
       <link>https://ivopc.github.io/en/resume/4-solport/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ivopc.github.io/en/resume/4-solport/</guid>
-      <description>Solstead Surreal World is a Web-based NFT social multiplayer online game with gameplay similar to Club Penguin, where the player has an NFT character and can purchase NFT land within a metaverse.&#xA;Note: The Solstead Surreal World that I developed has been archived, and its code base was reused to create Solstead Arcade games. </description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://solsteads.com/&#34; target=&#34;_blank&#34;&gt;Solstead Surreal World&lt;/a&gt; is a Web-based NFT social multiplayer online game with gameplay similar to &lt;a href=&#34;https://clubpenguin.fandom.com/wiki/Club_Penguin&#34; target=&#34;_blank&#34;&gt;Club Penguin&lt;/a&gt;, where the player has an NFT character and can purchase NFT land within a metaverse.&lt;/p&gt;&#xA;&lt;p&gt;&#xA;    &lt;b&gt;Note:&lt;/b&gt; The &lt;i&gt;Solstead Surreal World&lt;/i&gt; that I developed has been archived, and its code base was reused to create &lt;a href=&#34;https://arcade.solsteads.com/&#34; target=&#34;_blank&#34;&gt;Solstead Arcade&lt;/a&gt; games.&#xA;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

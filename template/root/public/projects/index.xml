@@ -2,31 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Ivo Camargo - Desenvolvedor Web e Desenvolvedor de Jogos</title>
-    <link>http://localhost:1313/projects/</link>
+    <link>https://ivopc.github.io/projects/</link>
     <description>Recent content in Projects on Ivo Camargo - Desenvolvedor Web e Desenvolvedor de Jogos</description>
     <generator>Hugo</generator>
     <language>pt-BR</language>
-    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ivopc.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Desenvolvedor de Jogos e Desenvolvedor Web Full Stack</title>
-      <link>http://localhost:1313/projects/2-valle/</link>
+      <link>https://ivopc.github.io/projects/2-valle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/2-valle/</guid>
+      <guid>https://ivopc.github.io/projects/2-valle/</guid>
       <description>&lt;p&gt;&#xA;    &lt;i&gt;&lt;a href=&#34;https://monstervalle.onrender.com/&#34; target=&#34;_blank&#34;&gt;Monster Valle&lt;/a&gt;&lt;/i&gt; é um jogo de MMORPG completo com lutas baseadas em turno e monstros colecionáveis. O jogo rendeu muita propriedade ao meu nome como profissional e graças a ele arranjei trabalhos no exterior.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&#xA;    Mecânicas notáveis: batalha, farming, PvP, mercado de jogadores, missões, interações multiplayer em tempo real, aprendizado de ataques de monstros e aumento de nível, party, itens, enredo, sistemas de RPG no geral, etc.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&#xA;    A &lt;i&gt;&lt;a href=&#34;https://monstervalle.onrender.com/&#34; target=&#34;_blank&#34;&gt;versão antiga&lt;/a&gt;&lt;/i&gt;, que atualmente está disponível &#xA;    para testar o jogo, sem fins comerciais e com &lt;b style=&#34;color: #c0392b;&#34;&gt;alguns bugs&lt;/b&gt;, tornou-se open-source e seu código está disponível &lt;i&gt;&lt;a href=&#34;https://github.com/ivopc/Monster-Valle/&#34; target=&#34;_blank&#34;&gt;aqui&lt;/a&gt;&lt;/i&gt;. Estou trabalhando em uma versão do jogo &lt;b&gt;totalmente nova&lt;/b&gt; e &lt;b&gt;refeita do zero&lt;/b&gt;.&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Desenvolvedor Web Full Stack</title>
-      <link>http://localhost:1313/projects/3-rifinha/</link>
+      <link>https://ivopc.github.io/projects/3-rifinha/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/3-rifinha/</guid>
+      <guid>https://ivopc.github.io/projects/3-rifinha/</guid>
       <description>&lt;p&gt;&#xA;    &lt;i&gt;&lt;a href=&#34;https://github.com/ivopc/open-rifinha/&#34; target=&#34;_blank&#34;&gt;Open Rifinha&lt;/a&gt;&lt;/i&gt; é um sistema web de rifas que &#xA;    envolve meus conhecimentos diretamente relacionados a desenvolvimento web utilizando o sistema de pagamento do &#xA;    &lt;a href=&#34;https://www.mercadopago.com.br/&#34; target=&#34;_blank&#34;&gt;Mercado Pago&lt;/a&gt; via &#xA;    &lt;a href=&#34;https://www.bcb.gov.br/estabilidadefinanceira/pix&#34; target=&#34;_blank&#34;&gt;PIX&lt;/a&gt;. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;&#xA;    No &lt;i&gt;website disponível ao público&lt;/i&gt; tem: página inicial onde mostra os prêmios disponíveis e os ganhadores dos sorteios passados de maneira resumida. Menu de navegação incluindo: todos os sorteios atuais e já feitos; todos os ganhadores; consultar as compras do cliente. Rodapé com as demais informações, redes sociais e contato direto com o administrador.&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Membro ativo da comunidade open-source</title>
-      <link>http://localhost:1313/projects/1-community/</link>
+      <link>https://ivopc.github.io/projects/1-community/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/1-community/</guid>
-      <description>&lt;p&gt;Contribuo ativamente nas comunidades de desenvolvimento, já achei problemas em projetos amplamente utilizados a nível profissional (exemplos: &lt;a href=&#34;https://github.com/SocketCluster/socketcluster/issues/227&#34; target=&#34;_blank&#34;&gt;SocketCluster&lt;/a&gt; e &lt;a href=&#34;https://github.com/phaserjs/phaser/issues/4689&#34; target=&#34;_blank&#34;&gt;Phaser 3&lt;/a&gt;), tenho ferramentas open-source disponíveis em meus &lt;a href=&#34;https://github.com/ivopc?tab=repositories&#34; target=&#34;_blank&#34;&gt;repositórios&lt;/a&gt; e já acumulei mais de &lt;i&gt;&lt;mark&gt;100 estrelas&lt;/i&gt;&lt;/mark&gt;&lt;/i&gt; no meu &lt;i&gt;&lt;a href=&#34;https://github.com/ivopc/&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;&lt;/i&gt;.&lt;/p&gt;&#xA;&lt;iframe class=&#34;projects-sub-center&#34; src=&#34;https://github-readme-stats.vercel.app/api?username=ivopc&amp;show_icons=true&amp;theme=dark&amp;count_private=true&amp;hide=contribs&#34;&gt;&lt;/iframe&gt;</description>
+      <guid>https://ivopc.github.io/projects/1-community/</guid>
+      <description>&lt;p&gt;Contribuo ativamente nas comunidades de desenvolvimento, já achei problemas em projetos amplamente utilizados a nível profissional (exemplos: &lt;a href=&#34;https://github.com/SocketCluster/socketcluster/issues/227&#34; target=&#34;_blank&#34;&gt;SocketCluster&lt;/a&gt; e &lt;a href=&#34;https://github.com/phaserjs/phaser/issues/4689&#34; target=&#34;_blank&#34;&gt;Phaser 3&lt;/a&gt;), tenho ferramentas open-source disponíveis em meus &lt;a href=&#34;https://github.com/ivopc?tab=repositories&#34; target=&#34;_blank&#34;&gt;repositórios&lt;/a&gt; e já acumulei mais de &lt;i&gt;&lt;mark&gt;100 estrelas&lt;/i&gt;&lt;/mark&gt;&lt;/i&gt; no meu &lt;i&gt;&lt;a href=&#34;https://github.com/ivopc/&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;&lt;/i&gt;. Além de sempre ajudar, orientar e manter os debates técnicos relevantes nas redes sociais.&lt;/p&gt;&#xA;&lt;iframe class=&#34;projects-sub-center&#34; src=&#34;https://github-readme-stats.vercel.app/api?username=ivopc&amp;show_icons=true&amp;theme=dark&amp;count_private=true&amp;hide=contribs&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Professor Particular e Mentoria</title>
+      <link>https://ivopc.github.io/projects/2-teacher/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ivopc.github.io/projects/2-teacher/</guid>
+      <description>&lt;p&gt;&#xA;Como uma &lt;b&gt;atividade experimental&lt;/b&gt; e, possivelmente, uma futura profissão, estou lecionando programação com foco em direcionar, de maneira prática, os alunos para suas áreas de interesse. Meu objetivo é prepará-los para desenvolver projetos pessoais ou conquistar oportunidades no mercado de trabalho, construindo uma base sólida de conhecimento e projetos relevantes.&lt;br&gt;&#xA;Além disso, na área de mentoria, ensino como encontrar trabalho na indústria de tecnologia de acordo com as exigências do mundo real e do mercado.&lt;br&gt;&#xA;Sinto que, mesmo sem uma graduação universitária, posso ser relevante e proporcionar o &lt;b&gt;ponto de ignição&lt;/b&gt; para outros profissionais, mostrando que é possível ingressar na área sem precisar passar por um processo que eu considero ultrapassado.&#xA;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

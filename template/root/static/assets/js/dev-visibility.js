@@ -15,14 +15,13 @@ async function showDevVisibility({title, confirmButtonText, denyButtonText, html
 const showDevVisibilityLangs = {
     "BR": {
         title: 
-        `Para deixar meu site mais resumido para quem não entende de programação
-        você tem a opção de ocultar as partes mais técnicas que falam somente sobre programação. Lembrando que é possível controlar no menu de navegação.`,
+        `Para tornar meu site mais acessível para quem não entende de programação, você pode ocultar as partes mais técnicas voltadas exclusivamente para programação. Essa opção pode ser ajustada no menu de navegação.`,
         confirmButtonText: "Sim, desejo ocultar!",
-        denyButtonText: "Naõ, pode manter!",
+        denyButtonText: "Não, pode manter!",
         html: `
         <input class="form-check-input" type="checkbox" value="" id="hideDevVisibilityCheck" checked>
         <label class="form-check-label" for="hideDevVisibilityCheck">
-          Naõ mostrar isso novamente
+          Não mostrar isso novamente
         </label>
         `
     },

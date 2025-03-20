@@ -4,7 +4,7 @@
     <title>Educations on Ivo Camargo - Web Developer and Game Developer</title>
     <link>https://ivopc.github.io/en/education/</link>
     <description>Recent content in Educations on Ivo Camargo - Web Developer and Game Developer</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-US</language>
     <atom:link href="https://ivopc.github.io/en/education/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,7 +12,7 @@
       <link>https://ivopc.github.io/en/education/1-saga/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ivopc.github.io/en/education/1-saga/</guid>
-      <description>Unreal Engine, Photoshop and Maya. Game Design and 3D Game Art.</description>
+      <description>&lt;p&gt;Unreal Engine, Photoshop and Maya. Game Design and 3D Game Art.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
