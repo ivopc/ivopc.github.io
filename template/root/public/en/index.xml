@@ -12,13 +12,20 @@
       <link>https://ivopc.github.io/en/about/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ivopc.github.io/en/about/about/</guid>
-      <description>&lt;p&gt;&#xA;Hello! My name is Ivo, and I was born in São Paulo. I began to love computers and video games during my childhood and always had an interest in understanding how it works.&#xA;&lt;/p&gt; &#xA;&lt;p&gt;&#xA;When I was 12 years old, I had my first experience with programming languages, and when I turned 13, I discovered and created a powerful tool in a popular online game that influenced hundreds of thousands of players in the game. At the age of 18, I started to face all of this as a profession and began working in web and game development as well.&#xA;&lt;/p&gt;</description>
+      <description>&lt;p&gt;I started loving computers and video games in my childhood and was always curious to understand how everything works.&#xA;When I was 12, I had my first contact with programming languages, and at 13, I discovered and created a powerful tool for a popular online game, which ended up influencing hundreds of thousands of players. At 18, I began treating this as a profession and started working with web and game development.&lt;br&gt;&#xA;Over the years, I’ve accumulated experience in developing casino-focused games, online multiplayer games, and maintaining various types of games. Regarding websites, I work on everything from maintaining and creating small systems to building robust and complete SaaS platforms. I actively contribute to the open source community with relevant projects and consistently help and guide people who want to enter or are already part of the industry. Many of my open source projects have brought me job opportunities and recognition in the field.&lt;br&gt;&#xA;I have projects aimed at creating frameworks and game engines, as I seek recognition and want to actively contribute to community work. Additionally, I started giving private lessons, teaching others how to code and shape their careers without relying on university, through mentorship — although I view teaching as something experimental for now.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>https://ivopc.github.io/en/portfolio/1-valle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ivopc.github.io/en/portfolio/1-valle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://ivopc.github.io/en/portfolio/10-znaptxt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ivopc.github.io/en/portfolio/10-znaptxt/</guid>
       <description></description>
     </item>
     <item>
@@ -57,6 +64,20 @@
       <description></description>
     </item>
     <item>
+      <title></title>
+      <link>https://ivopc.github.io/en/portfolio/8-rainbet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ivopc.github.io/en/portfolio/8-rainbet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://ivopc.github.io/en/portfolio/9-stardust/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ivopc.github.io/en/portfolio/9-stardust/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Active Member of the Open-Source Community</title>
       <link>https://ivopc.github.io/en/projects/1-community/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -71,6 +92,13 @@
       <description>&lt;p&gt;&#xA;    &lt;i&gt;&lt;a href=&#34;https://github.com/ivopc/open-rifinha/&#34; target=&#34;_blank&#34;&gt;Open Rifinha&lt;/a&gt;&lt;/i&gt; is a web-based prize draw raffle system that leverages my web development skills, incorporating the payment system of &#xA;    &lt;a href=&#34;https://www.mercadopago.com.br/&#34; target=&#34;_blank&#34;&gt;Mercado Pago&lt;/a&gt; via &#xA;    &lt;a href=&#34;https://www.bcb.gov.br/estabilidadefinanceira/pix&#34; target=&#34;_blank&#34;&gt;PIX&lt;/a&gt;. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;&#xA;    The &lt;i&gt;public website&lt;/i&gt; features: a homepage displaying available prizes and a summarized list of past draw winners. Navigation menu includes: all ongoing and completed draws; all winners; customer purchase inquiries. Footer with additional information, social media links, and direct contact with the administrator.&#xA;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;    &lt;li&gt;&lt;i&gt;Prize draw raffle tickets Purchase&lt;/i&gt;: Customers can choose the number of prize draw raffles tickets they want to purchase in either a &lt;a href=&#34;https://www.dicio.com.br/randomica/&#34; target=&#34;_blank&#34;&gt;randomized&lt;/a&gt; or specific number selection mode. A &lt;a href=&#34;https://www.bcb.gov.br/estabilidadefinanceira/pix&#34; target=&#34;_blank&#34;&gt;PIX&lt;/a&gt; payment with QR Code is generated, and the system automatically marks the purchase as complete when the &lt;a href=&#34;https://www.bcb.gov.br/estabilidadefinanceira/pix&#34; target=&#34;_blank&#34;&gt;PIX&lt;/a&gt; payment is confirmed. The system includes a promotion system based on the number of tickets purchased, configured in the admin dashboard.&lt;/li&gt;&#xA;    &lt;li&gt;&lt;i&gt;Winners&lt;/i&gt;: List of all draw winners.&lt;/li&gt;&#xA;    &lt;li&gt;&lt;i&gt;Customer Tickets&lt;/i&gt;: Customers can check the current status of their purchases.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&#xA;    &lt;i&gt;Admin Dashboard&lt;/i&gt;: Login; index showing overall sales statistics; manage draws; manage ticket purchases; detailed sales ranking; website layout management; general settings.&#xA;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Full Stack Web Developer (Freelance)</title>
+      <link>https://ivopc.github.io/en/resume/9-znaptxt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ivopc.github.io/en/resume/9-znaptxt/</guid>
+      <description>&lt;p&gt;ZnapTxt is a SaaS platform of SMS automation.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Full Web Developer and Game Developer (Full time and Freelance)</title>
       <link>https://ivopc.github.io/en/resume/1-fulltime/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -83,6 +111,20 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ivopc.github.io/en/projects/2-valle/</guid>
       <description>&lt;p&gt;&#xA;    &lt;i&gt;&lt;a href=&#34;https://monstervalle.onrender.com/&#34; target=&#34;_blank&#34;&gt;Monster Valle&lt;/a&gt;&lt;/i&gt; is a complete MMORPG game with turn-based battles and collectible monsters. The game has significantly contributed to my professional reputation and has opened doors to international opportunities.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&#xA;    Notable game mechanics: battle, farming, PvP, player market, quests, real-time multiplayer interactions, monster attack learning and leveling up, party, items, storyline, RPG systems in general, etc.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&#xA;    The &lt;i&gt;&lt;a href=&#34;https://monstervalle.onrender.com/&#34; target=&#34;_blank&#34;&gt;old version&lt;/a&gt;&lt;/i&gt;, currently available for testing the game for non-commercial purposes and with &lt;b style=&#34;color: #c0392b;&#34;&gt;some bugs&lt;/b&gt;, has become open-source, and its code is available &lt;i&gt;&lt;a href=&#34;https://github.com/ivopc/Monster-Valle/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/i&gt;. I am working on a &lt;b&gt;completely new&lt;/b&gt; and &lt;b&gt;recreated from scratch&lt;/b&gt; version of the game.&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Game Developer and Full Stack Web Developer (Freelance)</title>
+      <link>https://ivopc.github.io/en/resume/8-stardust/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ivopc.github.io/en/resume/8-stardust/</guid>
+      <description>&lt;p&gt;Stardust Coin Flip is a minigame developed in a single day as part of a collection of games designed for internal betting, serving as a complement to the main games.&lt;/p&gt;&#xA;&lt;p style=&#34;color:#f1c40f;&#34;&gt;&#xA;    &lt;b&gt;Note&lt;/b&gt;: The company shelved the project and did not proceed with the development of other minigames.&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Game Developer and Full Stack Web Developer (Full Time)</title>
+      <link>https://ivopc.github.io/en/resume/7-rainbet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ivopc.github.io/en/resume/7-rainbet/</guid>
+      <description>&lt;p&gt;Rainbet BlackJack is an original game from the Rainbet casino, which I began developing. Its architecture and core back-end foundation were structured following well-established principles, adapted specifically for this type of game, which demands a robust architecture and clean, well-written code.&lt;/p&gt;&#xA;&lt;p style=&#34;color:#f1c40f;&#34;&gt;&#xA;    &lt;b&gt;Note&lt;/b&gt;: Due to health reasons, I left the company before the game was completed.&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Game Developer and Full Stack Web Developer (Full-Time)</title>

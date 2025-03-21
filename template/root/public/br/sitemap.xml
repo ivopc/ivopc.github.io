@@ -29,6 +29,16 @@
                 />
   </url><url>
     <loc>https://ivopc.github.io/portfolio/10-znaptxt/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ivopc.github.io/en/portfolio/10-znaptxt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-BR"
+                href="https://ivopc.github.io/portfolio/10-znaptxt/"
+                />
   </url><url>
     <loc>https://ivopc.github.io/portfolio/2-ortiz/</loc>
     <xhtml:link
@@ -93,8 +103,28 @@
     <loc>https://ivopc.github.io/portfolio/7-pokeoasis/</loc>
   </url><url>
     <loc>https://ivopc.github.io/portfolio/8-rainbet/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ivopc.github.io/en/portfolio/8-rainbet/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-BR"
+                href="https://ivopc.github.io/portfolio/8-rainbet/"
+                />
   </url><url>
     <loc>https://ivopc.github.io/portfolio/9-stardust/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ivopc.github.io/en/portfolio/9-stardust/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-BR"
+                href="https://ivopc.github.io/portfolio/9-stardust/"
+                />
   </url><url>
     <loc>https://ivopc.github.io/about/</loc>
     <xhtml:link
@@ -135,6 +165,16 @@
                 />
   </url><url>
     <loc>https://ivopc.github.io/resume/8-stardust/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ivopc.github.io/en/resume/8-stardust/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-BR"
+                href="https://ivopc.github.io/resume/8-stardust/"
+                />
   </url><url>
     <loc>https://ivopc.github.io/resume/5-blazebet/</loc>
     <xhtml:link
@@ -149,6 +189,16 @@
                 />
   </url><url>
     <loc>https://ivopc.github.io/resume/7-rainbet/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ivopc.github.io/en/resume/7-rainbet/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-BR"
+                href="https://ivopc.github.io/resume/7-rainbet/"
+                />
   </url><url>
     <loc>https://ivopc.github.io/resume/2-igs/</loc>
     <xhtml:link
@@ -211,6 +261,16 @@
                 />
   </url><url>
     <loc>https://ivopc.github.io/resume/9-znaptxt/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://ivopc.github.io/en/resume/9-znaptxt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-BR"
+                href="https://ivopc.github.io/resume/9-znaptxt/"
+                />
   </url><url>
     <loc>https://ivopc.github.io/education/1-saga/</loc>
     <xhtml:link
