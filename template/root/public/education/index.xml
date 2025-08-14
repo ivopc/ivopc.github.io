@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Educations on Ivo Camargo - Desenvolvedor Web e Desenvolvedor de Jogos</title>
-    <link>https://ivopc.github.io/education/</link>
+    <link>http://localhost:1313/education/</link>
     <description>Recent content in Educations on Ivo Camargo - Desenvolvedor Web e Desenvolvedor de Jogos</description>
     <generator>Hugo</generator>
     <language>pt-BR</language>
-    <atom:link href="https://ivopc.github.io/education/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/education/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Desenvolvimento de Jogos e Arte de Jogos 3D</title>
-      <link>https://ivopc.github.io/education/1-saga/</link>
+      <link>http://localhost:1313/education/1-saga/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ivopc.github.io/education/1-saga/</guid>
+      <guid>http://localhost:1313/education/1-saga/</guid>
       <description>&lt;p&gt;Unreal Engine, Photoshop e Maya. Conceitos de game design e arte de jogos 3D no geral.&lt;/p&gt;</description>
     </item>
   </channel>

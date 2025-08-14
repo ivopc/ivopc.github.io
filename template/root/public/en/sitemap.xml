@@ -2,364 +2,352 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ivopc.github.io/en/about/about/</loc>
+    <loc>http://localhost:1313/en/about/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="https://ivopc.github.io/about/about/"
+                href="http://localhost:1313/about/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://ivopc.github.io/en/about/about/"
+                href="http://localhost:1313/en/about/about/"
                 />
   </url><url>
-    <loc>https://ivopc.github.io/en/portfolio/1-valle/</loc>
+    <loc>http://localhost:1313/en/portfolio/1-valle/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="https://ivopc.github.io/portfolio/1-valle/"
+                href="http://localhost:1313/portfolio/1-valle/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://ivopc.github.io/en/portfolio/1-valle/"
+                href="http://localhost:1313/en/portfolio/1-valle/"
                 />
   </url><url>
-    <loc>https://ivopc.github.io/en/portfolio/10-znaptxt/</loc>
+    <loc>http://localhost:1313/en/portfolio/10-znaptxt/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="https://ivopc.github.io/portfolio/10-znaptxt/"
+                href="http://localhost:1313/portfolio/10-znaptxt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://ivopc.github.io/en/portfolio/10-znaptxt/"
+                href="http://localhost:1313/en/portfolio/10-znaptxt/"
                 />
   </url><url>
-    <loc>https://ivopc.github.io/en/portfolio/2-ortiz/</loc>
+    <loc>http://localhost:1313/en/portfolio/2-ortiz/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="https://ivopc.github.io/portfolio/2-ortiz/"
+                href="http://localhost:1313/portfolio/2-ortiz/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://ivopc.github.io/en/portfolio/2-ortiz/"
+                href="http://localhost:1313/en/portfolio/2-ortiz/"
                 />
   </url><url>
-    <loc>https://ivopc.github.io/en/portfolio/3-oni/</loc>
+    <loc>http://localhost:1313/en/portfolio/3-oni/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="https://ivopc.github.io/portfolio/3-oni/"
+                href="http://localhost:1313/portfolio/3-oni/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://ivopc.github.io/en/portfolio/3-oni/"
+                href="http://localhost:1313/en/portfolio/3-oni/"
                 />
   </url><url>
-    <loc>https://ivopc.github.io/en/portfolio/4-solstead/</loc>
+    <loc>http://localhost:1313/en/portfolio/4-solstead/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="https://ivopc.github.io/portfolio/4-solstead/"
+                href="http://localhost:1313/portfolio/4-solstead/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://ivopc.github.io/en/portfolio/4-solstead/"
+                href="http://localhost:1313/en/portfolio/4-solstead/"
                 />
   </url><url>
-    <loc>https://ivopc.github.io/en/portfolio/5-damas/</loc>
+    <loc>http://localhost:1313/en/portfolio/5-damas/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="https://ivopc.github.io/portfolio/5-damas/"
+                href="http://localhost:1313/portfolio/5-damas/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://ivopc.github.io/en/portfolio/5-damas/"
+                href="http://localhost:1313/en/portfolio/5-damas/"
                 />
   </url><url>
-    <loc>https://ivopc.github.io/en/portfolio/6-rifinha/</loc>
+    <loc>http://localhost:1313/en/portfolio/6-rifinha/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="https://ivopc.github.io/portfolio/6-rifinha/"
+                href="http://localhost:1313/portfolio/6-rifinha/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://ivopc.github.io/en/portfolio/6-rifinha/"
+                href="http://localhost:1313/en/portfolio/6-rifinha/"
                 />
   </url><url>
-    <loc>https://ivopc.github.io/en/portfolio/8-rainbet/</loc>
+    <loc>http://localhost:1313/en/portfolio/8-rainbet/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="https://ivopc.github.io/portfolio/8-rainbet/"
+                href="http://localhost:1313/portfolio/8-rainbet/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://ivopc.github.io/en/portfolio/8-rainbet/"
+                href="http://localhost:1313/en/portfolio/8-rainbet/"
                 />
   </url><url>
-    <loc>https://ivopc.github.io/en/portfolio/9-stardust/</loc>
+    <loc>http://localhost:1313/en/portfolio/9-stardust/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="https://ivopc.github.io/portfolio/9-stardust/"
+                href="http://localhost:1313/portfolio/9-stardust/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://ivopc.github.io/en/portfolio/9-stardust/"
+                href="http://localhost:1313/en/portfolio/9-stardust/"
                 />
   </url><url>
-    <loc>https://ivopc.github.io/en/about/</loc>
+    <loc>http://localhost:1313/en/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="https://ivopc.github.io/about/"
+                href="http://localhost:1313/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://ivopc.github.io/en/about/"
+                href="http://localhost:1313/en/about/"
                 />
   </url><url>
-    <loc>https://ivopc.github.io/en/projects/1-community/</loc>
+    <loc>http://localhost:1313/en/projects/1-community/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="https://ivopc.github.io/projects/1-community/"
+                href="http://localhost:1313/projects/1-community/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://ivopc.github.io/en/projects/1-community/"
+                href="http://localhost:1313/en/projects/1-community/"
                 />
   </url><url>
-    <loc>https://ivopc.github.io/en/categories/</loc>
+    <loc>http://localhost:1313/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="https://ivopc.github.io/categories/"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://ivopc.github.io/en/categories/"
+                href="http://localhost:1313/en/categories/"
                 />
   </url><url>
-    <loc>https://ivopc.github.io/en/education/</loc>
+    <loc>http://localhost:1313/en/education/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="https://ivopc.github.io/education/"
+                href="http://localhost:1313/education/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://ivopc.github.io/en/education/"
+                href="http://localhost:1313/en/education/"
                 />
   </url><url>
-    <loc>https://ivopc.github.io/en/projects/3-rifinha/</loc>
+    <loc>http://localhost:1313/en/projects/3-rifinha/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="https://ivopc.github.io/projects/3-rifinha/"
+                href="http://localhost:1313/projects/3-rifinha/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://ivopc.github.io/en/projects/3-rifinha/"
+                href="http://localhost:1313/en/projects/3-rifinha/"
                 />
   </url><url>
-    <loc>https://ivopc.github.io/en/resume/9-znaptxt/</loc>
+    <loc>http://localhost:1313/en/resume/1-fulltime/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="https://ivopc.github.io/resume/9-znaptxt/"
+                href="http://localhost:1313/resume/1-fulltime/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://ivopc.github.io/en/resume/9-znaptxt/"
+                href="http://localhost:1313/en/resume/1-fulltime/"
                 />
   </url><url>
-    <loc>https://ivopc.github.io/en/resume/1-fulltime/</loc>
+    <loc>http://localhost:1313/en/projects/2-valle/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="https://ivopc.github.io/resume/1-fulltime/"
+                href="http://localhost:1313/projects/2-valle/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://ivopc.github.io/en/resume/1-fulltime/"
+                href="http://localhost:1313/en/projects/2-valle/"
                 />
   </url><url>
-    <loc>https://ivopc.github.io/en/projects/2-valle/</loc>
+    <loc>http://localhost:1313/en/resume/8-stardust/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="https://ivopc.github.io/projects/2-valle/"
+                href="http://localhost:1313/resume/8-stardust/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://ivopc.github.io/en/projects/2-valle/"
+                href="http://localhost:1313/en/resume/8-stardust/"
                 />
   </url><url>
-    <loc>https://ivopc.github.io/en/resume/8-stardust/</loc>
+    <loc>http://localhost:1313/en/resume/7-rainbet/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="https://ivopc.github.io/resume/8-stardust/"
+                href="http://localhost:1313/resume/7-rainbet/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://ivopc.github.io/en/resume/8-stardust/"
+                href="http://localhost:1313/en/resume/7-rainbet/"
                 />
   </url><url>
-    <loc>https://ivopc.github.io/en/resume/7-rainbet/</loc>
+    <loc>http://localhost:1313/en/resume/5-blazebet/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="https://ivopc.github.io/resume/7-rainbet/"
+                href="http://localhost:1313/resume/5-blazebet/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://ivopc.github.io/en/resume/7-rainbet/"
+                href="http://localhost:1313/en/resume/5-blazebet/"
                 />
   </url><url>
-    <loc>https://ivopc.github.io/en/resume/5-blazebet/</loc>
+    <loc>http://localhost:1313/en/education/1-saga/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="https://ivopc.github.io/resume/5-blazebet/"
+                href="http://localhost:1313/education/1-saga/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://ivopc.github.io/en/resume/5-blazebet/"
+                href="http://localhost:1313/en/education/1-saga/"
                 />
   </url><url>
-    <loc>https://ivopc.github.io/en/education/1-saga/</loc>
+    <loc>http://localhost:1313/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="https://ivopc.github.io/education/1-saga/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://ivopc.github.io/en/education/1-saga/"
+                href="http://localhost:1313/en/"
                 />
   </url><url>
-    <loc>https://ivopc.github.io/en/</loc>
+    <loc>http://localhost:1313/en/resume/2-igs/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="https://ivopc.github.io/"
+                href="http://localhost:1313/resume/2-igs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://ivopc.github.io/en/"
+                href="http://localhost:1313/en/resume/2-igs/"
                 />
   </url><url>
-    <loc>https://ivopc.github.io/en/resume/2-igs/</loc>
+    <loc>http://localhost:1313/en/resume/3-oni/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="https://ivopc.github.io/resume/2-igs/"
+                href="http://localhost:1313/resume/3-oni/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://ivopc.github.io/en/resume/2-igs/"
+                href="http://localhost:1313/en/resume/3-oni/"
                 />
   </url><url>
-    <loc>https://ivopc.github.io/en/resume/3-oni/</loc>
+    <loc>http://localhost:1313/en/resume/4-solport/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="https://ivopc.github.io/resume/3-oni/"
+                href="http://localhost:1313/resume/4-solport/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://ivopc.github.io/en/resume/3-oni/"
+                href="http://localhost:1313/en/resume/4-solport/"
                 />
   </url><url>
-    <loc>https://ivopc.github.io/en/resume/4-solport/</loc>
+    <loc>http://localhost:1313/en/portfolio/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="https://ivopc.github.io/resume/4-solport/"
+                href="http://localhost:1313/portfolio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://ivopc.github.io/en/resume/4-solport/"
+                href="http://localhost:1313/en/portfolio/"
                 />
   </url><url>
-    <loc>https://ivopc.github.io/en/portfolio/</loc>
+    <loc>http://localhost:1313/en/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="https://ivopc.github.io/portfolio/"
+                href="http://localhost:1313/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://ivopc.github.io/en/portfolio/"
+                href="http://localhost:1313/en/projects/"
                 />
   </url><url>
-    <loc>https://ivopc.github.io/en/projects/</loc>
+    <loc>http://localhost:1313/en/resume/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="https://ivopc.github.io/projects/"
+                href="http://localhost:1313/resume/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://ivopc.github.io/en/projects/"
+                href="http://localhost:1313/en/resume/"
                 />
   </url><url>
-    <loc>https://ivopc.github.io/en/resume/</loc>
+    <loc>http://localhost:1313/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-BR"
-                href="https://ivopc.github.io/resume/"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://ivopc.github.io/en/resume/"
-                />
-  </url><url>
-    <loc>https://ivopc.github.io/en/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-BR"
-                href="https://ivopc.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://ivopc.github.io/en/tags/"
+                href="http://localhost:1313/en/tags/"
                 />
   </url>
 </urlset>

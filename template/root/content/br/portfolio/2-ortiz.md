@@ -28,31 +28,31 @@ images:
       description:
 
     - image: "/assets/img/portfolio/ortiz-gameplay4.png"
-      link: "https://www.playbonds.com/pt/jogos/video-bingo/descricao/1137/Bubble_Mania"
+      link: "https://slotcatalog.com/pt/slots/Bubble-Mania"
       title: "Ortiz Gaming - Bubble Mania"
       filter: "games"
       description:
 
     - image: "/assets/img/portfolio/ortiz-gameplay5.png"
-      link: "https://www.playbonds.com/pt/jogos/video-bingo/descricao/3726/Roma_Bingo"
+      link: "https://slotcatalog.com/pt/slots/Roma-Bingo"
       title: "Ortiz Gaming - Roma Bingo"
       filter: "games"
       description:
 
     - image: "/assets/img/portfolio/ortiz-gameplay6.png"
-      link: "https://www.playbonds.com/pt/jogos/video-bingo/descricao/5227/Roma_Bingo"
+      link: "https://slotcatalog.com/pt/slots/Roma-Bingo"
       title: "Ortiz Gaming - Roma Bingo"
       filter: "games"
       description:
 
     - image: "/assets/img/portfolio/ortiz-gameplay7.png"
-      link: "https://www.playbonds.com/pt/jogos/video-bingo/descricao/5227/Dulce_Mania"
+      link: "https://slotcatalog.com/pt/slots/Dulce-Mania"
       title: "Ortiz Gaming - Dulce Mania"
       filter: "games"
       description:
 
     - image: "/assets/img/portfolio/ortiz-gameplay8.png"
-      link: "https://www.playbonds.com/pt/jogos/video-bingo/descricao/5227/Dulce_Mania"
+      link: "https://slotcatalog.com/pt/slots/Dulce-Mania"
       title: "Ortiz Gaming - Dulce Mania"
       filter: "games"
       description:

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Ivo Camargo - Desenvolvedor Web e Desenvolvedor de Jogos</title>
-    <link>https://ivopc.github.io/about/</link>
+    <link>http://localhost:1313/about/</link>
     <description>Recent content in Abouts on Ivo Camargo - Desenvolvedor Web e Desenvolvedor de Jogos</description>
     <generator>Hugo</generator>
     <language>pt-BR</language>
-    <atom:link href="https://ivopc.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://ivopc.github.io/about/about/</link>
+      <link>http://localhost:1313/about/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ivopc.github.io/about/about/</guid>
+      <guid>http://localhost:1313/about/about/</guid>
       <description>&lt;p&gt;Comecei a amar computadores e videogames na minha infância e sempre me interessei em saber como tudo isso funciona.&#xA;Quando eu tinha 12 anos, tive meus primeiros contatos com linguagens de programação e, aos 13, descobri e criei uma ferramenta poderosa em um famoso jogo online, que influenciou centenas de milhares de jogadores. Aos 18 anos, passei a encarar isso como uma profissão e comecei a trabalhar com desenvolvimento web e de jogos.&lt;br&gt;&#xA;Ao longo dos anos, fui acumulando experiência no desenvolvimento de jogos focados em cassino, jogos multiplayer online e manutenção em diversos tipos de jogos. No que diz respeito a websites, atuo desde a manutenção e criação de pequenos sistemas até a construção de plataformas SaaS robustas e completas. Contribuo ativamente para a comunidade open source com projetos relevantes e sempre ajudo e oriento pessoas que desejam ingressar na área ou que já fazem parte dela. Muitos dos meus projetos open source me proporcionaram oportunidades de trabalho e reconhecimento na profissão.&lt;br&gt;&#xA;Tenho projetos voltados para a criação de frameworks e game engines, pois busco reconhecimento e desejo contribuir ativamente para o trabalho comunitário. Além disso, comecei a dar aulas particulares, ensinando outras pessoas a programar e moldar suas carreiras sem depender de universidade por meio de uma mentoria, embora eu encare a atividade de lecionar como uma algo experimental.&lt;/p&gt;</description>
     </item>
   </channel>

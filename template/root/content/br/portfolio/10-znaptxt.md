@@ -3,6 +3,12 @@
 gallery: "znaptxt-showcase"
 
 images:
+    - image: "/assets/img/portfolio/znaptxt-0.png"
+      link: "#"
+      title: "ZnapTxt"
+      filter: "web"
+      description:
+
     - image: "/assets/img/portfolio/znaptxt-1.png"
       link: "#"
       title: "ZnapTxt"
@@ -28,6 +34,12 @@ images:
       description:
 
     - image: "/assets/img/portfolio/znaptxt-5.png"
+      link: "#"
+      title: "ZnapTxt"
+      filter: "web"
+      description:
+
+    - image: "/assets/img/portfolio/znaptxt-6.png"
       link: "#"
       title: "ZnapTxt"
       filter: "web"

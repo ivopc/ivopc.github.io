@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Ivo Camargo - Web Developer and Game Developer</title>
-    <link>https://ivopc.github.io/en/projects/</link>
+    <link>http://localhost:1313/en/projects/</link>
     <description>Recent content in Projects on Ivo Camargo - Web Developer and Game Developer</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <atom:link href="https://ivopc.github.io/en/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Active Member of the Open-Source Community</title>
-      <link>https://ivopc.github.io/en/projects/1-community/</link>
+      <link>http://localhost:1313/en/projects/1-community/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ivopc.github.io/en/projects/1-community/</guid>
+      <guid>http://localhost:1313/en/projects/1-community/</guid>
       <description>&lt;p&gt;I actively contribute to development communities, having identified issues in widely-used professional projects (examples: &lt;a href=&#34;https://github.com/SocketCluster/socketcluster/issues/227&#34; target=&#34;_blank&#34;&gt;SocketCluster&lt;/a&gt; and &lt;a href=&#34;https://github.com/phaserjs/phaser/issues/4689&#34; target=&#34;_blank&#34;&gt;Phaser 3&lt;/a&gt;). I have open-source tools available in my &lt;a href=&#34;https://github.com/ivopc?tab=repositories&#34; target=&#34;_blank&#34;&gt;repositories&lt;/a&gt; and have accumulated over &lt;i&gt;&lt;mark&gt;100 stars&lt;/i&gt;&lt;/mark&gt;&lt;/i&gt; on my &lt;i&gt;&lt;a href=&#34;https://github.com/ivopc/&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;&lt;/i&gt;.&lt;/p&gt;&#xA;&lt;iframe class=&#34;projects-sub-center&#34; src=&#34;https://github-readme-stats.vercel.app/api?username=ivopc&amp;show_icons=true&amp;theme=dark&amp;count_private=true&amp;hide=contribs&#34;&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>Full Stack Web Developer</title>
-      <link>https://ivopc.github.io/en/projects/3-rifinha/</link>
+      <link>http://localhost:1313/en/projects/3-rifinha/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ivopc.github.io/en/projects/3-rifinha/</guid>
+      <guid>http://localhost:1313/en/projects/3-rifinha/</guid>
       <description>&lt;p&gt;&#xA;    &lt;i&gt;&lt;a href=&#34;https://github.com/ivopc/open-rifinha/&#34; target=&#34;_blank&#34;&gt;Open Rifinha&lt;/a&gt;&lt;/i&gt; is a web-based prize draw raffle system that leverages my web development skills, incorporating the payment system of &#xA;    &lt;a href=&#34;https://www.mercadopago.com.br/&#34; target=&#34;_blank&#34;&gt;Mercado Pago&lt;/a&gt; via &#xA;    &lt;a href=&#34;https://www.bcb.gov.br/estabilidadefinanceira/pix&#34; target=&#34;_blank&#34;&gt;PIX&lt;/a&gt;. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;&#xA;    The &lt;i&gt;public website&lt;/i&gt; features: a homepage displaying available prizes and a summarized list of past draw winners. Navigation menu includes: all ongoing and completed draws; all winners; customer purchase inquiries. Footer with additional information, social media links, and direct contact with the administrator.&#xA;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;    &lt;li&gt;&lt;i&gt;Prize draw raffle tickets Purchase&lt;/i&gt;: Customers can choose the number of prize draw raffles tickets they want to purchase in either a &lt;a href=&#34;https://www.dicio.com.br/randomica/&#34; target=&#34;_blank&#34;&gt;randomized&lt;/a&gt; or specific number selection mode. A &lt;a href=&#34;https://www.bcb.gov.br/estabilidadefinanceira/pix&#34; target=&#34;_blank&#34;&gt;PIX&lt;/a&gt; payment with QR Code is generated, and the system automatically marks the purchase as complete when the &lt;a href=&#34;https://www.bcb.gov.br/estabilidadefinanceira/pix&#34; target=&#34;_blank&#34;&gt;PIX&lt;/a&gt; payment is confirmed. The system includes a promotion system based on the number of tickets purchased, configured in the admin dashboard.&lt;/li&gt;&#xA;    &lt;li&gt;&lt;i&gt;Winners&lt;/i&gt;: List of all draw winners.&lt;/li&gt;&#xA;    &lt;li&gt;&lt;i&gt;Customer Tickets&lt;/i&gt;: Customers can check the current status of their purchases.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&#xA;    &lt;i&gt;Admin Dashboard&lt;/i&gt;: Login; index showing overall sales statistics; manage draws; manage ticket purchases; detailed sales ranking; website layout management; general settings.&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Game Developer and Full Stack Web Developer</title>
-      <link>https://ivopc.github.io/en/projects/2-valle/</link>
+      <link>http://localhost:1313/en/projects/2-valle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ivopc.github.io/en/projects/2-valle/</guid>
+      <guid>http://localhost:1313/en/projects/2-valle/</guid>
       <description>&lt;p&gt;&#xA;    &lt;i&gt;&lt;a href=&#34;https://monstervalle.onrender.com/&#34; target=&#34;_blank&#34;&gt;Monster Valle&lt;/a&gt;&lt;/i&gt; is a complete MMORPG game with turn-based battles and collectible monsters. The game has significantly contributed to my professional reputation and has opened doors to international opportunities.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&#xA;    Notable game mechanics: battle, farming, PvP, player market, quests, real-time multiplayer interactions, monster attack learning and leveling up, party, items, storyline, RPG systems in general, etc.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&#xA;    The &lt;i&gt;&lt;a href=&#34;https://monstervalle.onrender.com/&#34; target=&#34;_blank&#34;&gt;old version&lt;/a&gt;&lt;/i&gt;, currently available for testing the game for non-commercial purposes and with &lt;b style=&#34;color: #c0392b;&#34;&gt;some bugs&lt;/b&gt;, has become open-source, and its code is available &lt;i&gt;&lt;a href=&#34;https://github.com/ivopc/Monster-Valle/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/i&gt;. I am working on a &lt;b&gt;completely new&lt;/b&gt; and &lt;b&gt;recreated from scratch&lt;/b&gt; version of the game.&#xA;&lt;/p&gt;</description>
     </item>
   </channel>

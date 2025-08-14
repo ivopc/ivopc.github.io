@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Ivo Camargo - Web Developer and Game Developer</title>
-    <link>https://ivopc.github.io/en/about/</link>
+    <link>http://localhost:1313/en/about/</link>
     <description>Recent content in Abouts on Ivo Camargo - Web Developer and Game Developer</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <atom:link href="https://ivopc.github.io/en/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://ivopc.github.io/en/about/about/</link>
+      <link>http://localhost:1313/en/about/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ivopc.github.io/en/about/about/</guid>
+      <guid>http://localhost:1313/en/about/about/</guid>
       <description>&lt;p&gt;I started loving computers and video games in my childhood and was always curious to understand how everything works.&#xA;When I was 12, I had my first contact with programming languages, and at 13, I discovered and created a powerful tool for a popular online game, which ended up influencing hundreds of thousands of players. At 18, I began treating this as a profession and started working with web and game development.&lt;br&gt;&#xA;Over the years, I’ve accumulated experience in developing casino-focused games, online multiplayer games, and maintaining various types of games. Regarding websites, I work on everything from maintaining and creating small systems to building robust and complete SaaS platforms. I actively contribute to the open source community with relevant projects and consistently help and guide people who want to enter or are already part of the industry. Many of my open source projects have brought me job opportunities and recognition in the field.&lt;br&gt;&#xA;I have projects aimed at creating frameworks and game engines, as I seek recognition and want to actively contribute to community work. Additionally, I started giving private lessons, teaching others how to code and shape their careers without relying on university, through mentorship — although I view teaching as something experimental for now.&lt;/p&gt;</description>
     </item>
   </channel>
