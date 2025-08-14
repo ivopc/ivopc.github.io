@@ -1,7 +1,7 @@
 ---
 index: 9
 title: "Desenvolvedor Web Full Stack (Tempo Integral)"
-workTime: "Setembro, 2024 - Outubro, 2024"
+workTime: "Setembro, 2024 - Agosto, 2025"
 company: ZnapTxt
 companyLink: "#"
 companyLogo: "/assets/img/portfolio/znaptxt-logo.png"
@@ -13,4 +13,4 @@ techInfoList:
     - "TypeScript com NestJS e TypeORM no BackEnd."
 ---
 
-ZnapTxt é uma plataforma SaaS de envio massivo de SMS.
+ZnapTxt é uma plataforma SaaS de envio massivo de SMS com progresso de envio de SMS exibido em tempo real.
