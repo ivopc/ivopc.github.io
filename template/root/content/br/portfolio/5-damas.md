@@ -32,4 +32,11 @@ images:
       title: "Checkers Multiplayer Online"
       filter: "games"
       description:
+
+    - image: "/assets/img/portfolio/dama6-videoplay.png"
+      video: "/assets/img/portfolio/dama6-video.mp4"
+      link: "https://github.com/ivopc/checkers-multiplayer-game-phaser-nest"
+      title: "Checkers Multiplayer Online - Gameplay"
+      filter: "games"
+      description:
 ---

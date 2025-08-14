@@ -32,4 +32,10 @@ images:
       title: "ZnapTxt"
       filter: "web"
       description:
+
+    - image: "/assets/img/portfolio/znaptxt-6.png"
+      link: "#"
+      title: "ZnapTxt"
+      filter: "web"
+      description:
 ---
