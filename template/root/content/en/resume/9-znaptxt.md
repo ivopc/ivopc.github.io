@@ -3,7 +3,7 @@ index: 9
 title: "Full Stack Web Developer (Full Time)"
 workTime: "September, 2024 - August, 2025"
 company: ZnapTxt
-companyLink: "#"
+companyLink: "https://znaptxt.com/"
 companyLogo: "/assets/img/portfolio/znaptxt-logo.png"
 location: "Remote - São Paulo, São Paulo - Brazil"
 showcase: "znaptxt-showcase"

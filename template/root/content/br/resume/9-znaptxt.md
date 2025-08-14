@@ -3,7 +3,7 @@ index: 9
 title: "Desenvolvedor Web Full Stack (Tempo Integral)"
 workTime: "Setembro, 2024 - Agosto, 2025"
 company: ZnapTxt
-companyLink: "#"
+companyLink: "https://znaptxt.com/"
 companyLogo: "/assets/img/portfolio/znaptxt-logo.png"
 location: "Remoto - São Paulo, São Paulo - Brasil"
 showcase: "znaptxt-showcase"
