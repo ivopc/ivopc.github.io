@@ -2,163 +2,163 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ivo Camargo - Web Developer and Game Developer</title>
-    <link>http://localhost:1313/en/</link>
+    <link>https://ivopc.github.io/en/</link>
     <description>Recent content on Ivo Camargo - Web Developer and Game Developer</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ivopc.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/en/about/about/</link>
+      <link>https://ivopc.github.io/en/about/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/about/about/</guid>
+      <guid>https://ivopc.github.io/en/about/about/</guid>
       <description>&lt;p&gt;I started loving computers and video games in my childhood and was always curious to understand how everything works.&#xA;When I was 12, I had my first contact with programming languages, and at 13, I discovered and created a powerful tool for a popular online game, which ended up influencing hundreds of thousands of players. At 18, I began treating this as a profession and started working with web and game development.&lt;br&gt;&#xA;Over the years, I’ve accumulated experience in developing casino-focused games, online multiplayer games, and maintaining various types of games. Regarding websites, I work on everything from maintaining and creating small systems to building robust and complete SaaS platforms. I actively contribute to the open source community with relevant projects and consistently help and guide people who want to enter or are already part of the industry. Many of my open source projects have brought me job opportunities and recognition in the field.&lt;br&gt;&#xA;I have projects aimed at creating frameworks and game engines, as I seek recognition and want to actively contribute to community work. Additionally, I started giving private lessons, teaching others how to code and shape their careers without relying on university, through mentorship — although I view teaching as something experimental for now.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/en/portfolio/1-valle/</link>
+      <link>https://ivopc.github.io/en/portfolio/1-valle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/portfolio/1-valle/</guid>
+      <guid>https://ivopc.github.io/en/portfolio/1-valle/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/en/portfolio/10-znaptxt/</link>
+      <link>https://ivopc.github.io/en/portfolio/10-znaptxt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/portfolio/10-znaptxt/</guid>
+      <guid>https://ivopc.github.io/en/portfolio/10-znaptxt/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/en/portfolio/2-ortiz/</link>
+      <link>https://ivopc.github.io/en/portfolio/2-ortiz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/portfolio/2-ortiz/</guid>
+      <guid>https://ivopc.github.io/en/portfolio/2-ortiz/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/en/portfolio/3-oni/</link>
+      <link>https://ivopc.github.io/en/portfolio/3-oni/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/portfolio/3-oni/</guid>
+      <guid>https://ivopc.github.io/en/portfolio/3-oni/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/en/portfolio/4-solstead/</link>
+      <link>https://ivopc.github.io/en/portfolio/4-solstead/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/portfolio/4-solstead/</guid>
+      <guid>https://ivopc.github.io/en/portfolio/4-solstead/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/en/portfolio/5-damas/</link>
+      <link>https://ivopc.github.io/en/portfolio/5-damas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/portfolio/5-damas/</guid>
+      <guid>https://ivopc.github.io/en/portfolio/5-damas/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/en/portfolio/6-rifinha/</link>
+      <link>https://ivopc.github.io/en/portfolio/6-rifinha/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/portfolio/6-rifinha/</guid>
+      <guid>https://ivopc.github.io/en/portfolio/6-rifinha/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/en/portfolio/8-rainbet/</link>
+      <link>https://ivopc.github.io/en/portfolio/8-rainbet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/portfolio/8-rainbet/</guid>
+      <guid>https://ivopc.github.io/en/portfolio/8-rainbet/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/en/portfolio/9-stardust/</link>
+      <link>https://ivopc.github.io/en/portfolio/9-stardust/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/portfolio/9-stardust/</guid>
+      <guid>https://ivopc.github.io/en/portfolio/9-stardust/</guid>
       <description></description>
     </item>
     <item>
       <title>Active Member of the Open-Source Community</title>
-      <link>http://localhost:1313/en/projects/1-community/</link>
+      <link>https://ivopc.github.io/en/projects/1-community/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/projects/1-community/</guid>
+      <guid>https://ivopc.github.io/en/projects/1-community/</guid>
       <description>&lt;p&gt;I actively contribute to development communities, having identified issues in widely-used professional projects (examples: &lt;a href=&#34;https://github.com/SocketCluster/socketcluster/issues/227&#34; target=&#34;_blank&#34;&gt;SocketCluster&lt;/a&gt; and &lt;a href=&#34;https://github.com/phaserjs/phaser/issues/4689&#34; target=&#34;_blank&#34;&gt;Phaser 3&lt;/a&gt;). I have open-source tools available in my &lt;a href=&#34;https://github.com/ivopc?tab=repositories&#34; target=&#34;_blank&#34;&gt;repositories&lt;/a&gt; and have accumulated over &lt;i&gt;&lt;mark&gt;100 stars&lt;/i&gt;&lt;/mark&gt;&lt;/i&gt; on my &lt;i&gt;&lt;a href=&#34;https://github.com/ivopc/&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;&lt;/i&gt;.&lt;/p&gt;&#xA;&lt;iframe class=&#34;projects-sub-center&#34; src=&#34;https://github-readme-stats.vercel.app/api?username=ivopc&amp;show_icons=true&amp;theme=dark&amp;count_private=true&amp;hide=contribs&#34;&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>Full Stack Web Developer</title>
-      <link>http://localhost:1313/en/projects/3-rifinha/</link>
+      <link>https://ivopc.github.io/en/projects/3-rifinha/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/projects/3-rifinha/</guid>
+      <guid>https://ivopc.github.io/en/projects/3-rifinha/</guid>
       <description>&lt;p&gt;&#xA;    &lt;i&gt;&lt;a href=&#34;https://github.com/ivopc/open-rifinha/&#34; target=&#34;_blank&#34;&gt;Open Rifinha&lt;/a&gt;&lt;/i&gt; is a web-based prize draw raffle system that leverages my web development skills, incorporating the payment system of &#xA;    &lt;a href=&#34;https://www.mercadopago.com.br/&#34; target=&#34;_blank&#34;&gt;Mercado Pago&lt;/a&gt; via &#xA;    &lt;a href=&#34;https://www.bcb.gov.br/estabilidadefinanceira/pix&#34; target=&#34;_blank&#34;&gt;PIX&lt;/a&gt;. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;&#xA;    The &lt;i&gt;public website&lt;/i&gt; features: a homepage displaying available prizes and a summarized list of past draw winners. Navigation menu includes: all ongoing and completed draws; all winners; customer purchase inquiries. Footer with additional information, social media links, and direct contact with the administrator.&#xA;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;    &lt;li&gt;&lt;i&gt;Prize draw raffle tickets Purchase&lt;/i&gt;: Customers can choose the number of prize draw raffles tickets they want to purchase in either a &lt;a href=&#34;https://www.dicio.com.br/randomica/&#34; target=&#34;_blank&#34;&gt;randomized&lt;/a&gt; or specific number selection mode. A &lt;a href=&#34;https://www.bcb.gov.br/estabilidadefinanceira/pix&#34; target=&#34;_blank&#34;&gt;PIX&lt;/a&gt; payment with QR Code is generated, and the system automatically marks the purchase as complete when the &lt;a href=&#34;https://www.bcb.gov.br/estabilidadefinanceira/pix&#34; target=&#34;_blank&#34;&gt;PIX&lt;/a&gt; payment is confirmed. The system includes a promotion system based on the number of tickets purchased, configured in the admin dashboard.&lt;/li&gt;&#xA;    &lt;li&gt;&lt;i&gt;Winners&lt;/i&gt;: List of all draw winners.&lt;/li&gt;&#xA;    &lt;li&gt;&lt;i&gt;Customer Tickets&lt;/i&gt;: Customers can check the current status of their purchases.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&#xA;    &lt;i&gt;Admin Dashboard&lt;/i&gt;: Login; index showing overall sales statistics; manage draws; manage ticket purchases; detailed sales ranking; website layout management; general settings.&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Full Stack Web Developer (Full-Time)</title>
-      <link>http://localhost:1313/en/resume/9-znaptxt/</link>
+      <link>https://ivopc.github.io/en/resume/9-znaptxt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/resume/9-znaptxt/</guid>
+      <guid>https://ivopc.github.io/en/resume/9-znaptxt/</guid>
       <description>&lt;p&gt;ZnapTxt is a SaaS SMS massive send platform with real time SMS progress send display.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Full Web Developer and Game Developer (Full time and Freelance)</title>
-      <link>http://localhost:1313/en/resume/1-fulltime/</link>
+      <link>https://ivopc.github.io/en/resume/1-fulltime/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/resume/1-fulltime/</guid>
+      <guid>https://ivopc.github.io/en/resume/1-fulltime/</guid>
       <description>&lt;p&gt;Freelancing using various web technologies. Maintenance of web systems and private servers for online multiplayer games. Development of web systems and games in general.&#xA;Institutional websites, landing pages, blogs, web apps, html5 hybrid apps. Systems maintenance, website building, updates. Pentest to find exploits in the system and mechanics of multiplayer online games and websites, construction and maintenance of online games systems and mechanics.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Game Developer and Full Stack Web Developer</title>
-      <link>http://localhost:1313/en/projects/2-valle/</link>
+      <link>https://ivopc.github.io/en/projects/2-valle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/projects/2-valle/</guid>
+      <guid>https://ivopc.github.io/en/projects/2-valle/</guid>
       <description>&lt;p&gt;&#xA;    &lt;i&gt;&lt;a href=&#34;https://monstervalle.onrender.com/&#34; target=&#34;_blank&#34;&gt;Monster Valle&lt;/a&gt;&lt;/i&gt; is a complete MMORPG game with turn-based battles and collectible monsters. The game has significantly contributed to my professional reputation and has opened doors to international opportunities.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&#xA;    Notable game mechanics: battle, farming, PvP, player market, quests, real-time multiplayer interactions, monster attack learning and leveling up, party, items, storyline, RPG systems in general, etc.&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&#xA;    The &lt;i&gt;&lt;a href=&#34;https://monstervalle.onrender.com/&#34; target=&#34;_blank&#34;&gt;old version&lt;/a&gt;&lt;/i&gt;, currently available for testing the game for non-commercial purposes and with &lt;b style=&#34;color: #c0392b;&#34;&gt;some bugs&lt;/b&gt;, has become open-source, and its code is available &lt;i&gt;&lt;a href=&#34;https://github.com/ivopc/Monster-Valle/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/i&gt;. I am working on a &lt;b&gt;completely new&lt;/b&gt; and &lt;b&gt;recreated from scratch&lt;/b&gt; version of the game.&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Game Developer and Full Stack Web Developer (Freelance)</title>
-      <link>http://localhost:1313/en/resume/8-stardust/</link>
+      <link>https://ivopc.github.io/en/resume/8-stardust/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/resume/8-stardust/</guid>
+      <guid>https://ivopc.github.io/en/resume/8-stardust/</guid>
       <description>&lt;p&gt;Stardust Coin Flip is a minigame developed in a single day as part of a collection of games designed for internal betting, serving as a complement to the main games.&lt;/p&gt;&#xA;&lt;p style=&#34;color:#f1c40f;&#34;&gt;&#xA;    &lt;b&gt;Note&lt;/b&gt;: The company shelved the project and did not proceed with the development of other minigames.&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Game Developer and Full Stack Web Developer (Full-Time)</title>
-      <link>http://localhost:1313/en/resume/5-blazebet/</link>
+      <link>https://ivopc.github.io/en/resume/5-blazebet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/resume/5-blazebet/</guid>
+      <guid>https://ivopc.github.io/en/resume/5-blazebet/</guid>
       <description>&lt;p style=&#34;color: #c0392b;&#34;&gt;&#xA;    &lt;b&gt;DISCLAIMER: The &#34;company&#34; did not compensate its employees, and we experienced non-payment, bad faith and scam from them, so I decided to make my part of the project &lt;a href=&#34;https://github.com/ivopc/checkers-multiplayer-game-phaser-nest/&#34; target=&#34;_blank&#34;&gt;open-source&lt;/a&gt;.&lt;/b&gt;&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Game Developer and Full Stack Web Developer (Full-Time)</title>
-      <link>http://localhost:1313/en/resume/7-rainbet/</link>
+      <link>https://ivopc.github.io/en/resume/7-rainbet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/resume/7-rainbet/</guid>
+      <guid>https://ivopc.github.io/en/resume/7-rainbet/</guid>
       <description>&lt;p&gt;Rainbet BlackJack is an original game from the Rainbet casino, which I began developing. Its architecture and core back-end foundation were structured following well-established principles, adapted specifically for this type of game, which demands a robust architecture and clean, well-written code.&lt;/p&gt;&#xA;&lt;p style=&#34;color:#f1c40f;&#34;&gt;&#xA;    &lt;b&gt;Note&lt;/b&gt;: Due to health reasons, I left the company before the game was completed.&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Game Development and 3D Game Art</title>
-      <link>http://localhost:1313/en/education/1-saga/</link>
+      <link>https://ivopc.github.io/en/education/1-saga/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/education/1-saga/</guid>
+      <guid>https://ivopc.github.io/en/education/1-saga/</guid>
       <description>&lt;p&gt;Unreal Engine, Photoshop and Maya. Game Design and 3D Game Art.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Junior Game Developer and Front-End Developer (Full-Time)</title>
-      <link>http://localhost:1313/en/resume/2-igs/</link>
+      <link>https://ivopc.github.io/en/resume/2-igs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/resume/2-igs/</guid>
+      <guid>https://ivopc.github.io/en/resume/2-igs/</guid>
       <description>&lt;p&gt;Development of casino and videobingo web games produced for Ortiz Gaming.&lt;/p&gt;</description>
     </item>
     <item>
       <title>NFT Game Developer and Full Stack Web Developer (Freelance)</title>
-      <link>http://localhost:1313/en/resume/3-oni/</link>
+      <link>https://ivopc.github.io/en/resume/3-oni/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/resume/3-oni/</guid>
+      <guid>https://ivopc.github.io/en/resume/3-oni/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://onisquad.gg/&#34; target=&#34;_blank&#34;&gt;Oni Mansion&lt;/a&gt; is an online multiplayer NFT casual game where players can decorate their homes with scary decorations and haunt each other&amp;rsquo;s houses.&lt;/p&gt;</description>
     </item>
     <item>
       <title>NFT Game Developer and Full Stack Web Developer (Full-Time)</title>
-      <link>http://localhost:1313/en/resume/4-solport/</link>
+      <link>https://ivopc.github.io/en/resume/4-solport/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/resume/4-solport/</guid>
+      <guid>https://ivopc.github.io/en/resume/4-solport/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://solsteads.com/&#34; target=&#34;_blank&#34;&gt;Solstead Surreal World&lt;/a&gt; is a Web-based NFT social multiplayer online game with gameplay similar to &lt;a href=&#34;https://clubpenguin.fandom.com/wiki/Club_Penguin&#34; target=&#34;_blank&#34;&gt;Club Penguin&lt;/a&gt;, where the player has an NFT character and can purchase NFT land within a metaverse.&lt;/p&gt;&#xA;&lt;p&gt;&#xA;    &lt;b&gt;Note:&lt;/b&gt; The &lt;i&gt;Solstead Surreal World&lt;/i&gt; that I developed has been archived, and its code base was reused to create &lt;a href=&#34;https://arcade.solsteads.com/&#34; target=&#34;_blank&#34;&gt;Solstead Arcade&lt;/a&gt; games.&#xA;&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resumes on Ivo Camargo - Desenvolvedor Web e Desenvolvedor de Jogos</title>
-    <link>http://localhost:1313/resume/</link>
+    <link>https://ivopc.github.io/resume/</link>
     <description>Recent content in Resumes on Ivo Camargo - Desenvolvedor Web e Desenvolvedor de Jogos</description>
     <generator>Hugo</generator>
     <language>pt-BR</language>
-    <atom:link href="http://localhost:1313/resume/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ivopc.github.io/resume/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Desenvolvedor de Jogos e Desenvolvedor Web Full Stack (Freelance)</title>
-      <link>http://localhost:1313/resume/8-stardust/</link>
+      <link>https://ivopc.github.io/resume/8-stardust/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/resume/8-stardust/</guid>
+      <guid>https://ivopc.github.io/resume/8-stardust/</guid>
       <description>&lt;p&gt;Stardust Coin Flip é um minigame desenvolvido em um dia como parte de uma coleção de jogos voltados para apostas internas, servindo como complemento aos jogos principais.&lt;/p&gt;&#xA;&lt;p style=&#34;color:#f1c40f;&#34;&gt;&#xA;    &lt;b&gt;Nota&lt;/b&gt;: A empresa engavetou o projeto e não deu continuidade à produção de outros minigames.&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Desenvolvedor de Jogos e Desenvolvedor Web Full Stack (Tempo Integral)</title>
-      <link>http://localhost:1313/resume/5-blazebet/</link>
+      <link>https://ivopc.github.io/resume/5-blazebet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/resume/5-blazebet/</guid>
+      <guid>https://ivopc.github.io/resume/5-blazebet/</guid>
       <description>&lt;p&gt;Jogo de damas multiplayer online em tempo real.&lt;/p&gt;&#xA;&lt;p style=&#34;color: #c0392b;&#34;&gt;&#xA;    &lt;b&gt;DESTAQUE: A &#34;empresa&#34; não remunerou os empregados e sofremos calote, então decidi deixar a minha parte do projeto &lt;a href=&#34;https://github.com/ivopc/checkers-multiplayer-game-phaser-nest/&#34; target=&#34;_blank&#34;&gt;open-source&lt;/a&gt;.&lt;/b&gt;&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Desenvolvedor de Jogos e Desenvolvedor Web Full Stack (Tempo Integral)</title>
-      <link>http://localhost:1313/resume/7-rainbet/</link>
+      <link>https://ivopc.github.io/resume/7-rainbet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/resume/7-rainbet/</guid>
+      <guid>https://ivopc.github.io/resume/7-rainbet/</guid>
       <description>&lt;p&gt;Rainbet BlackJack é um jogo original do cassino Rainbet, que comecei a desenvolver. Sua arquitetura e base principal no Back-End foram estruturadas seguindo princípios já consolidados, adaptados para esse tipo de jogo, que exige uma arquitetura robusta e um código bem escrito e limpo.&lt;/p&gt;&#xA;&lt;p style=&#34;color:#f1c40f;&#34;&gt;&#xA;    &lt;b&gt;Nota&lt;/b&gt;: Por questões de saúde, saí da empresa antes que o jogo fosse concluído.&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Desenvolvedor de Jogos Jr e Desenvolvedor Front-End (Tempo Integral)</title>
-      <link>http://localhost:1313/resume/2-igs/</link>
+      <link>https://ivopc.github.io/resume/2-igs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/resume/2-igs/</guid>
+      <guid>https://ivopc.github.io/resume/2-igs/</guid>
       <description>&lt;p&gt;Desenvolvimento de jogos web de cassino e videobingo, produzidos para a Ortiz Gaming.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Desenvolvedor de Jogos NFT e Desenvolvedor Web Full Stack (Freelance)</title>
-      <link>http://localhost:1313/resume/3-oni/</link>
+      <link>https://ivopc.github.io/resume/3-oni/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/resume/3-oni/</guid>
+      <guid>https://ivopc.github.io/resume/3-oni/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://onisquad.gg/&#34; target=&#34;_blank&#34;&gt;Oni Mansion&lt;/a&gt; é um jogo de NFT multiplayer online casual onde o jogador pode decorar sua casa com decorações assustadoras e assombrar a casa se outros jogadores.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Desenvolvedor de Jogos NFT e Desenvolvedor Web Full Stack (Tempo Integral)</title>
-      <link>http://localhost:1313/resume/4-solport/</link>
+      <link>https://ivopc.github.io/resume/4-solport/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/resume/4-solport/</guid>
+      <guid>https://ivopc.github.io/resume/4-solport/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://solsteads.com/&#34; target=&#34;_blank&#34;&gt;Solstead Surreal World&lt;/a&gt; é um jogo de NFT Web-based social multiplayer online com gameplay semelhante a &lt;a href=&#34;https://clubpenguin.fandom.com/wiki/Club_Penguin&#34; target=&#34;_blank&#34;&gt;Club Penguin&lt;/a&gt; onde o jogador tem um personagem NFT e pode comprar um terreno de NFT dentro de um metaverso.&lt;/p&gt;&#xA;&lt;p style=&#34;color:#f1c40f;&#34;&gt;&#xA;    &lt;b&gt;Nota:&lt;/b&gt; O &lt;i&gt;Solstead Surreal World&lt;/i&gt; que desenvolvi foi arquivado e sua base foi reutilizada para fazer os jogos &lt;a href=&#34;https://arcade.solsteads.com/&#34; target=&#34;_blank&#34;&gt;Solstead Arcade&lt;/a&gt;.&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Desenvolvedor Web e Desenvolvedor de Jogos (Tempo Integral e Freelance)</title>
-      <link>http://localhost:1313/resume/1-fulltime/</link>
+      <link>https://ivopc.github.io/resume/1-fulltime/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/resume/1-fulltime/</guid>
+      <guid>https://ivopc.github.io/resume/1-fulltime/</guid>
       <description>&lt;p&gt;Freelance utilizando as mais variadas tecnologias web. Manutenção em sistemas web e sistemas de servidores privados de jogos multiplayer online. Desenvolvimento de sistemas web e jogos no geral.&#xA;Websites institucionais, landing pages, blogs, aplicativos web, aplicativos híbridos em html5. Manutenção de sistemas, construção de sites, pentest para encontrar vulnerabilidades no sistema e mecânicas de jogos online multiplayer e sites, construção e manutenção de sistemas e mecânicas de jogos online.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Desenvolvedor Web Full Stack (Tempo Integral)</title>
-      <link>http://localhost:1313/resume/9-znaptxt/</link>
+      <link>https://ivopc.github.io/resume/9-znaptxt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/resume/9-znaptxt/</guid>
+      <guid>https://ivopc.github.io/resume/9-znaptxt/</guid>
       <description>&lt;p&gt;ZnapTxt é uma plataforma SaaS de envio massivo de SMS com progresso de envio de SMS exibido em tempo real.&lt;/p&gt;</description>
     </item>
   </channel>
