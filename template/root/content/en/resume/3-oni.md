@@ -10,6 +10,8 @@ showcase: "oni-showcase"
 games:
     - link: "https://onisquad.gg/"
       name: "Oni Mansion"
+    - link: "https://opensea.io/collection/oni-mansion-nft"
+      name: "Oni Mansion NFTs at OpenSea"
 techInfoList:
     - "JavaScript + Jsdoc in the game client using PhaserJS, web3.js, and VueJS."
     - "JSON for the game client layout configuration."

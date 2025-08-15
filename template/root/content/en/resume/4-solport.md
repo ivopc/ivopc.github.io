@@ -22,6 +22,12 @@ games:
       name: "Solstead Surreal World"
     - link: "https://arcade.solsteads.com/"
       name: "Solstead Arcade"
+    - link: "https://magiceden.io/marketplace/citizens_by_solsteads"
+      name: "Solstead NFTs at Magic Eden"
+    - link: "https://solanart.io/collections/solsteadscitizens"
+      name: "Solstead NFTs at Solanart"
+    - link: "https://www.tensor.trade/trade/solsteads_surreal_estate"
+      name: "Solstead NFTs at Tensor"
 ---
 
 <p><a href="https://solsteads.com/" target="_blank">Solstead Surreal World</a> is a Web-based NFT social multiplayer online game with gameplay similar to <a href="https://clubpenguin.fandom.com/wiki/Club_Penguin" target="_blank">Club Penguin</a>, where the player has an NFT character and can purchase NFT land within a metaverse.</p>
