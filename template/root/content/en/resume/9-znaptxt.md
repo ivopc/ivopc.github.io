@@ -1,6 +1,6 @@
 ---
 index: 9
-title: "Full Stack Web Developer (Full Time)"
+title: "Full Stack Web Developer (Full-Time)"
 workTime: "September, 2024 - August, 2025"
 company: ZnapTxt
 companyLink: "https://znaptxt.com/"

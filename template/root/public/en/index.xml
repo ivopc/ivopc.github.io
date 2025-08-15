@@ -92,7 +92,7 @@
       <description>&lt;p&gt;&#xA;    &lt;i&gt;&lt;a href=&#34;https://github.com/ivopc/open-rifinha/&#34; target=&#34;_blank&#34;&gt;Open Rifinha&lt;/a&gt;&lt;/i&gt; is a web-based prize draw raffle system that leverages my web development skills, incorporating the payment system of &#xA;    &lt;a href=&#34;https://www.mercadopago.com.br/&#34; target=&#34;_blank&#34;&gt;Mercado Pago&lt;/a&gt; via &#xA;    &lt;a href=&#34;https://www.bcb.gov.br/estabilidadefinanceira/pix&#34; target=&#34;_blank&#34;&gt;PIX&lt;/a&gt;. &#xA;&lt;/p&gt;&#xA;&lt;p&gt;&#xA;    The &lt;i&gt;public website&lt;/i&gt; features: a homepage displaying available prizes and a summarized list of past draw winners. Navigation menu includes: all ongoing and completed draws; all winners; customer purchase inquiries. Footer with additional information, social media links, and direct contact with the administrator.&#xA;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;    &lt;li&gt;&lt;i&gt;Prize draw raffle tickets Purchase&lt;/i&gt;: Customers can choose the number of prize draw raffles tickets they want to purchase in either a &lt;a href=&#34;https://www.dicio.com.br/randomica/&#34; target=&#34;_blank&#34;&gt;randomized&lt;/a&gt; or specific number selection mode. A &lt;a href=&#34;https://www.bcb.gov.br/estabilidadefinanceira/pix&#34; target=&#34;_blank&#34;&gt;PIX&lt;/a&gt; payment with QR Code is generated, and the system automatically marks the purchase as complete when the &lt;a href=&#34;https://www.bcb.gov.br/estabilidadefinanceira/pix&#34; target=&#34;_blank&#34;&gt;PIX&lt;/a&gt; payment is confirmed. The system includes a promotion system based on the number of tickets purchased, configured in the admin dashboard.&lt;/li&gt;&#xA;    &lt;li&gt;&lt;i&gt;Winners&lt;/i&gt;: List of all draw winners.&lt;/li&gt;&#xA;    &lt;li&gt;&lt;i&gt;Customer Tickets&lt;/i&gt;: Customers can check the current status of their purchases.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&#xA;    &lt;i&gt;Admin Dashboard&lt;/i&gt;: Login; index showing overall sales statistics; manage draws; manage ticket purchases; detailed sales ranking; website layout management; general settings.&#xA;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Full Stack Web Developer (Full Time)</title>
+      <title>Full Stack Web Developer (Full-Time)</title>
       <link>http://localhost:1313/en/resume/9-znaptxt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/en/resume/9-znaptxt/</guid>
@@ -120,18 +120,18 @@
       <description>&lt;p&gt;Stardust Coin Flip is a minigame developed in a single day as part of a collection of games designed for internal betting, serving as a complement to the main games.&lt;/p&gt;&#xA;&lt;p style=&#34;color:#f1c40f;&#34;&gt;&#xA;    &lt;b&gt;Note&lt;/b&gt;: The company shelved the project and did not proceed with the development of other minigames.&#xA;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Game Developer and Full Stack Web Developer (Full Time)</title>
-      <link>http://localhost:1313/en/resume/7-rainbet/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/resume/7-rainbet/</guid>
-      <description>&lt;p&gt;Rainbet BlackJack is an original game from the Rainbet casino, which I began developing. Its architecture and core back-end foundation were structured following well-established principles, adapted specifically for this type of game, which demands a robust architecture and clean, well-written code.&lt;/p&gt;&#xA;&lt;p style=&#34;color:#f1c40f;&#34;&gt;&#xA;    &lt;b&gt;Note&lt;/b&gt;: Due to health reasons, I left the company before the game was completed.&#xA;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Game Developer and Full Stack Web Developer (Full-Time)</title>
       <link>http://localhost:1313/en/resume/5-blazebet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/en/resume/5-blazebet/</guid>
       <description>&lt;p style=&#34;color: #c0392b;&#34;&gt;&#xA;    &lt;b&gt;DISCLAIMER: The &#34;company&#34; did not compensate its employees, and we experienced non-payment, bad faith and scam from them, so I decided to make my part of the project &lt;a href=&#34;https://github.com/ivopc/checkers-multiplayer-game-phaser-nest/&#34; target=&#34;_blank&#34;&gt;open-source&lt;/a&gt;.&lt;/b&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Game Developer and Full Stack Web Developer (Full-Time)</title>
+      <link>http://localhost:1313/en/resume/7-rainbet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/resume/7-rainbet/</guid>
+      <description>&lt;p&gt;Rainbet BlackJack is an original game from the Rainbet casino, which I began developing. Its architecture and core back-end foundation were structured following well-established principles, adapted specifically for this type of game, which demands a robust architecture and clean, well-written code.&lt;/p&gt;&#xA;&lt;p style=&#34;color:#f1c40f;&#34;&gt;&#xA;    &lt;b&gt;Note&lt;/b&gt;: Due to health reasons, I left the company before the game was completed.&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Game Development and 3D Game Art</title>

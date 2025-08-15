@@ -1,6 +1,6 @@
 ---
 index: 6
-title: "Game Developer and Full Stack Web Developer (Full Time)"
+title: "Game Developer and Full Stack Web Developer (Full-Time)"
 workTime: "April, 2024 - June, 2024"
 company: Rainbet
 companyLink: "https://rainbet.com/"

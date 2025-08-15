@@ -18,12 +18,12 @@ techInfoList:
 games:
     - link: "https://slotcatalog.com/pt/slots/Roma-Bingo"
       name: "Roma Bingo"
-    - link: "https://www.playbonds.com/pt/jogos/video-bingo/descricao/5227/Night_Bingo"
-      name: "Night Bingo"
     - link: "https://slotcatalog.com/pt/slots/Dulce-Mania"
       name: "Dulce Mania"
     - link: "https://slotcatalog.com/pt/slots/Bubble-Mania"
       name: "Bubble Mania"
+    - link: "https://www.playbonds.com/pt/jogos/video-bingo/descricao/5227/Night_Bingo"
+      name: "Night Bingo"
     - link: "http://www.ortizgaming.com/en/products/games/"
       name: "E outros jogos..."
 ---

@@ -182,6 +182,18 @@
                 href="http://localhost:1313/en/projects/3-rifinha/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/resume/9-znaptxt/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-BR"
+                href="http://localhost:1313/resume/9-znaptxt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/resume/9-znaptxt/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/resume/1-fulltime/</loc>
     <xhtml:link
                 rel="alternate"
@@ -218,18 +230,6 @@
                 href="http://localhost:1313/en/resume/8-stardust/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/resume/7-rainbet/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-BR"
-                href="http://localhost:1313/resume/7-rainbet/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/resume/7-rainbet/"
-                />
-  </url><url>
     <loc>http://localhost:1313/en/resume/5-blazebet/</loc>
     <xhtml:link
                 rel="alternate"
@@ -240,6 +240,18 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/resume/5-blazebet/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/resume/7-rainbet/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-BR"
+                href="http://localhost:1313/resume/7-rainbet/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/resume/7-rainbet/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/education/1-saga/</loc>
