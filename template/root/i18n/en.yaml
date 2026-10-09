@@ -11,9 +11,17 @@ skillsMainStacks: "Full Stack Web developer and Game Developer focused"
 skillsSecondaryStacks: "I know these other languages"
 skillsMainFrameworks: "My top frameworks knowledge"
 skillsSecondaryFrameworks: "I certainly also know and have worked with libs and general tools for the web"
-skillsSecondaryGamesTools: "Other game engines and game frameworks that I developed too"
+skillsSecondaryGamesTools: "Other game engines and game frameworks that I worked too"
 skillsDatabases: "Databases"
-skillsStudying: "Currently studying these to acquire proficiency"
+skillsArtificialIntelligence: |
+  Following the widespread adoption of AI, I began working with AI agent-assisted development, 
+  using tools such as Claude Code, OpenAI Codex, ChatGPT, and Gemini to implement, refactor, test, and analyze codebases. 
+  I have hands-on experience with Context Engineering, agent harnesses, and MCP, structuring context, documentation, 
+  instructions, architecture, and workflows to enhance agents' ability to understand complex codebases and accelerate development 
+  cycles while maintaining architectural decision-making and human oversight.
+skillsCV: "Download my Curriculum Vitae"
+cvLink: "/assets/cv/cv-en.pdf"
+
 mainFocus: "Main Focus"
 resume: "Resume"
 education: "Education"

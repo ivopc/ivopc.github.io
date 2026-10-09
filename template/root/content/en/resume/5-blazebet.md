@@ -19,5 +19,5 @@ games:
 ---
 
 <p style="color: #c0392b;">
-    <b>DISCLAIMER: The "company" did not compensate its employees, and we experienced non-payment, bad faith and scam from them, so I decided to make my part of the project <a href="https://github.com/ivopc/checkers-multiplayer-game-phaser-nest/" target="_blank">open-source</a>.</b>
+    <a href="https://github.com/ivopc/checkers-multiplayer-game-phaser-nest/" target="_blank">open-source</a>.
 </p>

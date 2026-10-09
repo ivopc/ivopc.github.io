@@ -23,11 +23,12 @@ The older and legacy version of my game is online here (working in a new one now
 https://monstervalle.onrender.com/
 
 - Gambling Games -
-Good experience with gambling/cassino web-based (PhaserJS, Canvas, WebGL) games: 
+Good experience with gambling/cassino web-based (PhaserJS, PixiJS, Canvas, WebGL) games: 
 Worked for a cassino video bingo (in person) game studio and developed and maintenence a game framework built on top of PhaserJS to manage game templates on top of it, I also developed a Debug GUI Tool to make more easy the development and maintenence, bring new ideas about engineering and optimizations in game spefic behaviors, also created some python scripts to artists team that they can do some automatations with arts patterns. Developed a multiplayer online checkers game for a bet company. 
 Developed from scratch a a Multiplayer Online Gambling Checkers Game with PhaserJS: Real-time player interaction with room and/or channel systems using network events, websockets, matchmaking and authoritative server with clean and organized proprietary architecture based on Entity-Rule-Manager with a well coded event system in the gameloop and gameflow.
 Developed a Cassino BlackJack game using a robust and clean architecture focusing in long term maintenance and good to read code. (PixiJS)
 Developed a Coin Flip minigame for a side-games collection of a NFT games company. (PhaserJS)
+Worked with C and C++ with casino videovingo embedded systems in person on FBM Brasil, I've learned a lot of C++ features. 
 Related Projects:
 https://ortizgaming.com/en/products/games/
 https://slotcatalog.com/pt/slots/Roma-Bingo/
@@ -35,6 +36,10 @@ https://slotcatalog.com/pt/slots/Bubble-Mania/
 https://slotcatalog.com/pt/slots/Beach-Bingo/
 https://github.com/ivopc/checkers-multiplayer-game-phaser-nest/
 https://rainbet.com/pt/casino/originals/blackjack/
+https://fbm.digital/pt/game/bingopilipino-bingo-traditional
+https://fbm.digital/pt/game/champion2-bingo-traditional/
+https://fbm.digital/pt/game/multimega-bingo-traditional
+https://fbm.digital/pt/game/plus3-bingo-traditional
 
 - NFT Games -
 - Developed two NFT games with PhaserJS, a club penguin multiplayer online social game based with metaverse and minigames. Casual social game with NFT haunted houses traits collections. Smart Contracts interactions and I have sense with solidity and Rust (also planning to do a mid-level open source project with smart contracts). pinata, web3js, moralis, truffle.
@@ -51,7 +56,7 @@ https://github.com/ivopc/shoppinho-ecommerce/
 
 - Games in general -
 Extreme sense of game development and coding into game frameworks/engines in general. I also know how to use image editor like photoshop, I know a little about digital art ad drawing, 3d, modelling and video editor. 
-Maintenance in some multiplayer online game servers and casual games. It envolves private servers: C#, Java, C. 
+Maintenance in some multiplayer online game servers and casual games. It envolves private servers: C#, Java, C and C++. 
 LibGDX or "Phaser-like" frameworks and sense of games engines like Unity or Godot (I made personal projets with that). Construct, GDevelop, RPG Maker, etc.
 Related Projects:
 https://github.com/ivopc/Don-t-Tap-the-Mole/
@@ -71,3 +76,7 @@ https://github.com/SocketCluster/socketcluster/issues/227/
 - DevOps -
 Linux user here. Amazon Web Services, Digital Ocean, Heroku, Render, VPS Hosting ang Cloud in general. Docker. Git, GitHub, GitLab, e CI/CD. Linux Server,
 Windows Server, SSH, Nginx e Apache. SSL/TLS, Let's Encrypt, DNS.
+Crowdsec, Fail2Ban, Prometheus, Grafana, Prometheus e Lynis.
+
+- Main langs -
+TypeScript, JavaScript, C and C++

@@ -9,7 +9,7 @@ location: "Presencial - São Paulo, São Paulo - Brasil"
 showcase: "ortiz-showcase"
 techInfoList:
     - "Front-End com JavaScript e TypeScript, webpack, gulp. PhaserJS é o principal framework."
-    - "Usando padrões de arquitetura criativos para fazer manutenção e implementações no game framework autoral da própria empresa feito no topo do PhaserJS."
+    - "Usando padrões de arquitetura criativos para fazer manutenção e implementações no game framework autoral da própria empresa feito em cima do PhaserJS."
     - "Criação de comportamento de debug durante o tempo de execução do jogo com uma GUI para otimizar a produção e manutenção do jogo."
     - "Implementação e manutenção em AJAX para carregar assets e solicitar os valores de sorteio, dados do jogador do jogo, etc."
     - "Implementação e manutenção nos templates dos games com JSON; comportamentos JSON automatizados para cada jogo; carregamento de scripts para cada jogo com lazy load."

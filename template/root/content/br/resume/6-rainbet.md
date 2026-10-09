@@ -1,10 +1,10 @@
 ---
-index: 6
+index: 5
 title: "Desenvolvedor de Jogos e Desenvolvedor Web Full Stack (Tempo Integral)"
 workTime: "Abril, 2024 - Junho, 2024"
 company: Rainbet
 companyLink: "https://rainbet.com/"
-companyLogo: "/assets/img/portfolio/rainbet-logo.svg"
+companyLogo: "/assets/img/portfolio/rainbet_logo.jpg"
 location: "Remoto - Estados Unidos"
 showcase: "rainbet-blackjack-showcase"
 techInfoDescription: ""
@@ -16,6 +16,6 @@ games:
       name: "Rainbet BlackJack"
 ---
 Rainbet BlackJack é um jogo original do cassino Rainbet, que comecei a desenvolver. Sua arquitetura e base principal no Back-End foram estruturadas seguindo princípios já consolidados, adaptados para esse tipo de jogo, que exige uma arquitetura robusta e um código bem escrito e limpo.
-<p style="color:#f1c40f;">
+<p style="color: #f1c40f;">
     <b>Nota</b>: Por questões de saúde, saí da empresa antes que o jogo fosse concluído.
 </p>

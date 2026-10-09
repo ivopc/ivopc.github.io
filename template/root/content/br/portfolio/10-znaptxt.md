@@ -44,4 +44,10 @@ images:
       title: "ZnapTxt"
       filter: "web"
       description:
+
+    - image: "/assets/img/portfolio/znaptxt-7.png"
+      link: "https://znaptxt.com/"
+      title: "ZnapTxt"
+      filter: "web"
+      description:
 ---

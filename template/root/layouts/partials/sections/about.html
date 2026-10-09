@@ -13,7 +13,7 @@
                                     <li>
                                         <i class="bi bi-chevron-right"></i>
                                         <strong>{{ i18n "bornDate" }}:</strong>
-                                        <span>{{ .Site.Data.me.bornDate }}</span>
+                                        <span id="born-date">{{ .Site.Data.me.bornDate }}</span>
                                     </li>
                                     <li>
                                         <i class="bi bi-chevron-right"></i>
@@ -41,6 +41,12 @@
                 </div>
                 <div class="separator"></div>
                     {{ .Content }}
+            <div class="text-center mt-4">
+                        <a href="{{ i18n "cvLink" }}" target="_blank">
+                        <button type="button" class="btn btn-outline-info">
+                            <i class="bx bxs-download"></i> {{ i18n "skillsCV" }}
+                        </button>
+            </div>
             </div>
         </div>
     </div>

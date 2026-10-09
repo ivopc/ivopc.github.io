@@ -2,7 +2,7 @@
 index: 0
 title: "Desenvolvedor Web e Desenvolvedor de Jogos (Tempo Integral e Freelance)"
 workTime: "2015 - Agora"
-techInfoDescription: "Desenvolvedor Web utilizando PHP, MySQL, PostgreSQL, JavaScript, TypeScript, jQuery, bootstrap, wordpress, VueJS, ReactJS, NuxtJS, NestJS, SocketIO, jQuery etc um pouco de Python e C#. Desenvolvedor de Jogos Utilizando PhaserJS, PixiJS, Three.js e outras ferramentas."
+techInfoDescription: "Desenvolvedor Web utilizando JavaScript, TypeScript, , bootstrap, , VueJS, ReactJS, NuxtJS, NestJS, PostgreSQL, SocketIO, jQuery, PHP, MySQL, , wordpress, Python e C# e etc. Desenvolvedor de Jogos Utilizando PhaserJS, PixiJS,  Three.js, C, C++ e outras ferramentas."
 ---
 
 Freelance utilizando as mais variadas tecnologias web. Manutenção em sistemas web e sistemas de servidores privados de jogos multiplayer online. Desenvolvimento de sistemas web e jogos no geral. 

@@ -8,12 +8,19 @@ availabilityTitle: "Freelance e trabalho de tempo integral"
 availability: "Disponível"
 skillsTitle: "Conhecimento Técnico"
 skillsMainStacks: "Desenvolvedor Web Full Stack e Desenvolvedor de Jogos focado"
-skillsSecondaryStacks: "Conheço essas outras linguagens"
+skillsSecondaryStacks: "Outras linguagens"
 skillsMainFrameworks: "Meu foco principal de frameworks"
 skillsSecondaryFrameworks: "Também conheço e já trabalhei com as libs e ferramentas generalistas para web e afins"
 skillsSecondaryGamesTools: "Outras game engines e game frameworks que também já tive experiência"
 skillsDatabases: "Banco de dados"
-skillsStudying: "Estudando essas ferramentas"
+skillsArtificialIntelligence: |
+  Após a adoção geral de IA, comecei a trabalhar com desenvolvimento assistido por agentes de IA, utilizando ferramentas como Claude Code, OpenAI Codex, ChatGPT, Gemini para implementar, 
+  refatorar, testar e analisar bases de código. Possuo experiência prática em Context Engineering, harness, MCP,  estruturando contexto, 
+  documentação, instruções, arquitetura e workflows para aumentar a capacidade dos agentes de compreender 
+  codebases complexas e acelerar ciclos de desenvolvimento, mantendo decisões arquiteturais e supervisão humana.
+skillsCV: "Baixe meu Curriculo"
+cvLink: "/assets/cv/cv-br.pdf"
+
 mainFocus: "Foco Principal"
 resume: "Currículo"
 education: "Educação"
@@ -30,7 +37,7 @@ personalProjects: "Projetos Pessoais"
 contact: "Contato"
 brLang: "Português Brasileiro - Brazil"
 enLang: "Inglês - English"
-"all": "Todos"
+all: "Todos"
 general: "geral"
 and: "e"
 at: "em"

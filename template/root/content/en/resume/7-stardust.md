@@ -1,5 +1,5 @@
 ---
-index: 7
+index: 6
 title: "Game Developer and Full Stack Web Developer (Freelance)"
 workTime: "August, 2024 (Done in one day)"
 company: Stardust

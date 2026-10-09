@@ -1,7 +1,15 @@
+iniciar:
+
 snap run hugo serve -D
+
+compilar:
+
+snap run hugo --minify
 
 
 version:
 
 Name  Version  Rev    Tracking       Publisher     Notes
 hugo  0.145.0  22935  latest/stable  hugo-authors  -
+
+

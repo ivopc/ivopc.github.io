@@ -18,6 +18,6 @@ games:
       name: "Damas Multiplayer Online"
 ---
 Jogo de damas multiplayer online em tempo real.
-<p style="color: #c0392b;">
-    <b>DESTAQUE: A "empresa" não remunerou os empregados e sofremos calote, então decidi deixar a minha parte do projeto <a href="https://github.com/ivopc/checkers-multiplayer-game-phaser-nest/" target="_blank">open-source</a>.</b>
+<p >
+    <a href="https://github.com/ivopc/checkers-multiplayer-game-phaser-nest/" target="_blank">Open-source</a>.</b>
 </p>
