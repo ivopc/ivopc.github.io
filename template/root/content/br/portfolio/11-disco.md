@@ -34,7 +34,7 @@ images:
       description:
 
     - image: "/assets/img/portfolio/disco-0.png"
-      video: "/assets/img/portfolio/disco-0.mov"
+      video: "/assets/img/portfolio/disco-0-video.mov"
       link: "#"
       title: "Disco Game"
       filter: "games"

@@ -9,8 +9,8 @@ location: "Remote - United States"
 showcase: "rainbet-blackjack-showcase"
 techInfoDescription: ""
 techInfoList:
-    - "TypeScript with ReactJS e NextJS, PixiJS, WebGL e Canvas no FrontEnd."
-    - "TypeScript with NestJS e TypeORM no BackEnd."
+    - "TypeScript with ReactJS e NextJS, PixiJS, WebGL e Canvas in FrontEnd."
+    - "TypeScript with NestJS e TypeORM in BackEnd."
 games:
     - link: "https://rainbet.com/casino/originals/blackjack"
       name: "Rainbet BlackJack"
