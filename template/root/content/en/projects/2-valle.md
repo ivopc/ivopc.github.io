@@ -24,5 +24,5 @@ techInfoList:
     The <i><a href="https://monstervalle.onrender.com/" target="_blank">old version</a></i>, currently available for testing the game for non-commercial purposes and with <b style="color: #c0392b;">some bugs</b>, has become open-source, and its code is available <i><a href="https://github.com/ivopc/Monster-Valle/" target="_blank">here</a></i>. I am working on a <b>completely new</b> and <b>recreated from scratch</b> version of the game.
 </p>
 <p>
-     <i><a href="https://phaser.discourse.group/t/phaser-3-wip-open-source-monster-valle-the-pokemon-based-mmorpg/13886" target="_blank">Here</a></i> some engineering features of game using Entity-Component-System anf visual layout builder with JSON and others game engine/framework features.
+     <i><a href="https://phaser.discourse.group/t/phaser-3-wip-open-source-monster-valle-the-pokemon-based-mmorpg/13886" target="_blank">Here</a></i> some engineering features of game using: Entity-Component-System, visual layout builder with JSON, responsive layout resolutions and others game engine/framework features.
 </p>

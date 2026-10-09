@@ -26,5 +26,5 @@ techInfoList:
     para testar o jogo, sem fins comerciais e com <b style="color: #c0392b;">alguns bugs</b>, tornou-se open-source e seu código está disponível <i><a href="https://github.com/ivopc/Monster-Valle/" target="_blank">aqui</a></i>. Estou trabalhando em uma versão do jogo <b>totalmente nova</b> e <b>refeita do zero</b>.
 </p>
 <p>
-     <i><a href="https://phaser.discourse.group/t/phaser-3-wip-open-source-monster-valle-the-pokemon-based-mmorpg/13886" target="_blank">Aqui</a></i> há alguns aspectos da construção de engenharia do jogo utilizando Entity-Component-System construtor visual do layout com JSON e outras características de game engine e game framework.
+     <i><a href="https://phaser.discourse.group/t/phaser-3-wip-open-source-monster-valle-the-pokemon-based-mmorpg/13886" target="_blank">Aqui</a></i> há alguns aspectos da construção de engenharia do jogo utilizando: Entity-Component-System, construtor visual do layout com JSON, layout do jogo responsivo e outras características de game engine e game framework.
 </p>

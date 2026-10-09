@@ -4,7 +4,7 @@ title: "Game Developer and Full Stack Web Developer (Full-Time)"
 workTime: "April, 2024 - June, 2024"
 company: Rainbet
 companyLink: "https://rainbet.com/"
-companyLogo: "/assets/img/portfolio/rainbet-logo.svg"
+companyLogo: "/assets/img/portfolio/rainbet_logo.jpg"
 location: "Remote - United States"
 showcase: "rainbet-blackjack-showcase"
 techInfoDescription: ""
